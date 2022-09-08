@@ -4,8 +4,64 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ccbd816a07b206f971042295b899d1ba",
+    "content-hash": "deeab2c39807cdcf6a26cb71f5dbb95d",
     "packages": [
+        {
+            "name": "bordoni/phpass",
+            "version": "0.3.6",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/bordoni/phpass.git",
+                "reference": "12f8f5cc03ebb7efd69554f104afe9aa1aa46e1a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/bordoni/phpass/zipball/12f8f5cc03ebb7efd69554f104afe9aa1aa46e1a",
+                "reference": "12f8f5cc03ebb7efd69554f104afe9aa1aa46e1a",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "replace": {
+                "hautelook/phpass": "0.3.*"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Hautelook": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Public Domain"
+            ],
+            "authors": [
+                {
+                    "name": "Solar Designer",
+                    "email": "solar@openwall.com",
+                    "homepage": "http://openwall.com/phpass/"
+                },
+                {
+                    "name": "Gustavo Bordoni",
+                    "email": "gustavo@bordoni.me",
+                    "homepage": "https://bordoni.me"
+                }
+            ],
+            "description": "Portable PHP password hashing framework",
+            "homepage": "http://github.com/bordoni/phpass/",
+            "keywords": [
+                "blowfish",
+                "crypt",
+                "password",
+                "security"
+            ],
+            "support": {
+                "issues": "https://github.com/bordoni/phpass/issues",
+                "source": "https://github.com/bordoni/phpass/tree/0.3.6"
+            },
+            "time": "2012-08-31T00:00:00+00:00"
+        },
         {
             "name": "brick/math",
             "version": "0.10.2",
@@ -432,6 +488,73 @@
                 }
             ],
             "time": "2022-06-18T20:57:19+00:00"
+        },
+        {
+            "name": "fakerphp/faker",
+            "version": "v1.20.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/FakerPHP/Faker.git",
+                "reference": "37f751c67a5372d4e26353bd9384bc03744ec77b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/FakerPHP/Faker/zipball/37f751c67a5372d4e26353bd9384bc03744ec77b",
+                "reference": "37f751c67a5372d4e26353bd9384bc03744ec77b",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.1 || ^8.0",
+                "psr/container": "^1.0 || ^2.0",
+                "symfony/deprecation-contracts": "^2.2 || ^3.0"
+            },
+            "conflict": {
+                "fzaninotto/faker": "*"
+            },
+            "require-dev": {
+                "bamarni/composer-bin-plugin": "^1.4.1",
+                "doctrine/persistence": "^1.3 || ^2.0",
+                "ext-intl": "*",
+                "symfony/phpunit-bridge": "^4.4 || ^5.2"
+            },
+            "suggest": {
+                "doctrine/orm": "Required to use Faker\\ORM\\Doctrine",
+                "ext-curl": "Required by Faker\\Provider\\Image to download images.",
+                "ext-dom": "Required by Faker\\Provider\\HtmlLorem for generating random HTML.",
+                "ext-iconv": "Required by Faker\\Provider\\ru_RU\\Text::realText() for generating real Russian text.",
+                "ext-mbstring": "Required for multibyte Unicode string functionality."
+            },
+            "type": "library",
+            "extra": {
+                "branch-alias": {
+                    "dev-main": "v1.20-dev"
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Faker\\": "src/Faker/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "François Zaninotto"
+                }
+            ],
+            "description": "Faker is a PHP library that generates fake data for you.",
+            "keywords": [
+                "data",
+                "faker",
+                "fixtures"
+            ],
+            "support": {
+                "issues": "https://github.com/FakerPHP/Faker/issues",
+                "source": "https://github.com/FakerPHP/Faker/tree/v1.20.0"
+            },
+            "time": "2022-07-20T13:12:54+00:00"
         },
         {
             "name": "fruitcake/php-cors",
@@ -896,6 +1019,72 @@
                 }
             ],
             "time": "2022-08-28T14:45:39+00:00"
+        },
+        {
+            "name": "jgrossi/corcel",
+            "version": "v6.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/corcel/corcel.git",
+                "reference": "dbdb3e2fc8fd1950b9da5180e46c67a43b8aba96"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/corcel/corcel/zipball/dbdb3e2fc8fd1950b9da5180e46c67a43b8aba96",
+                "reference": "dbdb3e2fc8fd1950b9da5180e46c67a43b8aba96",
+                "shasum": ""
+            },
+            "require": {
+                "bordoni/phpass": "0.3.*",
+                "fakerphp/faker": "^1.19",
+                "illuminate/database": "^9.0",
+                "illuminate/filesystem": "^9.0",
+                "illuminate/support": "^9.0",
+                "php": "^8.0.2",
+                "thunderer/shortcode": "^0.7.3"
+            },
+            "replace": {
+                "juniorgrossi/corcel": "self.version"
+            },
+            "require-dev": {
+                "dms/phpunit-arraysubset-asserts": "^0.3",
+                "laravel/legacy-factories": "^1.0",
+                "mockery/mockery": "^1.4.4",
+                "orchestra/testbench": "^7.0",
+                "symfony/thanks": "^1.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "Corcel\\Laravel\\CorcelServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Corcel\\": "src/",
+                    "Corcel\\Tests\\": "tests/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Junior Grossi",
+                    "email": "juniorgro@gmail.com",
+                    "homepage": "http://jgrossi.com"
+                }
+            ],
+            "description": "Use WordPress backend with Laravel or any PHP framework",
+            "homepage": "http://github.com/corcel/corcel",
+            "support": {
+                "issues": "https://github.com/corcel/corcel/issues",
+                "source": "https://github.com/corcel/corcel/tree/v6.0.0"
+            },
+            "time": "2022-02-13T21:33:57+00:00"
         },
         {
             "name": "laravel/framework",
@@ -4933,6 +5122,62 @@
             "time": "2022-07-20T13:46:29+00:00"
         },
         {
+            "name": "thunderer/shortcode",
+            "version": "v0.7.5",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thunderer/Shortcode.git",
+                "reference": "a4fee30613bd46efb421f8305aff0466a3268a99"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thunderer/Shortcode/zipball/a4fee30613bd46efb421f8305aff0466a3268a99",
+                "reference": "a4fee30613bd46efb421f8305aff0466a3268a99",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": ">=4.1",
+                "symfony/yaml": ">=2.0"
+            },
+            "suggest": {
+                "ext-dom": "if you want to use XML serializer",
+                "ext-json": "if you want to use JSON serializer",
+                "symfony/yaml": "if you want to use YAML serializer"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Thunder\\Shortcode\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Tomasz Kowalczyk",
+                    "email": "tomasz@kowalczyk.cc"
+                }
+            ],
+            "description": "Advanced shortcode (BBCode) parser and engine for PHP",
+            "keywords": [
+                "bbcode",
+                "engine",
+                "library",
+                "parser",
+                "shortcode"
+            ],
+            "support": {
+                "issues": "https://github.com/thunderer/Shortcode/issues",
+                "source": "https://github.com/thunderer/Shortcode/tree/v0.7.5"
+            },
+            "time": "2022-01-13T18:53:33+00:00"
+        },
+        {
             "name": "tijsverkoyen/css-to-inline-styles",
             "version": "2.2.4",
             "source": {
@@ -5268,73 +5513,6 @@
                 }
             ],
             "time": "2022-03-03T08:28:38+00:00"
-        },
-        {
-            "name": "fakerphp/faker",
-            "version": "v1.20.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/FakerPHP/Faker.git",
-                "reference": "37f751c67a5372d4e26353bd9384bc03744ec77b"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/FakerPHP/Faker/zipball/37f751c67a5372d4e26353bd9384bc03744ec77b",
-                "reference": "37f751c67a5372d4e26353bd9384bc03744ec77b",
-                "shasum": ""
-            },
-            "require": {
-                "php": "^7.1 || ^8.0",
-                "psr/container": "^1.0 || ^2.0",
-                "symfony/deprecation-contracts": "^2.2 || ^3.0"
-            },
-            "conflict": {
-                "fzaninotto/faker": "*"
-            },
-            "require-dev": {
-                "bamarni/composer-bin-plugin": "^1.4.1",
-                "doctrine/persistence": "^1.3 || ^2.0",
-                "ext-intl": "*",
-                "symfony/phpunit-bridge": "^4.4 || ^5.2"
-            },
-            "suggest": {
-                "doctrine/orm": "Required to use Faker\\ORM\\Doctrine",
-                "ext-curl": "Required by Faker\\Provider\\Image to download images.",
-                "ext-dom": "Required by Faker\\Provider\\HtmlLorem for generating random HTML.",
-                "ext-iconv": "Required by Faker\\Provider\\ru_RU\\Text::realText() for generating real Russian text.",
-                "ext-mbstring": "Required for multibyte Unicode string functionality."
-            },
-            "type": "library",
-            "extra": {
-                "branch-alias": {
-                    "dev-main": "v1.20-dev"
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "Faker\\": "src/Faker/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "François Zaninotto"
-                }
-            ],
-            "description": "Faker is a PHP library that generates fake data for you.",
-            "keywords": [
-                "data",
-                "faker",
-                "fixtures"
-            ],
-            "support": {
-                "issues": "https://github.com/FakerPHP/Faker/issues",
-                "source": "https://github.com/FakerPHP/Faker/tree/v1.20.0"
-            },
-            "time": "2022-07-20T13:12:54+00:00"
         },
         {
             "name": "filp/whoops",

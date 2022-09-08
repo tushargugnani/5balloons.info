@@ -63,6 +63,20 @@ return [
             ]) : [],
         ],
 
+        // wordpress config for corcel
+        'wordpress' => [
+            'driver'    => 'mysql',
+            'database'  => env('WORDPRESS_DATABASE'),
+            'username'  => env('WORDPRESS_USERNAME'),
+            'host'      => env('WORDPRESS_HOST'),
+            'password'  => env('WORDPRESS_PASSWORD'),
+            'charset'   => 'utf8',
+            'collation' => 'utf8_unicode_ci',
+            'prefix'    => 'wp_',
+            'strict'    => false,
+            'engine'    => null,
+        ],
+
         'pgsql' => [
             'driver' => 'pgsql',
             'url' => env('DATABASE_URL'),
@@ -125,7 +139,7 @@ return [
 
         'options' => [
             'cluster' => env('REDIS_CLUSTER', 'redis'),
-            'prefix' => env('REDIS_PREFIX', Str::slug(env('APP_NAME', 'laravel'), '_').'_database_'),
+            'prefix' => env('REDIS_PREFIX', Str::slug(env('APP_NAME', 'laravel'), '_') . '_database_'),
         ],
 
         'default' => [
