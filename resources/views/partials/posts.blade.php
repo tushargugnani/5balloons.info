@@ -51,7 +51,7 @@
                 </div>
                 <!--Card Excerpt-->
                 <div class="text-gray-600 my-4">
-                    {{ !empty($post->excerpt) ? $post->excerpt : Str::limit($post->content, 200, '...') }}
+                    {{ !empty($post->excerpt) ? $post->excerpt : Str::limit(strip_tags($post->content), 200, '...') }}
                 </div>
                 <!-- Read More Button-->
                 <a href=""
