@@ -1,7 +1,7 @@
 <div class="my-10">
     <h2 class="text-2xl font-semibold text-amber-700">Latest Posts</h2>
     @foreach ($posts as $post)
-        <div class="flex border bg-white border-yellow-800 p-3 rounded my-3">
+        <div class="flex border bg-white border-yellow-800 p-3 rounded my-6">
             <!-- Card Image-->
             <div class="flex-shrink-0 hidden md:block mt-2">
                 <img class="rounded-lg w-56" src="https://picsum.photos/300/200">
