@@ -24,8 +24,9 @@
                                 clip-rule="evenodd">
                             </path>
                         </svg>
-                        <span class="underline mr-1 text-sm">TailwindCSS</span>
-                        <span class="underline mr-1 text-sm">Livewire</span>
+                        @foreach ($post->keywords as $keyword)
+                            <span class="underline mr-1 text-sm">{{ $keyword }}</span>
+                        @endforeach
                     </p>
                     <p class="text-gray-600 flex space-x-1 max-w-max">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-yellow-500" viewBox="0 0 20 20"
@@ -45,14 +46,12 @@
                                 clip-rule="evenodd">
                             </path>
                         </svg>
-                        <span class="text-sm">Jack Ryan</span>
+                        <span class="text-sm">{{ $post->author->display_name }}</span>
                     </p>
                 </div>
                 <!--Card Excerpt-->
                 <div class="text-gray-600 my-4">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit qui error ad, pariatur accusantium
-                    earum sunt commodi sapiente ea autem eligendi iure aliquam explicabo, nobis delectus minus eius
-                    perferendis quia...
+                    {{ !empty($post->excerpt) ? $post->excerpt : Str::limit(strip_tags($post->content), 200, '...') }}
                 </div>
                 <!-- Read More Button-->
                 <a href=""
