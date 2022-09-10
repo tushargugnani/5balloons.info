@@ -2,7 +2,7 @@
     <nav class="border-b bg-white">
         <div class="container relative max-w-screen-lg mx-auto flex justify-between h-14 px-5">
             <!-- Brand-->
-            <a class="flex items-center cursor-pointer hover:bg-yellow-50 px-2">
+            <a href="{{ route('home') }}" class="flex items-center cursor-pointer hover:bg-yellow-50 px-2">
                 <!-- Logo-->
                 <div class="rounded bg-yellow-400 text-white font-bold w-10 h-10 flex justify-center text-3xl pt-0.5">
                     5
