@@ -1,5 +1,9 @@
 <?php
 
+use App\Http\Controllers\{
+    HomeController,
+    FilterPostsByCategoryController,
+};
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,4 +17,5 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/', [HomeController::class, 'index'])->name('home');
+Route::get('/category/{category}', [FilterPostsByCategoryController::class, 'index'])->name('filter-posts-by-category');

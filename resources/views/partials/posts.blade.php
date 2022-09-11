@@ -25,7 +25,9 @@
                             </path>
                         </svg>
                         @foreach ($post->keywords as $keyword)
-                            <span class="underline mr-1 text-sm">{{ $keyword }}</span>
+                            <a href="{{ route('filter-posts-by-category', $keyword) }}">
+                                <span class="underline mr-1 text-sm">{{ $keyword }}</span>
+                            </a>
                         @endforeach
                     </p>
                     <p class="text-gray-600 flex space-x-1 max-w-max">
