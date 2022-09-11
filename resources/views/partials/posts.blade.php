@@ -46,7 +46,9 @@
                                 clip-rule="evenodd">
                             </path>
                         </svg>
-                        <span class="text-sm">{{ $post->author->display_name }}</span>
+                        <a href="{{ route('filter-posts-by-author', $post->author->user_nicename) }}">
+                            <span class="text-sm underline">{{ $post->author->user_nicename }}</span>
+                        </a>
                     </p>
                 </div>
                 <!--Card Excerpt-->
