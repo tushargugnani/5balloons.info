@@ -69,7 +69,7 @@
                 </div>
             @endforeach
 
-            {{ $posts->onEachSide(0)->links() }}
+            {{ $posts->onEachSide(1)->links() }}
 
         </div>
     </div>

@@ -63,7 +63,7 @@
     @endforeach
 
     <div class="flex justify-end">
-        <a href="{{ route('home', ['showAllPosts' => true]) }}"
+        <a href="{{ route('posts.paginate') }}"
             class="rounded px-2 py-1.5 border border-green-600 shadow bg-green-500 text-white   hover:bg-green-600">
             View All Posts
         </a>
