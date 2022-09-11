@@ -5,7 +5,7 @@
 @section('content')
     <div class="container max-w-screen-lg mx-auto px-5 md:px-10 mt-10">
         <div class="my-10">
-            <h2 class="text-2xl font-semibold text-amber-700">Posts by Author - {{ $author->display_name }}</h2>
+            <h2 class="text-2xl font-semibold text-amber-700">Posts by Author : {{ $author->display_name }}</h2>
             @foreach ($posts as $post)
                 <div class="flex border bg-white border-yellow-800 p-3 rounded my-6">
                     <!-- Card Image-->
@@ -54,7 +54,7 @@
                                     </path>
                                 </svg>
                                 <a href="{{ route('filter-posts-by-author', $post->author->user_nicename) }}">
-                                    <span class="text-sm underline">{{ $post->author->user_nicename }}</span>
+                                    <span class="text-sm underline">{{ $post->author->display_name }}</span>
                                 </a>
                             </p>
                         </div>

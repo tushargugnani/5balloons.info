@@ -47,7 +47,7 @@
                             </path>
                         </svg>
                         <a href="{{ route('filter-posts-by-author', $post->author->user_nicename) }}">
-                            <span class="text-sm underline">{{ $post->author->user_nicename }}</span>
+                            <span class="text-sm underline">{{ $post->author->display_name }}</span>
                         </a>
                     </p>
                 </div>
