@@ -14,3 +14,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('posts', [App\Http\Controllers\HomeController::class, 'paginate'])->name('posts.paginate');
+
+Route::get('/page/{pageNumber}', function ($pageNumber) {
+    return redirect(route('posts.paginate', ['page' => $pageNumber]), 301);
+});

@@ -1,5 +1,5 @@
 <div class="my-10">
-    <h2 class="text-2xl font-semibold text-amber-700">Latest Posts</h2>
+    <h2 class="text-2xl font-semibold text-amber-700">Popular Posts</h2>
     @foreach ($posts as $post)
         <div class="flex border bg-white border-yellow-800 p-3 rounded my-6">
             <!-- Card Image-->
@@ -62,6 +62,11 @@
         </div>
     @endforeach
 
-    {{ $posts->links() }}
+    <div class="flex justify-end">
+        <a href="{{ route('posts.paginate') }}"
+            class="rounded px-2 py-1.5 border border-green-600 shadow bg-green-500 text-white   hover:bg-green-600">
+            View All Posts
+        </a>
+    </div>
 
 </div>
