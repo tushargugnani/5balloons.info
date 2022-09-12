@@ -1,5 +1,9 @@
 <?php
 
+use App\Http\Controllers\{
+    HomeController,
+    FilterPostsByAuthorController
+};
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -13,9 +17,15 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+Route::get('/', [HomeController::class, 'index'])->name('home');
+
 Route::get('posts', [App\Http\Controllers\HomeController::class, 'paginate'])->name('posts.paginate');
 
 Route::get('/page/{pageNumber}', function ($pageNumber) {
     return redirect(route('posts.paginate', ['page' => $pageNumber]), 301);
+});
+
+Route::get('/author/{author}', [FilterPostsByAuthorController::class, 'index'])->name('filter-posts-by-author');
+Route::get('author/{author}/page/{pageNumber}', function ($author, $pageNumber) {
+    return redirect(route('filter-posts-by-author', ['author' => $author, 'page' => $pageNumber]), 301);
 });
