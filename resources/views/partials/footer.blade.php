@@ -3,7 +3,7 @@
     <div class="mx-auto max-w-7xl overflow-hidden py-5 px-4 sm:px-6 lg:px-8">
         <div class="mt-4 flex justify-center space-x-6">
 
-            <a target="_blank" href="https://www.facebook.com/5balloons.info/" class="text-gray-400 hover:text-gray-500">
+            <a target="_blank" href="https://www.facebook.com/5balloons.info/" class="text-gray-400 hover:text-blue-600"">
                 <span class="sr-only">Facebook</span>
                 <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                     <path fill-rule="evenodd"
@@ -12,7 +12,7 @@
                 </svg>
             </a>
 
-            <a target="_blank" href="https://twitter.com/_5balloons" class="text-gray-400 hover:text-gray-500">
+            <a target="_blank" href="https://twitter.com/_5balloons" class="text-gray-400 hover:text-sky-500">
                 <span class="sr-only">Twitter</span>
                 <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                     <path
@@ -20,7 +20,7 @@
                 </svg>
             </a>
 
-            <a target="_blank" href="https://github.com/tushargugnani" class="text-gray-400 hover:text-gray-500">
+            <a target="_blank" href="https://github.com/tushargugnani" class="text-gray-400 hover:text-gray-800">
                 <span class="sr-only">GitHub</span>
                 <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                     <path fill-rule="evenodd"
@@ -30,7 +30,7 @@
             </a>
 
             <a target="_blank" href="https://www.youtube.com/channel/UCF9DxqXen5oMQCr3fHJWaVA/"
-                class="text-gray-400 hover:text-gray-500">
+                class="text-gray-400 hover:text-red-500">
                 <span class="sr-only">Youtube</span>
                 <svg class="w-6 h-6" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="youtube"
                     role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
