@@ -39,6 +39,8 @@
             </a>
         </div>
 
-        <p class="mt-8 text-center text-base text-gray-400">&copy; 2022 5Balloons Tech. All rights reserved.</p>
+        <p class="mt-8 text-center text-base text-gray-400">
+            &copy; {{ now()->year }} 5Balloons Tech. All rights reserved.
+        </p>
     </div>
 </footer>

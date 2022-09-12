@@ -10,7 +10,7 @@
                 <!--Card Heading -->
                 <div>
                     <h3 class="text-2xl text-gray-800 font-semibold">
-                        {{ $post->title }}
+                        <a href="{{ route('posts.show', $post->post_name) }}">{{ $post->title }}</a>
                     </h3>
                 </div>
                 <!--Card Meta -->
@@ -57,7 +57,7 @@
                     {{ !empty($post->excerpt) ? $post->excerpt : Str::limit(strip_tags($post->content), 200, '...') }}
                 </div>
                 <!-- Read More Button-->
-                <a href=""
+                <a href="{{ route('posts.show', $post->post_name) }}"
                     class="rounded px-2 py-1.5 border border-amber-600 shadow bg-amber-500 text-white mr-3 my-2 hover:bg-amber-600">
                     Read More
                 </a>
