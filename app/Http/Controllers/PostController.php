@@ -18,4 +18,16 @@ class PostController extends Controller
 
         return view('frontend.posts.index', compact('posts'));
     }
+
+    public function show(string $slug)
+    {
+        $post = Post::with([
+            'author',
+            'taxonomies',
+        ])
+            ->where('post_name', $slug)
+            ->firstOrFail();
+
+        return view('frontend.posts.show', compact('post'));
+    }
 }
