@@ -21,17 +21,4 @@ class HomeController extends Controller
 
         return view('frontend.welcome', compact('posts'));
     }
-
-    public function paginate()
-    {
-        $posts = Post::with([
-            'author',
-            'taxonomies',
-        ])
-            ->published()
-            ->latest()
-            ->paginate(10);
-
-        return view('frontend.posts.index', compact('posts'));
-    }
 }
