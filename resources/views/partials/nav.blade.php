@@ -30,9 +30,21 @@
                         </svg>
                     </a>
                     <ul x-show="open" class="top-12 z-10 bg-white absolute rounded border w-48">
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">Learn Laravel</li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">Livewire Tutorials</li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">Laravel Dusk</li>
+                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                            <a href="{{ config('app.url') }}/laravel-tutorials-examples/">
+                                Learn Laravel
+                            </a>
+                        </li>
+                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                            <a href="{{ config('app.url') }}/category/laravel-livewire">
+                                Livewire Tutorials
+                            </a>
+                        </li>
+                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                            <a href="{{ config('app.url') }}/introduction-to-laravel-dusk">
+                                Laravel Dusk
+                            </a>
+                        </li>
                     </ul>
                 </li>
                 <li x-data="{ open: false }" @mouseover="open = true" @mouseleave="open = false"
@@ -45,9 +57,21 @@
                         </svg>
                     </a>
                     <ul x-show="open" class="top-12 z-10 bg-white absolute rounded border w-48">
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">TailwindCSS</li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">Bootstrap</li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">AlpineJS</li>
+                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                            <a href="{{ config('app.url') }}/category/tailwindcss">
+                                TailwindCSS
+                            </a>
+                        </li>
+                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                            <a href="{{ config('app.url') }}/category/bootstrap">
+                                Bootstrap
+                            </a>
+                        </li>
+                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                            <a href="{{ config('app.url') }}/category/alpinejs">
+                                AlpineJS
+                            </a>
+                        </li>
                     </ul>
                 </li>
                 <li x-data="{ open: false }" @mouseover="open = true" @mouseleave="open = false"
@@ -60,8 +84,16 @@
                         </svg>
                     </a>
                     <ul x-show="open" class="top-12 z-10 bg-white absolute rounded border w-48">
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">Livewire Components</li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">TailwindCSS Components</li>
+                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                            <a href="https://www.livewiredemos.com/" target="_blank">
+                                Livewire Components
+                            </a>
+                        </li>
+                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                            <a href="https://tailwindcss.5balloons.info/" target="_blank">
+                                TailwindCSS Components
+                            </a>
+                        </li>
                     </ul>
                 </li>
                 <li x-data="{ open: false }" @mouseover="open = true" @mouseleave="open = false"
@@ -74,8 +106,18 @@
                         </svg>
                     </a>
                     <ul x-show="open" class="right-0 top-12 z-10 bg-white absolute rounded border w-48">
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">Laravel Dusk</li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">AlpineJS</li>
+                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                            <a href="https://www.udemy.com/course/laravel-dusk-beginner-to-advanced/?referralCode=31027C813DE63523361F"
+                                target="_blank">
+                                Laravel Dusk
+                            </a>
+                        </li>
+                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                            <a href="https://www.youtube.com/watch?v=LGetygzyRFA&list=PLSWOV7oy-nwVpqRG6drYXNcn02A2QYh7V&ab_channel=5Balloons"
+                                target="_blank">
+                                AlpineJS
+                            </a>
+                        </li>
                     </ul>
                 </li>
                 <li x-data="{ open: false }" @mouseover="open = true" @mouseleave="open = false"
@@ -88,8 +130,16 @@
                         </svg>
                     </a>
                     <ul x-show="open" class="right-0 top-12 z-10 bg-white absolute rounded border w-48">
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">About Us</li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">Advertise</li>
+                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                            <a href="{{ config('app.url') }}/about">
+                                About Us
+                            </a>
+                        </li>
+                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                            <a href="#">
+                                Advertise
+                            </a>
+                        </li>
                     </ul>
                 </li>
             </ul>
