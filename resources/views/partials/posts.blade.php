@@ -1,5 +1,4 @@
 <div class="my-10">
-    <h2 class="text-2xl font-semibold text-amber-700">Latest Posts</h2>
     @foreach ($posts as $post)
         <div class="flex border bg-white border-yellow-800 p-3 rounded my-6">
             <!-- Card Image-->
@@ -64,6 +63,6 @@
         </div>
     @endforeach
 
-    {{ $posts->links() }}
+
 
 </div>

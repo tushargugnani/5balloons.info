@@ -18,4 +18,11 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
+
+Route::get('posts', [App\Http\Controllers\HomeController::class, 'paginate'])->name('posts.paginate');
+
+Route::get('/page/{pageNumber}', function ($pageNumber) {
+    return redirect(route('posts.paginate', ['page' => $pageNumber]), 301);
+});
+
 Route::get('/author/{author}', [FilterPostsByAuthorController::class, 'index'])->name('filter-posts-by-author');
