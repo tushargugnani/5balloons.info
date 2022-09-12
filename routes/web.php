@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\{
     HomeController,
+    FilterPostsByCategoryController,
     FilterPostsByAuthorController
 };
 use Illuminate\Support\Facades\Route;
@@ -28,4 +29,9 @@ Route::get('/page/{pageNumber}', function ($pageNumber) {
 Route::get('/author/{author}', [FilterPostsByAuthorController::class, 'index'])->name('filter-posts-by-author');
 Route::get('author/{author}/page/{pageNumber}', function ($author, $pageNumber) {
     return redirect(route('filter-posts-by-author', ['author' => $author, 'page' => $pageNumber]), 301);
+});
+
+Route::get('/category/{category}', [FilterPostsByCategoryController::class, 'index'])->name('filter-posts-by-category');
+Route::get('category/{category}/page/{pageNumber}', function ($category, $pageNumber) {
+    return redirect(route('filter-posts-by-category', ['category' => $category, 'page' => $pageNumber]), 301);
 });

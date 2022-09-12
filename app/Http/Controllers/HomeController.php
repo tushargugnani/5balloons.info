@@ -19,7 +19,7 @@ class HomeController extends Controller
             ->take(5)
             ->get();
 
-        return view('welcome', compact('posts'));
+        return view('frontend.welcome', compact('posts'));
     }
 
     public function paginate()
@@ -32,6 +32,6 @@ class HomeController extends Controller
             ->latest()
             ->paginate(10);
 
-        return view('posts', compact('posts'));
+        return view('frontend.posts.index', compact('posts'));
     }
 }
