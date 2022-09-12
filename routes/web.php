@@ -32,3 +32,6 @@ Route::get('author/{author}/page/{pageNumber}', function ($author, $pageNumber) 
 });
 
 Route::get('/category/{category}', [FilterPostsByCategoryController::class, 'index'])->name('filter-posts-by-category');
+Route::get('category/{category}/page/{pageNumber}', function ($category, $pageNumber) {
+    return redirect(route('filter-posts-by-category', ['category' => $category, 'page' => $pageNumber]), 301);
+});
