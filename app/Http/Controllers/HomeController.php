@@ -3,10 +3,11 @@
 namespace App\Http\Controllers;
 
 use Corcel\Model\Post;
+use Illuminate\Http\Request;
 
 class HomeController extends Controller
 {
-    public function index()
+    public function index(Request $request)
     {
         $posts = Post::with([
             'author',
@@ -14,9 +15,23 @@ class HomeController extends Controller
         ])
             ->published()
             ->latest()
-            ->paginate(5)
-            ->withQueryString();
+            ->taxonomy('post_tag', 'popular')
+            ->take(5)
+            ->get();
 
         return view('welcome', compact('posts'));
+    }
+
+    public function paginate()
+    {
+        $posts = Post::with([
+            'author',
+            'taxonomies',
+        ])
+            ->published()
+            ->latest()
+            ->paginate(10);
+
+        return view('posts', compact('posts'));
     }
 }

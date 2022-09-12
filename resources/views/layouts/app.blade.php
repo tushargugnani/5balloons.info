@@ -24,9 +24,11 @@
 <body class="bg-amber-50">
 
     @include('partials.nav')
-
-    @yield('content')
-
+    <div class="container max-w-screen-lg mx-auto px-5 md:px-10 mt-10">
+        <div class="my-10">
+           @yield('content')
+           </div>
+    </div>
     @include('partials.footer')
 </body>
 

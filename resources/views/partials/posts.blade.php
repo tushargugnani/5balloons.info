@@ -1,5 +1,4 @@
 <div class="my-10">
-    <h2 class="text-2xl font-semibold text-amber-700">Latest Posts</h2>
     @foreach ($posts as $post)
         <div class="flex border bg-white border-yellow-800 p-3 rounded my-6">
             <!-- Card Image-->
@@ -48,7 +47,9 @@
                                 clip-rule="evenodd">
                             </path>
                         </svg>
-                        <span class="text-sm">{{ $post->author->display_name }}</span>
+                        <a href="{{ route('filter-posts-by-author', $post->author->user_nicename) }}">
+                            <span class="text-sm underline">{{ $post->author->display_name }}</span>
+                        </a>
                     </p>
                 </div>
                 <!--Card Excerpt-->
@@ -63,7 +64,4 @@
             </div>
         </div>
     @endforeach
-
-    {{ $posts->links() }}
-
 </div>
