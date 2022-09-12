@@ -22,6 +22,7 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [HomeController::class, 'index'])->name('home');
 
 Route::get('posts', [PostController::class, 'index'])->name('posts.index');
+Route::get('{slug}', [PostController::class, 'show'])->name('posts.show');
 
 Route::get('/page/{pageNumber}', function ($pageNumber) {
     return redirect(route('posts.index', ['page' => $pageNumber]), 301);
