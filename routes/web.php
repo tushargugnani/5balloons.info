@@ -26,3 +26,6 @@ Route::get('/page/{pageNumber}', function ($pageNumber) {
 });
 
 Route::get('/author/{author}', [FilterPostsByAuthorController::class, 'index'])->name('filter-posts-by-author');
+Route::get('author/{author}/page/{pageNumber}', function ($author, $pageNumber) {
+    return redirect(route('filter-posts-by-author', ['author' => $author, 'page' => $pageNumber]), 301);
+});
