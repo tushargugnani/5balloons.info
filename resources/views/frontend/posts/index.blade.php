@@ -8,4 +8,6 @@
 
     @include('partials.posts')
 
+    {{ $posts->onEachSide(0)->links() }}
+
 @endsection
