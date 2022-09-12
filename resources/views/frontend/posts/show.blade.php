@@ -34,7 +34,7 @@
         </div>
 
         <div class="w-full mx-auto prose md:w-3/4 lg:w-3/4">
-            {!! $post->content !!}
+            {!! html_entity_decode(nl2br(e($post->content))) !!}
         </div>
     </article>
 @endsection
