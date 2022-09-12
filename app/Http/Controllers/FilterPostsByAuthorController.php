@@ -17,6 +17,7 @@ class FilterPostsByAuthorController extends Controller
             'author',
             'taxonomies'
         ])
+            ->where('post_type', 'post')
             ->published()
             ->latest()
             ->where('post_author', $author->ID)

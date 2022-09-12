@@ -12,6 +12,7 @@ class FilterPostsByCategoryController extends Controller
             'author',
             'taxonomies'
         ])
+            ->where('post_type', 'post')
             ->published()
             ->latest()
             ->taxonomy('category', $category)

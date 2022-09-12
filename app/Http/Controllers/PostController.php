@@ -12,6 +12,7 @@ class PostController extends Controller
             'author',
             'taxonomies',
         ])
+            ->where('post_type', 'post')
             ->published()
             ->latest()
             ->paginate(10);

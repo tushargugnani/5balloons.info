@@ -13,6 +13,7 @@ class HomeController extends Controller
             'author',
             'taxonomies'
         ])
+            ->where('post_type', 'post')
             ->published()
             ->latest()
             ->taxonomy('post_tag', 'popular')
