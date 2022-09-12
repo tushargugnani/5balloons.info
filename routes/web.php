@@ -2,8 +2,9 @@
 
 use App\Http\Controllers\{
     HomeController,
+    PostController,
+    FilterPostsByAuthorController,
     FilterPostsByCategoryController,
-    FilterPostsByAuthorController
 };
 use Illuminate\Support\Facades\Route;
 
@@ -20,10 +21,10 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
 
-Route::get('posts', [App\Http\Controllers\HomeController::class, 'paginate'])->name('posts.paginate');
+Route::get('posts', [PostController::class, 'index'])->name('posts.index');
 
 Route::get('/page/{pageNumber}', function ($pageNumber) {
-    return redirect(route('posts.paginate', ['page' => $pageNumber]), 301);
+    return redirect(route('posts.index', ['page' => $pageNumber]), 301);
 });
 
 Route::get('/author/{author}', [FilterPostsByAuthorController::class, 'index'])->name('filter-posts-by-author');
