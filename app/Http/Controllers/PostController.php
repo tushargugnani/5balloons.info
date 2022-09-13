@@ -11,6 +11,7 @@ class PostController extends Controller
         $posts = Post::with([
             'author',
             'taxonomies',
+            'thumbnail.attachment'
         ])
             ->where('post_type', 'post')
             ->published()
@@ -25,6 +26,7 @@ class PostController extends Controller
         $post = Post::with([
             'author',
             'taxonomies',
+            'thumbnail.attachment'
         ])
             ->where('post_name', $slug)
             ->firstOrFail();

@@ -11,7 +11,8 @@ class HomeController extends Controller
     {
         $posts = Post::with([
             'author',
-            'taxonomies'
+            'taxonomies',
+            'thumbnail.attachment'
         ])
             ->where('post_type', 'post')
             ->published()
