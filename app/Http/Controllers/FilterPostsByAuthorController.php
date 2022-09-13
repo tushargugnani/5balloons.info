@@ -15,7 +15,8 @@ class FilterPostsByAuthorController extends Controller
         // get the posts by the author
         $posts  = Post::with([
             'author',
-            'taxonomies'
+            'taxonomies',
+            'thumbnail.attachment'
         ])
             ->where('post_type', 'post')
             ->published()

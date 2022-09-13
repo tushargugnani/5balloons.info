@@ -6,7 +6,10 @@
     <article class="px-4 py-10 mx-auto max-w-full bg-white rounded border border-yellow-200" itemid="#" itemscope
         itemtype="http://schema.org/BlogPosting">
         <div class="w-full mx-auto mb-12 text-left md:w-3/4 lg:w-3/4 ">
-            <img src="https://picsum.photos/500/200" class="object-cover w-full h-80 bg-center rounded-lg" alt="Kutty" />
+            @if ($post?->thumbnail?->attachment?->guid ?? false)
+                <img src="{{ $post?->thumbnail?->attachment?->guid ?? '' }}"
+                    class="object-cover w-full h-80 bg-center rounded-lg" alt="{{ $post->title }}" />
+            @endif
             <p class="mt-6 mb-2 text-sm font-semibold tracking-wider uppercase text-orange-600">{{ $post->main_category }}
             </p>
             <h1 class="mb-3 text-3xl font-bold leading-tight text-gray-900 md:text-4xl" itemprop="headline"

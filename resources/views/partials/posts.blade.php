@@ -3,7 +3,10 @@
         <div class="flex border bg-white border-yellow-800 p-3 rounded my-6">
             <!-- Card Image-->
             <div class="flex-shrink-0 hidden md:block mt-2">
-                <img class="rounded-lg w-56" src="https://picsum.photos/300/200">
+                @if ($post?->thumbnail?->attachment?->guid ?? false)
+                    <img class="rounded-lg w-60" src="{{ $post?->thumbnail?->attachment?->guid ?? '' }}"
+                        alt="{{ $post->title }}">
+                @endif
             </div>
             <!-- Card Body-->
             <div class="md:ml-6">
