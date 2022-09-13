@@ -9,9 +9,6 @@
             @if ($post?->thumbnail?->attachment?->guid ?? false)
                 <img src="{{ $post?->thumbnail?->attachment?->guid ?? '' }}"
                     class="object-cover w-full h-80 bg-center rounded-lg" alt="{{ $post->title }}" />
-            @else
-                <img src="https://picsum.photos/500/200" class="object-cover w-full h-80 bg-center rounded-lg"
-                    alt="{{ $post->title }}" />
             @endif
             <p class="mt-6 mb-2 text-sm font-semibold tracking-wider uppercase text-orange-600">{{ $post->main_category }}
             </p>

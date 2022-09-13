@@ -6,10 +6,6 @@
                 @if ($post?->thumbnail?->attachment?->guid ?? false)
                     <img class="rounded-lg w-60" src="{{ $post?->thumbnail?->attachment?->guid ?? '' }}"
                         alt="{{ $post->title }}">
-                @else
-                    <div class="flex-shrink-0 hidden md:block mt-2">
-                        <img class="rounded-lg w-56" src="https://picsum.photos/300/200">
-                    </div>
                 @endif
             </div>
             <!-- Card Body-->
@@ -21,8 +17,7 @@
                     </h3>
                 </div>
                 <!--Card Meta -->
-                <div
-                    class="flex-col md:flex-row flex md:space-x-3 space-y-1 md:space-y-0 items-start md:items-end my-1">
+                <div class="flex-col md:flex-row flex md:space-x-3 space-y-1 md:space-y-0 items-start md:items-end my-1">
                     <p class="text-gray-600 flex space-x-1 max-w-max">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-yellow-500" viewBox="0 0 20 20"
                             fill="currentColor">
