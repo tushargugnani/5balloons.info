@@ -3,7 +3,7 @@
 @section('title', '5 Balloons | ' . $post->post_title)
 
 @section('content')
-    <article class="px-4 py-10 mx-auto max-w-full bg-white rounded border border-yellow-200" itemid="#" itemscope
+    <article class="show-post px-4 py-10 mx-auto text-base md:text-lg max-w-full bg-white rounded border border-yellow-200" itemid="#" itemscope
         itemtype="http://schema.org/BlogPosting">
         <div class="w-full mx-auto mb-12 text-left md:w-3/4 lg:w-3/4 ">
             @if ($post?->thumbnail?->attachment?->guid ?? false)
@@ -36,7 +36,7 @@
             </a>
         </div>
 
-        <div class="w-full mx-auto prose md:w-3/4 lg:w-3/4">
+        <div class="w-full mx-auto prose md:w-3/4 lg:w-3/4 post-content">
             {!! html_entity_decode(nl2br(e($post->content))) !!}
         </div>
     </article>

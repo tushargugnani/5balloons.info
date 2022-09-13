@@ -1,6 +1,6 @@
 <div class="my-10">
     @forelse ($posts as $post)
-        <div class="flex border bg-white border-yellow-800 p-3 rounded my-6">
+        <div class="flex border bg-white border-yellow-800 px-3 pt-3 pb-5 rounded my-6">
             <!-- Card Image-->
             <div class="flex-shrink-0 hidden md:block mt-2">
                 @if ($post?->thumbnail?->attachment?->guid ?? false)
@@ -18,7 +18,7 @@
                 </div>
                 <!--Card Meta -->
                 <div class="flex-col md:flex-row flex md:space-x-3 space-y-1 md:space-y-0 items-start md:items-end my-1">
-                    <p class="text-gray-600 flex space-x-1 max-w-max">
+                    <p class="text-gray-600 flex items-center space-x-1 max-w-max">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-yellow-500" viewBox="0 0 20 20"
                             fill="currentColor">
                             <path fill-rule="evenodd"
@@ -32,7 +32,7 @@
                             </a>
                         @endforeach
                     </p>
-                    <p class="text-gray-600 flex space-x-1 max-w-max">
+                    <p class="text-gray-600 flex items-center space-x-1 max-w-max">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-yellow-500" viewBox="0 0 20 20"
                             fill="currentColor">
                             <path fill-rule="evenodd"
@@ -42,7 +42,7 @@
                         </svg>
                         <span class="text-sm">{{ $post->post_date->toFormattedDateString() }}</span>
                     </p>
-                    <p class="text-gray-600 flex space-x-1 max-w-max">
+                    <p class="text-gray-600 flex items-center space-x-1 max-w-max">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-yellow-500" viewBox="0 0 20 20"
                             fill="currentColor">
                             <path fill-rule="evenodd"
@@ -62,7 +62,7 @@
                 <!-- Read More Button-->
                 <a href="{{ route('posts.show', $post->post_name) }}"
                     class="rounded px-2 py-1.5 border border-amber-600 shadow bg-amber-500 text-white mr-3 my-2 hover:bg-amber-600">
-                    Read More
+                    Read Article
                 </a>
             </div>
         </div>

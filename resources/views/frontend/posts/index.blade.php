@@ -4,7 +4,7 @@
 
 @section('content')
 
-    <h2 class="text-2xl font-semibold text-amber-700">Latest Posts</h2>
+    <h2 class="text-3xl font-semibold text-amber-700">Latest Posts</h2>
 
     @include('partials.posts')
 

@@ -21,6 +21,7 @@
             border-radius: 10px;
             margin: 15px 0px;
             background-color: #383838;
+            font-size: 15px;
         }
 
         .copy-to-clipboard-button {

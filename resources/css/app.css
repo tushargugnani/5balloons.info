@@ -9,7 +9,17 @@
     h2 {
         @apply font-bold text-2xl my-3;
     }
+    h3 {
+      @apply font-bold text-2xl my-3;
+    }
+
+    .show-post h3, .show-post h2{
+      @apply decoration-orange-500 underline-offset-4 decoration-2 underline;
+    }
     code {
         @apply bg-gray-100 text-red-500 p-1 rounded;
+    }
+    .show-post .post-content a {
+      @apply text-orange-500 underline underline-offset-2;
     }
   }
