@@ -1,5 +1,5 @@
 <!-- This example requires Tailwind CSS v2.0+ -->
-<footer class="bg-white mt-10 border-t border-yellow-200">
+<footer class="bg-white mt-10 border-t border-yellow-200 sticky top-[100vh]">
     <div class="mx-auto max-w-7xl overflow-hidden py-5 px-4 sm:px-6 lg:px-8">
         <div class="mt-4 flex justify-center space-x-6">
 

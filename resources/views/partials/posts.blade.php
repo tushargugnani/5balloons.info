@@ -1,5 +1,5 @@
 <div class="my-10">
-    @foreach ($posts as $post)
+    @forelse ($posts as $post)
         <div class="flex border bg-white border-yellow-800 p-3 rounded my-6">
             <!-- Card Image-->
             <div class="flex-shrink-0 hidden md:block mt-2">
@@ -63,5 +63,18 @@
                 </a>
             </div>
         </div>
-    @endforeach
+    @empty
+        <div class="flex justify-center">
+            <h2 class="text-xl font-semibold my-5">Whoops! Seems like we don't have any posts yet. Please check back
+                later.</h2>
+        </div>
+        <div class="flex justify-center mt-5">
+            <a href="{{ route('home') }}">
+                <button type="button"
+                    class="inline-flex text-lg items-center rounded-md border border-transparent bg-orange-500 px-10 py-3 font-medium text-white shadow-sm hover:bg-orange-600 focus:outline-none focus:ring-2 focus:ring-orange-500 focus:ring-offset-2">
+                    Return Home
+                </button>
+            </a>
+        </div>
+    @endforelse
 </div>
