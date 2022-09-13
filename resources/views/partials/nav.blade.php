@@ -29,7 +29,7 @@
                             <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                         </svg>
                     </a>
-                    <ul x-show="open" class="top-12 z-10 bg-white absolute rounded border w-48">
+                    <ul x-show="open" class="top-12 z-10 bg-white absolute rounded border w-48" x-cloak>
                         <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
                             <a href="{{ config('app.url') }}/laravel-tutorials-examples/">
                                 Learn Laravel
@@ -56,7 +56,7 @@
                             <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                         </svg>
                     </a>
-                    <ul x-show="open" class="top-12 z-10 bg-white absolute rounded border w-48">
+                    <ul x-show="open" class="top-12 z-10 bg-white absolute rounded border w-48" x-cloak>
                         <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
                             <a href="{{ config('app.url') }}/category/tailwindcss">
                                 TailwindCSS
@@ -83,7 +83,7 @@
                             <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                         </svg>
                     </a>
-                    <ul x-show="open" class="top-12 z-10 bg-white absolute rounded border w-48">
+                    <ul x-show="open" class="top-12 z-10 bg-white absolute rounded border w-48" x-cloak>
                         <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
                             <a href="https://www.livewiredemos.com/" target="_blank">
                                 Livewire Components
@@ -105,7 +105,7 @@
                             <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                         </svg>
                     </a>
-                    <ul x-show="open" class="right-0 top-12 z-10 bg-white absolute rounded border w-48">
+                    <ul x-show="open" class="right-0 top-12 z-10 bg-white absolute rounded border w-48" x-cloak>
                         <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
                             <a href="https://www.udemy.com/course/laravel-dusk-beginner-to-advanced/?referralCode=31027C813DE63523361F"
                                 target="_blank">
@@ -129,7 +129,7 @@
                             <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
                         </svg>
                     </a>
-                    <ul x-show="open" class="right-0 top-12 z-10 bg-white absolute rounded border w-48">
+                    <ul x-show="open" class="right-0 top-12 z-10 bg-white absolute rounded border w-48" x-cloak>
                         <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
                             <a href="{{ config('app.url') }}/about">
                                 About Us
