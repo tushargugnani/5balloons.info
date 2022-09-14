@@ -1,10 +1,17 @@
 @extends('layouts.app')
 
-@section('title', '5 Balloons | ' . $post->post_title)
+@section('headtags')
+    <meta property="og:title" content="{{ config('app.site_title') . ' | ' . $post->title }}" />
+    <meta property="og:url" content="{{ route('posts.show', $post->post_name) }}" />
+    <meta property="og:description" content="{{ $post->meta->_yoast_wpseo_metadesc }}" />
+    <meta property="og:image" content="{{ $post?->thumbnail?->attachment?->guid ?? '' }}" />
+@endsection
+
+@section('title', config('app.site_title') . ' | ' . $post->title)
 
 @section('content')
-    <article class="show-post px-4 py-10 mx-auto text-base md:text-lg max-w-full bg-white rounded border border-yellow-200" itemid="#" itemscope
-        itemtype="http://schema.org/BlogPosting">
+    <article class="show-post px-4 py-10 mx-auto text-base md:text-lg max-w-full bg-white rounded border border-yellow-200"
+        itemid="#" itemscope itemtype="http://schema.org/BlogPosting">
         <div class="w-full mx-auto mb-12 text-left md:w-3/4 lg:w-3/4 ">
             @if ($post?->thumbnail?->attachment?->guid ?? false)
                 <img src="{{ $post?->thumbnail?->attachment?->guid ?? '' }}"
