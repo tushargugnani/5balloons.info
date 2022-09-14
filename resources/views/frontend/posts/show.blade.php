@@ -3,6 +3,8 @@
 @section('title', '5 Balloons | ' . $post->post_title)
 
 @section('content')
+@include('partials.search')
+
     <article class="show-post px-4 py-10 mx-auto text-base md:text-lg max-w-full bg-white rounded border border-yellow-200" itemid="#" itemscope
         itemtype="http://schema.org/BlogPosting">
         <div class="w-full mx-auto mb-12 text-left md:w-3/4 lg:w-3/4 ">

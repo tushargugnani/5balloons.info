@@ -3,6 +3,9 @@
 @section('title', '5 Balloons - Practicle Programming and Tech Articles')
 
 @section('content')
+
+    @include('partials.search')
+
     @include('partials.hero')
 
     @include('partials.icons')
