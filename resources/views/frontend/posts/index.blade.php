@@ -1,6 +1,12 @@
 @extends('layouts.app')
 
-@section('title', '5 Balloons - Practicle Programming and Tech Articles')
+@section('headtags')
+    <meta property="og:title" content="{{ 'Latest Posts | ' . config('app.site_title') }}" />
+    <meta property="og:url" content="{{ config('app.url') }}" />
+    <meta property="og:description" content="{{ config('app.site_description') }}" />
+@endsection
+
+@section('title', 'Latest Posts | ' . config('app.site_title'))
 
 @section('content')
 
