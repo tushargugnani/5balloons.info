@@ -2,25 +2,18 @@
 
 namespace App\Http\Controllers;
 
-use Corcel\Model\Post;
 use Illuminate\Http\Request;
+use App\Services\HomeUrlResolverService;
 
 class HomeController extends Controller
 {
-    public function index(Request $request)
+    public function index(Request $request, HomeUrlResolverService $homeUrlResolverService)
     {
-        $posts = Post::with([
-            'author',
-            'taxonomies',
-            'thumbnail.attachment'
-        ])
-            ->where('post_type', 'post')
-            ->published()
-            ->latest()
-            ->taxonomy('post_tag', 'popular')
-            ->take(5)
-            ->get();
+        $result = $homeUrlResolverService->resolve($request);
 
-        return view('frontend.welcome', compact('posts'));
+        return view($result->view, [
+            'posts' => $result->posts,
+            'query' => $result->query ?? null
+        ]);
     }
 }
