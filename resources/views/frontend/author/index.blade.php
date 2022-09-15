@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('headtags')
-    <meta property="og:title" content="{{ config('app.site_title') . ' | Posts by Author - ' . $author->display_name }}" />
+    <meta property="og:title" content="{{ 'Posts by Author ' . $author->display_name . ' | ' . config('app.site_title') }}" />
     <meta property="og:url" content="{{ config('app.url') }}" />
     <meta property="og:description" content="{{ config('app.site_description') }}" />
 @endsection

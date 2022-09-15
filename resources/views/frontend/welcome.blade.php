@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('headtags')
-    <meta property="og:title" content="{{ config('app.site_title') . ' | Home' }}" />
+    <meta property="og:title" content="5 Balloons - Practicle Programming and Tech Articles | Home" />
     <meta property="og:url" content="{{ config('app.url') }}" />
     <meta property="og:description" content="{{ config('app.site_description') }}" />
 @endsection
