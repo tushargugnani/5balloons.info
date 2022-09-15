@@ -55,7 +55,7 @@ return [
     */
 
     'url' => env('APP_URL', 'http://localhost'),
-    'site_title' => '5 Balloons - Practicle Programming and Tech Articles',
+    'site_title' => '5 Balloons',
     'site_description' => '5 Balloons is a blog about practical programming and tech articles. We write about PHP, Laravel, Vue.js, JavaScript, and more.',
 
     'asset_url' => env('ASSET_URL'),

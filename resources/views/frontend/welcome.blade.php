@@ -6,7 +6,7 @@
     <meta property="og:description" content="{{ config('app.site_description') }}" />
 @endsection
 
-@section('title', config('app.site_title') . ' | Home')
+@section('title', '5 Balloons - Practicle Programming and Tech Articles | Home')
 
 @section('content')
 

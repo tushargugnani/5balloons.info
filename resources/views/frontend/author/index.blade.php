@@ -6,16 +6,16 @@
     <meta property="og:description" content="{{ config('app.site_description') }}" />
 @endsection
 
-@section('title', config('app.site_title') . ' | Posts by Author - ' . $author->display_name)
+@section('title', 'Posts by Author ' . $author->display_name . ' | ' . config('app.site_title'))
 
 @section('content')
 
-        @include('partials.search')
+    @include('partials.search')
 
-        <h2 class="text-3xl font-semibold text-amber-700">Posts by Author : {{ $author->display_name }}</h2>
+    <h2 class="text-3xl font-semibold text-amber-700">Posts by Author : {{ $author->display_name }}</h2>
 
-        @include('partials.posts')
+    @include('partials.posts')
 
-        {{ $posts->onEachSide(0)->links() }}
-        
+    {{ $posts->onEachSide(0)->links() }}
+
 @endsection
