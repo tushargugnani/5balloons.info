@@ -9,9 +9,13 @@
 @section('title', config('app.site_title') . ' | Posts by Author - ' . $author->display_name)
 
 @section('content')
-    <h2 class="text-3xl font-semibold text-amber-700">Posts by Author : {{ $author->display_name }}</h2>
 
-    @include('partials.posts')
+        @include('partials.search')
 
-    {{ $posts->onEachSide(0)->links() }}
+        <h2 class="text-3xl font-semibold text-amber-700">Posts by Author : {{ $author->display_name }}</h2>
+
+        @include('partials.posts')
+
+        {{ $posts->onEachSide(0)->links() }}
+        
 @endsection

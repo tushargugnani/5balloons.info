@@ -9,6 +9,9 @@
 @section('title', config('app.site_title') . ' | Home')
 
 @section('content')
+
+    @include('partials.search')
+
     @include('partials.hero')
 
     @include('partials.icons')

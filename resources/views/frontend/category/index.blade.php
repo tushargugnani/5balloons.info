@@ -9,9 +9,13 @@
 @section('title', config('app.site_title') . ' | Posts by Category - ' . $category)
 
 @section('content')
-    <h2 class="text-3xl font-semibold text-amber-700">Category : {{ $category }}</h2>
 
-    @include('partials.posts')
+        @include('partials.search')
 
-    {{ $posts->onEachSide(0)->links() }}
+        <h2 class="text-3xl font-semibold text-amber-700">Category : {{ $category }}</h2>
+
+        @include('partials.posts')
+
+        {{ $posts->onEachSide(0)->links() }}
+        
 @endsection
