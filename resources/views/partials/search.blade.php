@@ -11,7 +11,7 @@
         </div>
         <input type="search" name="s" id="default-search"
             class="block outline-none p-4 pl-10 w-full text-sm text-gray-900 bg-white rounded-lg border border-gray-300 focus:ring-amber-500 focus:border-amber-500"
-            placeholder="Search Articles" required>
+            value="{{ $query ?? '' }}" placeholder="Search Articles" required>
         <input type="hidden" name="post_type" value="post">
         <button type="submit"
             class="text-white absolute right-2.5 bottom-2.5 bg-amber-500 hover:bg-amber-600 focus:ring-4 focus:outline-none focus:ring-amber-300 font-medium rounded-lg text-sm px-4 py-2">
