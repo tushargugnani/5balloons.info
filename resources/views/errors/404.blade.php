@@ -13,7 +13,7 @@
 <section class="px-4 py-32 mx-auto max-w-7xl bg-white rounded border border-yellow-300">
     <div class="flex flex-col justify-center items-center">
         <div>
-            <a href="#" title="Hellonext Home Page">
+            <a href="/" title="Hellonext Home Page">
                 <img class="w-80" class="mr-10" src="{{ asset('assets/404-5balloons.svg') }}" />
             </a>
         </div>
