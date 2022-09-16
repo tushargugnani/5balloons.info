@@ -10,7 +10,8 @@
         "jgrossi/corcel": "^6.0",
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
-        "laravel/tinker": "^2.7"
+        "laravel/tinker": "^2.7",
+        "spatie/laravel-feed": "^4.1"
     },
     "require-dev": {
         "fakerphp/faker": "^1.9.1",
