@@ -37,7 +37,7 @@
             <a class="flex items-center text-gray-700"
                 href="{{ route('filter-posts-by-author', $post->author->user_nicename) }}">
                 <div class="rounded-full"><img class="rounded-full w-14 h-14"
-                        src="https://secure.gravatar.com/avatar/da6182623b9a825b2568fe69186b8cdc?s=192&d=mm"
+                        src="https://secure.gravatar.com/avatar/{{ md5($post->author->user_email) }}?s=192&d=mm"
                         alt="Photo of {{ $post->author->display_name }}" /></div>
                 <div class="ml-2">
                     <p class="text-sm font-semibold text-gray-800">{{ $post->author->display_name }}</p>
