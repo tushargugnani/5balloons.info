@@ -1,16 +1,24 @@
 @extends('layouts.app')
 
-@section('title', '5 Balloons | ' . $post->post_title)
+@section('headtags')
+    <meta property="og:title" content="{{ $post->meta->_yoast_wpseo_focuskw }}" />
+    <meta property="og:url" content="{{ route('posts.show', $post->post_name) }}" />
+    <meta property="og:description" content="{{ $post->meta->_yoast_wpseo_metadesc }}" />
+    <meta property="og:image" content="{{ $post?->image ?? '' }}" />
+@endsection
+
+@section('title', $post->title . ' | ' . config('app.site_title'))
 
 @section('content')
-@include('partials.search')
 
-    <article class="show-post px-4 py-10 mx-auto text-base md:text-lg max-w-full bg-white rounded border border-yellow-200" itemid="#" itemscope
-        itemtype="http://schema.org/BlogPosting">
+    @include('partials.search')
+
+    <article class="show-post px-4 py-10 mx-auto text-base md:text-lg max-w-full bg-white rounded border border-yellow-200"
+        itemid="#" itemscope itemtype="http://schema.org/BlogPosting">
         <div class="w-full mx-auto mb-12 text-left md:w-3/4 lg:w-3/4 ">
-            @if ($post?->thumbnail?->attachment?->guid ?? false)
-                <img src="{{ $post?->thumbnail?->attachment?->guid ?? '' }}"
-                    class="object-cover w-full h-80 bg-center rounded-lg" alt="{{ $post->title }}" />
+            @if ($post?->image ?? false)
+                <img src="{{ $post?->image ?? '' }}" class="object-cover w-full h-80 bg-center rounded-lg"
+                    alt="{{ $post->title }}" />
             @endif
             <p class="mt-6 mb-2 text-sm font-semibold tracking-wider uppercase text-orange-600">{{ $post->main_category }}
             </p>
