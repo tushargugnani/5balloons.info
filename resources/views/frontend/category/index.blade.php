@@ -18,4 +18,6 @@
 
     {{ $posts->onEachSide(0)->links() }}
 
+    @include('partials.sponsors')
+
 @endsection

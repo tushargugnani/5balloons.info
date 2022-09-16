@@ -50,4 +50,6 @@
             {!! html_entity_decode(nl2br(e($post->content))) !!}
         </div>
     </article>
+
+    @include('partials.sponsors')
 @endsection
