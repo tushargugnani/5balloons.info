@@ -55,7 +55,7 @@
 
     @include('partials.nav')
 
-    <div class="container max-w-screen-lg mx-auto px-5 md:px-10 mt-8 min-h-screen">
+    <div class="container max-w-screen-lg mx-auto px-5 md:px-10 mt-8 min-h-screen relative">
         <div class="my-3">
             @yield('content')
         </div>
