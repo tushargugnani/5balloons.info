@@ -17,8 +17,8 @@
                     </h3>
                 </div>
                 <!--Card Meta -->
-                <div class="flex-col md:flex-row flex md:space-x-3 space-y-1 md:space-y-0 items-start md:items-end my-1">
-                    <p class="text-gray-600 flex items-center space-x-1 max-w-max">
+                <div class="grid grid-cols-1 md:grid-cols-4 md:space-x-3 space-y-1 md:space-y-0 items-start md:items-end my-1">
+                    <p class="text-gray-600 flex items-center flex-wrap space-x-1 max-w-max">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-yellow-500" viewBox="0 0 20 20"
                             fill="currentColor">
                             <path fill-rule="evenodd"
@@ -32,7 +32,7 @@
                             </a>
                         @endforeach
                     </p>
-                    <p class="text-gray-600 flex items-center space-x-1 max-w-max">
+                    <p class="text-gray-600 flex grow flex-auto items-center space-x-1 max-w-max">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-yellow-500" viewBox="0 0 20 20"
                             fill="currentColor">
                             <path fill-rule="evenodd"
@@ -42,7 +42,7 @@
                         </svg>
                         <span class="text-sm">{{ $post->post_date->toFormattedDateString() }}</span>
                     </p>
-                    <p class="text-gray-600 flex items-center space-x-1 max-w-max">
+                    <p class="text-gray-600 flex flex-1 items-center space-x-1 max-w-max">
                         <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5 text-yellow-500" viewBox="0 0 20 20"
                             fill="currentColor">
                             <path fill-rule="evenodd"
