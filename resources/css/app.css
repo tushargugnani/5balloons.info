@@ -22,4 +22,13 @@
     .show-post .post-content a {
       @apply text-orange-500 underline underline-offset-2;
     }
+    .show-post blockquote {
+      @apply my-2 p-5 border-y border-dashed border-orange-300
+    }
+    .show-post ol li{
+      @apply list-inside list-decimal;
+    }
+    .show-post ul li{
+      @apply list-inside list-disc;
+    }
   }
