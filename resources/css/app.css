@@ -14,7 +14,7 @@
     }
 
     .show-post h3, .show-post h2{
-      @apply decoration-orange-500 underline-offset-4 decoration-2 underline;
+      @apply decoration-orange-500 underline-offset-4 decoration-2 underline mt-10 mb-3;
     }
     code {
         @apply bg-gray-100 text-red-500 p-1 rounded;
@@ -30,5 +30,17 @@
     }
     .show-post ul li{
       @apply list-inside list-disc;
+    }
+    .show-post table{
+      @apply border p-2 my-5;
+    }
+    .show-post table tr{
+      @apply border p-2 px-5;
+    }
+    .show-post td, .show-post th{
+      @apply border p-2;
+    }
+    .show-post p{
+      @apply my-5;
     }
   }

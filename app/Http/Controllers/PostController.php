@@ -2,7 +2,8 @@
 
 namespace App\Http\Controllers;
 
-use Corcel\Model\Post;
+use App\Models\Corcel\Post;
+
 
 class PostController extends Controller
 {
@@ -31,6 +32,9 @@ class PostController extends Controller
             ->where('post_name', $slug)
             ->firstOrFail();
 
+
         return view('frontend.posts.show', compact('post'));
     }
+
+
 }

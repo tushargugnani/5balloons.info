@@ -2,12 +2,15 @@
 
 namespace App\Models\Corcel;
 
+use App\Helper\WpTrait;
 use Spatie\Feed\Feedable;
 use Spatie\Feed\FeedItem;
 use Corcel\Model\Post as Corcel;
 
 class Post extends Corcel implements Feedable
 {
+    use WpTrait; 
+    
     public function toFeedItem(): FeedItem
     {
         return FeedItem::create()
