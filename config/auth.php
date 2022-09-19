@@ -61,8 +61,8 @@ return [
 
     'providers' => [
         'users' => [
-            'driver' => 'eloquent',
-            'model' => App\Models\User::class,
+            'driver' => 'corcel',
+            'model' => Corcel\Model\User::class,
         ],
 
         // 'users' => [
