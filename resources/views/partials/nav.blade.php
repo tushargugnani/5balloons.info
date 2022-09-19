@@ -30,17 +30,17 @@
                         </svg>
                     </a>
                     <ul x-show="open" class="top-12 z-10 bg-white absolute rounded border w-48" x-cloak>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                        <li @click="location.href = '{{ config('app.url') }}/laravel-tutorials-examples/'" class="py-2 pl-4 pr-5 hover:bg-yellow-100">
                             <a href="{{ config('app.url') }}/laravel-tutorials-examples/">
                                 Learn Laravel
                             </a>
                         </li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                        <li @click="location.href = '{{ config('app.url') }}/category/laravel-livewire'" class="py-2 pl-4 pr-5 hover:bg-yellow-100">
                             <a href="{{ config('app.url') }}/category/laravel-livewire">
                                 Livewire Tutorials
                             </a>
                         </li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                        <li @click="location.href = '{{ config('app.url') }}/introduction-to-laravel-dusk'" class="py-2 pl-4 pr-5 hover:bg-yellow-100">
                             <a href="{{ config('app.url') }}/introduction-to-laravel-dusk">
                                 Laravel Dusk
                             </a>
@@ -57,17 +57,17 @@
                         </svg>
                     </a>
                     <ul x-show="open" class="top-12 z-10 bg-white absolute rounded border w-48" x-cloak>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                        <li @click="location.href = '{{ config('app.url') }}/category/tailwindcss'" class="py-2 pl-4 pr-5 hover:bg-yellow-100">
                             <a href="{{ config('app.url') }}/category/tailwindcss">
                                 TailwindCSS
                             </a>
                         </li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                        <li @click="location.href = '{{ config('app.url') }}/category/bootstrap'" class="py-2 pl-4 pr-5 hover:bg-yellow-100">
                             <a href="{{ config('app.url') }}/category/bootstrap">
                                 Bootstrap
                             </a>
                         </li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                        <li @click="location.href = '{{ config('app.url') }}/category/alpinejs'" class="py-2 pl-4 pr-5 hover:bg-yellow-100">
                             <a href="{{ config('app.url') }}/category/alpinejs">
                                 AlpineJS
                             </a>
@@ -84,12 +84,12 @@
                         </svg>
                     </a>
                     <ul x-show="open" class="top-12 z-10 bg-white absolute rounded border w-48" x-cloak>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                        <li @click="location.href = 'https://www.livewiredemos.com/'" class="py-2 pl-4 pr-5 hover:bg-yellow-100">
                             <a href="https://www.livewiredemos.com/" target="_blank">
                                 Livewire Components
                             </a>
                         </li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                        <li @click="location.href = 'https://tailwindcss.5balloons.info/'" class="py-2 pl-4 pr-5 hover:bg-yellow-100">
                             <a href="https://tailwindcss.5balloons.info/" target="_blank">
                                 TailwindCSS Components
                             </a>
@@ -106,13 +106,13 @@
                         </svg>
                     </a>
                     <ul x-show="open" class="right-0 top-12 z-10 bg-white absolute rounded border w-48" x-cloak>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                        <li @click="location.href = 'https://www.udemy.com/course/laravel-dusk-beginner-to-advanced/?referralCode=31027C813DE63523361F'" class="py-2 pl-4 pr-5 hover:bg-yellow-100">
                             <a href="https://www.udemy.com/course/laravel-dusk-beginner-to-advanced/?referralCode=31027C813DE63523361F"
                                 target="_blank">
                                 Laravel Dusk
                             </a>
                         </li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
+                        <li @click="location.href = 'https://www.youtube.com/watch?v=LGetygzyRFA&list=PLSWOV7oy-nwVpqRG6drYXNcn02A2QYh7V&ab_channel=5Balloons' class="py-2 pl-4 pr-5 hover:bg-yellow-100">
                             <a href="https://www.youtube.com/watch?v=LGetygzyRFA&list=PLSWOV7oy-nwVpqRG6drYXNcn02A2QYh7V&ab_channel=5Balloons"
                                 target="_blank">
                                 AlpineJS
@@ -130,14 +130,9 @@
                         </svg>
                     </a>
                     <ul x-show="open" class="right-0 top-12 z-10 bg-white absolute rounded border w-48" x-cloak>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
-                            <a href="{{ config('app.url') }}/about">
+                        <li @click="location.href = '{{ config('app.url') }}/about'" class="py-2 pl-4 pr-5 hover:bg-yellow-100">
+                            <a class="w-full" href="{{ config('app.url') }}/about">
                                 About Us
-                            </a>
-                        </li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100">
-                            <a href="#">
-                                Advertise
                             </a>
                         </li>
                     </ul>
@@ -190,9 +185,9 @@
                         x-transition:enter-end="scale-y-100" x-transition:leave="transition ease-in duration-300"
                         x-transition:leave-start="scale-y-100" x-transition:leave-end="scale-y-0"
                         class="transition-transform ease-out overflow-hidden origin-top transform p-3"class="top-12 z-10 bg-white absolute rounded border w-48">
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100 cursor-pointer">Learn Laravel</li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100 cursor-pointer">Livewire Tutorials</li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100 cursor-pointer">Laravel Dusk</li>
+                        <li class="py-2 pl-4 pr-5 hover:bg-yellow-100 cursor-pointer">Learn Laravel</li>
+                        <li class="py-2 pl-4 pr-5 hover:bg-yellow-100 cursor-pointer">Livewire Tutorials</li>
+                        <li class="py-2 pl-4 pr-5 hover:bg-yellow-100 cursor-pointer">Laravel Dusk</li>
                     </ul>
                 </li>
                 <li class="border-b border-inherit" x-id="['accordion-item']">
@@ -218,9 +213,9 @@
                         x-transition:enter-end="scale-y-100" x-transition:leave="transition ease-in duration-300"
                         x-transition:leave-start="scale-y-100" x-transition:leave-end="scale-y-0"
                         class="transition-transform ease-out overflow-hidden origin-top transform p-3"class="top-12 z-10 bg-white absolute rounded border w-48">
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100 cursor-pointer">TailwindCSS</li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100 cursor-pointer">Bootstrap</li>
-                        <li class="py-2 pl-4 pr-10 hover:bg-yellow-100 cursor-pointer">AlpineJS</li>
+                        <li class="py-2 pl-4 pr-5 hover:bg-yellow-100 cursor-pointer">TailwindCSS</li>
+                        <li class="py-2 pl-4 pr-5 hover:bg-yellow-100 cursor-pointer">Bootstrap</li>
+                        <li class="py-2 pl-4 pr-5 hover:bg-yellow-100 cursor-pointer">AlpineJS</li>
                     </ul>
                 </li>
                 <li class="border-b border-inherit" x-id="['accordion-item']">
