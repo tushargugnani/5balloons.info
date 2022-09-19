@@ -2,8 +2,9 @@
 
 namespace App\Services;
 
-use Corcel\Model\Post;
+use App\Models\Corcel\Post;
 use Illuminate\Http\Request;
+use ProtoneMedia\LaravelCrossEloquentSearch\Search;
 
 class HomeUrlResolverService
 {
@@ -12,16 +13,20 @@ class HomeUrlResolverService
         if ($request->has('s')) {
             $query = $request->input('s');
 
-            $posts = Post::with([
-                'author',
-                'taxonomies',
-                'thumbnail.attachment'
-            ])
-                ->where('post_type', 'post')
-                ->published()
-                ->latest()
-                ->where('post_title', 'like', "%{$query}%")
+            $posts = Search::new()
                 ->paginate(10)
+                ->add(
+                    Post::with([
+                        'author',
+                        'taxonomies',
+                        'thumbnail.attachment'
+                    ])
+                        ->where('post_type', 'post')
+                        ->published()
+                        ->latest(),
+                    'post_title'
+                )
+                ->search($query)
                 ->withQueryString();
 
             return (object) [
