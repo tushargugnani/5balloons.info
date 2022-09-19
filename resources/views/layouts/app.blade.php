@@ -51,7 +51,7 @@
         rel="stylesheet">
 </head>
 
-<body class="bg-amber-50">
+<body class="bg-amber-50 h-full">
 
     @include('partials.nav')
 

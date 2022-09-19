@@ -3,6 +3,7 @@
 use App\Http\Controllers\{
     HomeController,
     PostController,
+    LoginController,
     FilterPostsByAuthorController,
     FilterPostsByCategoryController,
 };
@@ -23,8 +24,8 @@ Route::feeds();
 
 Route::get('/', [HomeController::class, 'index'])->name('home');
 
-Route::get('posts', [PostController::class, 'index'])->name('posts.index');
-Route::get('{slug}', [PostController::class, 'show'])->name('posts.show');
+Route::get('login', [LoginController::class, 'showLoginForm'])->name('showLoginForm');
+Route::post('login', [LoginController::class, 'login'])->name('login');
 
 Route::get('/page/{pageNumber}', function ($pageNumber) {
     return redirect(route('posts.index', ['page' => $pageNumber]), 301);
@@ -39,3 +40,6 @@ Route::get('/category/{category}', [FilterPostsByCategoryController::class, 'ind
 Route::get('category/{category}/page/{pageNumber}', function ($category, $pageNumber) {
     return redirect(route('filter-posts-by-category', ['category' => $category, 'page' => $pageNumber]), 301);
 });
+
+Route::get('posts', [PostController::class, 'index'])->name('posts.index');
+Route::get('{slug}', [PostController::class, 'show'])->name('posts.show');
