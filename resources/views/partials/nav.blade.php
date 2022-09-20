@@ -112,7 +112,7 @@
                                 Laravel Dusk
                             </a>
                         </li>
-                        <li @click="location.href = 'https://www.youtube.com/watch?v=LGetygzyRFA&list=PLSWOV7oy-nwVpqRG6drYXNcn02A2QYh7V&ab_channel=5Balloons' class="py-2 pl-4 pr-5 hover:bg-yellow-100">
+                        <li @click="location.href = 'https://www.youtube.com/watch?v=LGetygzyRFA&list=PLSWOV7oy-nwVpqRG6drYXNcn02A2QYh7V&ab_channel=5Balloons'" class="py-2 pl-4 pr-5 hover:bg-yellow-100">
                             <a href="https://www.youtube.com/watch?v=LGetygzyRFA&list=PLSWOV7oy-nwVpqRG6drYXNcn02A2QYh7V&ab_channel=5Balloons"
                                 target="_blank">
                                 AlpineJS
