@@ -22,10 +22,11 @@ class HomeUrlResolverService
                         'thumbnail.attachment'
                     ])
                         ->where('post_type', 'post')
-                        ->published()
-                        ->latest(),
+                        ->published(),
                     'post_title'
                 )
+                ->beginWithWildcard()
+                ->orderByRelevance()
                 ->search($query)
                 ->withQueryString();
 

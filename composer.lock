@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "38888c20d17842177088e9fbba703240",
+    "content-hash": "f2196e3ec251342cbdb0560faecb72d1",
     "packages": [
         {
             "name": "bordoni/phpass",
@@ -2363,16 +2363,16 @@
         },
         {
             "name": "protonemedia/laravel-cross-eloquent-search",
-            "version": "3.0.0",
+            "version": "3.0.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/protonemedia/laravel-cross-eloquent-search.git",
-                "reference": "2cc8125a5db0be2dba7f9e498805841dbe4a00a9"
+                "reference": "69fc11afcd6eb16ff9374332010fa3dd338a1194"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/protonemedia/laravel-cross-eloquent-search/zipball/2cc8125a5db0be2dba7f9e498805841dbe4a00a9",
-                "reference": "2cc8125a5db0be2dba7f9e498805841dbe4a00a9",
+                "url": "https://api.github.com/repos/protonemedia/laravel-cross-eloquent-search/zipball/69fc11afcd6eb16ff9374332010fa3dd338a1194",
+                "reference": "69fc11afcd6eb16ff9374332010fa3dd338a1194",
                 "shasum": ""
             },
             "require": {
@@ -2416,7 +2416,7 @@
             ],
             "support": {
                 "issues": "https://github.com/protonemedia/laravel-cross-eloquent-search/issues",
-                "source": "https://github.com/protonemedia/laravel-cross-eloquent-search/tree/3.0.0"
+                "source": "https://github.com/protonemedia/laravel-cross-eloquent-search/tree/3.0.1"
             },
             "funding": [
                 {
@@ -2424,7 +2424,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2022-02-16T12:13:25+00:00"
+            "time": "2022-09-20T18:17:58+00:00"
         },
         {
             "name": "psr/container",
@@ -8044,5 +8044,5 @@
         "php": "^8.0.2"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.2.0"
+    "plugin-api-version": "2.1.0"
 }
