@@ -12,6 +12,7 @@
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
         "protonemedia/laravel-cross-eloquent-search": "^3.0.1",
+        "opcodesio/log-viewer": "^1.4",
         "spatie/laravel-feed": "^4.1"
     },
     "require-dev": {
