@@ -51,13 +51,14 @@
         rel="stylesheet">
     <script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
     <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-DS2ZKCCS2T"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q4KPW7G57S"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-DS2ZKCCS2T');
+  gtag('config', 'G-Q4KPW7G57S');
 </script>
 </head>
 
