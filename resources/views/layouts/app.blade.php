@@ -50,6 +50,15 @@
     <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Roboto+Slab:wght@400;500;600&display=swap"
         rel="stylesheet">
     <script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-DS2ZKCCS2T"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-DS2ZKCCS2T');
+</script>
 </head>
 
 <body class="bg-amber-50 h-full">
