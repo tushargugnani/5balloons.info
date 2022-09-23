@@ -1,4 +1,4 @@
-<div class="fixed hidden lg:block top-24 inset-0 right-2 max-w-max z-10">
+<div class="fixed hidden lg:block top-48 left-auto right-2 max-w-max z-10">
 <div id="carbon__js" class="native-carbon"></div>
 <script>
 (function(){  
