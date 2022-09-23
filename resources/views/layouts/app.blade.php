@@ -49,6 +49,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Roboto+Slab:wght@400;500;600&display=swap"
         rel="stylesheet">
+    <script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
 </head>
 
 <body class="bg-amber-50 h-full">
@@ -62,6 +63,13 @@
     </div>
 
     @include('partials.footer')
+    <script>
+  (function(){
+    if(typeof _bsa !== 'undefined' && _bsa) {
+      _bsa.init('flexbar', 'CEAIP5QJ', 'placement:5balloonsinfo');
+    }
+  })();
+</script>
 </body>
 
 </html>

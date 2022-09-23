@@ -65,6 +65,8 @@
 
     @include('partials.left-banner-bar')
 
+    @include('partials.right-banner-bar')
+
     <div>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8077071189647178"
      crossorigin="anonymous"></script>
