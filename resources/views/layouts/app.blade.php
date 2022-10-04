@@ -60,6 +60,9 @@
 
   gtag('config', 'G-Q4KPW7G57S');
 </script>
+<!-- Fathom - beautiful, simple website analytics -->
+<script src="https://cdn.usefathom.com/script.js" data-site="YJAMKRFF" defer></script>
+<!-- / Fathom -->
 </head>
 
 <body class="bg-amber-50 h-full">
