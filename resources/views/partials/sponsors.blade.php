@@ -7,15 +7,17 @@
         <img src="{{ asset('assets/sponsors/inspector-dev.png') }}" alt="Inspector Dev Logo" class="block object-contain h-26" />
         </div>
     </a>
-    <a href="https://www.digitalocean.com/?refcode=ee55b40d7cf6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" target="_blank" class="block">
-        <div class="flex items-center justify-center p-5 bg-amber-100 hover:bg-amber-200 h-24">
+    <a class="bg-amber-100 hover:bg-amber-200 rounded" href="https://www.digitalocean.com/?refcode=ee55b40d7cf6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" target="_blank" class="block">
+        <div class="flex items-center justify-center p-5 h-24">
             <img src="{{ asset('assets/sponsors/digital-ocean-logo.png') }}" alt="Inspector Dev Logo" class="block object-contain h-26" />
         </div>
+        <div class="text-orange-800 mb-3 text-sm px-2">($200 Credits on signing up for DigitalOcean cloud hosting platform)</div>
     </a>
-    <a href="https://github.com/sponsors/tushargugnani" target="_blank" class="block">
-        <div class="flex items-center justify-center p-5 bg-amber-100 hover:bg-amber-200 h-24">
-        <div class="text-gray-500">Your Logo Here</div>
+    <a class="bg-amber-100 hover:bg-amber-200 rounded" href="https://usefathom.com/ref/HPQCFW" target="_blank" class="block">
+        <div class="flex items-center justify-center p-5 h-24">
+             <img src="{{ asset('assets/sponsors/fathom-logo.png') }}" alt="Fathom Analytics Logo" class="block object-contain h-26" />
         </div>
+        <div class="text-orange-800 mb-3 text-sm px-2">($10 Credits on signing up for Fathom Analytics web analytics tool)</div>
     </a>
     <a href="https://github.com/sponsors/tushargugnani" target="_blank" class="block">
         <div class="flex items-center justify-center p-5 bg-amber-100 hover:bg-amber-200 h-24">
