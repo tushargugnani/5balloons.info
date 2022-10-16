@@ -118,6 +118,11 @@
                     About Me
                 </a>
             </li>
+            <li @click="location.href = '{{ config('app.url') }}/uses'" class="py-2 pl-4 pr-5 hover:bg-yellow-100">
+                <a class="w-full" href="{{ config('app.url') }}/uses">
+                    My Stack
+                </a>
+            </li>
             <li @click="window.open('https://github.com/sponsors/tushargugnani','_blank')"
                 class="py-2 pl-4 pr-5 hover:bg-yellow-100">
                 <a class="w-full" href="{{ config('app.url') }}/about">

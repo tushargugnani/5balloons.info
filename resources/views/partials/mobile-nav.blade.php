@@ -162,6 +162,10 @@
                     class="py-2 pl-4 pr-5 hover:bg-yellow-100 cursor-pointer">
                     About Me
                 </li>
+                <li @click="location.href = '{{ config('app.url') }}/uses'"
+                    class="py-2 pl-4 pr-5 hover:bg-yellow-100 cursor-pointer">
+                    My Stack
+                </li>
                 <li @click="window.open('https://github.com/sponsors/tushargugnani','_blank')"
                     class="py-2 pl-4 pr-5 hover:bg-yellow-100 cursor-pointer">
                     Advertise
