@@ -56,17 +56,20 @@
 
         <div class="w-full mx-auto prose md:w-3/4 lg:w-3/4 post-content">
             {!! $post->wpautop($post->content) !!}
+
+            <div>
+                <div class="mt-7 font-semibold">Comments</div>
+                <script src="https://utteranc.es/client.js"
+                    repo="tushargugnani/5balloons.info"
+                    issue-term="pathname"
+                    theme="github-light"
+                    crossorigin="anonymous"
+                    async>
+                </script>
+            </div>
         </div>
 
-        <div>
-        <script src="https://utteranc.es/client.js"
-            repo="tushargugnani/5balloons.info"
-            issue-term="pathname"
-            theme="github-light"
-            crossorigin="anonymous"
-            async>
-        </script>
-        </div>
+
 
 
     </article>
