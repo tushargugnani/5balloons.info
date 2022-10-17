@@ -58,6 +58,16 @@
             {!! $post->wpautop($post->content) !!}
         </div>
 
+        <div>
+        <script src="https://utteranc.es/client.js"
+            repo="tushargugnani/5balloons.info"
+            issue-term="pathname"
+            theme="github-light"
+            crossorigin="anonymous"
+            async>
+        </script>
+        </div>
+
 
     </article>
 
