@@ -1,36 +1,31 @@
 <section class="px-4 py-22 mx-auto max-w-7xl mt-10 bg-white shadow-inner bg-blend-normal rounded py-5">
   <h3 class="text-center mb-2 font-semibold text-amber-700">Sponsors</h3>
   <h4 class="text-center text-stone-500 mb-4">This website has <span class="font-semibold">NO spammy ads</span>, <span class="font-semibold">distracting popups</span>, and <span class="font-semibold">tracking codes</span>. Thanks to our sponsors!</h4>
-  <div class="grid grid-cols-2 gap-2 text-center lg:grid-cols-6">
-    <a href="https://inspector.dev/"  target="_blank" class="block h-24">
-        <div class="flex items-center justify-center p-5 bg-amber-100 hover:bg-amber-200 h-24">
-        <img src="{{ asset('assets/sponsors/inspector-dev.png') }}" alt="Inspector Dev Logo" class="block object-contain h-26" />
-        </div>
-    </a>
-    <a class="bg-amber-100 hover:bg-amber-200 rounded" href="https://www.digitalocean.com/?refcode=ee55b40d7cf6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" onclick="window.fathom.trackGoal('CKCAGCDB', 0);" target="_blank" class="block">
+  <div class="grid grid-cols-2 gap-6 text-center lg:grid-cols-5">
+    <a class="bg-amber-100  hover:bg-amber-200 border border-amber-400 rounded" href="https://www.digitalocean.com/?refcode=ee55b40d7cf6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" onclick="window.fathom.trackGoal('CKCAGCDB', 0);" target="_blank" class="block">
         <div class="flex items-center justify-center p-5 h-24">
             <img src="{{ asset('assets/sponsors/digital-ocean-logo.png') }}" alt="Inspector Dev Logo" class="block object-contain h-26" />
         </div>
         <div class="text-orange-800 mb-3 text-sm px-2">($200 Credits on signing up for DigitalOcean cloud hosting platform)</div>
     </a>
-    <a class="bg-amber-100 hover:bg-amber-200 rounded" href="https://usefathom.com/ref/HPQCFW" onclick="window.fathom.trackGoal('0LFQ9YNE', 0);" target="_blank" class="block">
+    <a class="bg-amber-100 hover:bg-amber-200 border border-amber-400 rounded" href="https://usefathom.com/ref/HPQCFW" onclick="window.fathom.trackGoal('0LFQ9YNE', 0);" target="_blank" class="block">
         <div class="flex items-center justify-center p-5 h-24">
              <img src="{{ asset('assets/sponsors/fathom-logo.png') }}" alt="Fathom Analytics Logo" class="block object-contain h-26" />
         </div>
         <div class="text-orange-800 mb-3 text-sm px-2">($10 Credits on signing up for Fathom Analytics web analytics tool)</div>
     </a>
-    <a href="https://github.com/sponsors/tushargugnani" target="_blank" class="block">
-        <div class="flex items-center justify-center p-5 bg-amber-100 hover:bg-amber-200 h-24">
+    <a href="https://github.com/sponsors/tushargugnani" target="_blank" class="block bg-amber-100 hover:bg-amber-200 border border-amber-400 rounded">
+        <div class="flex items-center justify-center p-5 h-48">
         <div class="text-gray-500">Your Logo Here</div>
         </div>
     </a>
-    <a href="https://github.com/sponsors/tushargugnani" target="_blank" class="block">
-        <div class="flex items-center justify-center p-5 bg-amber-100 hover:bg-amber-200 h-24">
+    <a href="https://github.com/sponsors/tushargugnani" target="_blank" class="block bg-amber-100 hover:bg-amber-200 border border-amber-400 rounded">
+        <div class="flex items-center justify-center p-5 h-48">
         <div class="text-gray-500">Your Logo Here</div>
         </div>
     </a>
-    <a href="https://github.com/sponsors/tushargugnani" target="_blank" class="block">
-        <div class="flex items-center justify-center p-5 bg-amber-100 hover:bg-amber-200 h-24">
+    <a href="https://github.com/sponsors/tushargugnani" target="_blank" class="block bg-amber-100 hover:bg-amber-200 border border-amber-400 rounded">
+        <div class="flex items-center justify-center p-5 h-48">
         <div class="text-gray-500">Your Logo Here</div>
         </div>
     </a>
