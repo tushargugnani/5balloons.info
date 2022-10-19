@@ -14,7 +14,7 @@
     }
 
     .show-post h3, .show-post h2{
-      @apply decoration-orange-500 underline-offset-4 decoration-2 underline mt-10 mb-3;
+      @apply decoration-orange-500 underline-offset-4 decoration-2 underline mt-3 mb-3;
     }
     code {
         @apply bg-gray-100 text-red-500 p-1 rounded;
