@@ -6,21 +6,21 @@
         <div class="flex items-center justify-center h-28 bg-blue-100 p-2">
             <img src="{{ asset('assets/sponsors/digital-ocean-logo.png') }}" alt="Digital Ocean Logo" class="block object-contain h-26" />
         </div>
-        <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4"><span class="font-semibold">Digital Ocean</span> - ($200 Credits on signing up for DigitalOcean cloud hosting platform)</div>
+        <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-6"><span class="font-semibold">Digital Ocean</span> - ($200 Credits on signing up for DigitalOcean cloud hosting platform)</div>
         <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">AFFILIATE AD</div>
     </a>
     <a class="border border-gray-300 rounded relative" href="https://usefathom.com/ref/HPQCFW" onclick="window.fathom.trackGoal('0LFQ9YNE', 0);" target="_blank" class="block">
         <div class="flex items-center justify-center h-28 bg-gray-300 p-2">
             <img src="{{ asset('assets/sponsors/fathom-logo.png') }}" alt="Fathom Analytics Logo" class="block object-contain h-26" />
         </div>
-        <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4"><span class="font-semibold">Fathom Analytics</span> - ($10 Credits on signing up for Fathom Analytics web analytics tool)</div>
+        <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-6"><span class="font-semibold">Fathom Analytics</span> - ($10 Credits on signing up for Fathom Analytics web analytics tool)</div>
         <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">AFFILIATE AD</div>
     </a>
     <a class="border border-gray-300 rounded relative" href="https://a.paddle.com/v2/click/103161/142447?link=2106" target="_blank" class="block">
         <div class="flex items-center justify-center h-28 bg-purple-300 p-2">
             <img src="{{ asset('assets/sponsors/tinkerwell_logo.png') }}" alt="Fathom Analytics Logo" class="block object-contain h-12" />
         </div>
-        <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4"><span class="font-semibold">Tinkerwell</span> - (The code runner for PHP, works with Laravel, Wordpress etc.)</div>
+        <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-6"><span class="font-semibold">Tinkerwell</span> - (The code runner for PHP, works with Laravel, Wordpress etc.)</div>
         <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">AFFILIATE AD</div>
     </a>
     <div>
