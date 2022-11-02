@@ -24,6 +24,10 @@ class PostController extends Controller
 
     public function show(string $slug)
     {
+        if (view()->exists('posts.'.$slug)) {
+            return view('posts.'.$slug);
+        }
+
         $post = Post::with([
             'author',
             'taxonomies',

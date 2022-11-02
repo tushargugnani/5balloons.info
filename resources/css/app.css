@@ -29,7 +29,7 @@
       @apply list-inside list-decimal;
     }
     .show-post ul li{
-      @apply list-inside list-disc;
+      @apply list-inside;
     }
     .show-post table{
       @apply border p-2 my-5;
@@ -42,5 +42,8 @@
     }
     .show-post p{
       @apply my-5;
+    }
+    .show-post .black-friday a {
+      @apply text-purple-600 no-underline underline-offset-2 hover:underline decoration-purple-700;
     }
   }
