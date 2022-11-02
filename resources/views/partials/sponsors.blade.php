@@ -24,7 +24,7 @@
         <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">AFFILIATE AD</div>
     </a>
     <div>
-        <div id="carbon__js" class="native-carbon"></div>
+        <div id="carbon__js" class="native-carbon m-0"></div>
         <script>
         (function(){  
         if(typeof _bsa !== 'undefined' && _bsa) {
