@@ -68,6 +68,8 @@
                     <li><span class="ml-1 mr-3 text-xl">🐦</span><a href="#twitter-audience-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Building Twitter Audience</a></li>
                     <li><img class="alignleft wp-image-5874 mr-3 align-left inline-block" src="https://wp.5balloons.info/wp-content/uploads/2022/10/vue-icon.png" alt="" width="25" height="25" /><a href="#vuejs-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">VueJS Deals</a></li>
                     <li><span class="ml-1 mr-3 text-xl">💰</span><a href="#freelancing-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Freelancing / Guide to Make Money Online</a></li>
+                    <li><span class="ml-1 mr-3 text-xl">🔍</span><a href="#seo-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">SEO Tools / Guides</a></li>
+                    <li><span class="ml-1 mr-3 text-xl">✉️</span><a href="#emailmarketing-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Email Marketing</a></li>
                 </ul>
 
                 <!-- Featured Deals -->
@@ -445,6 +447,14 @@
                                             <a href="https://tailwindui.com/" target="_blank" rel="noopener">Digital Ocean</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://bluehost.sjv.io/Ea4Nk2" target="_blank" rel="noopener">Bluehost</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Get WordPress hosting that fits your ambition.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>
