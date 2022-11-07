@@ -70,6 +70,7 @@
                     <li><span class="ml-1 mr-3 text-xl">💰</span><a href="#freelancing-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Freelancing / Guide to Make Money Online</a></li>
                     <li><span class="ml-1 mr-3 text-xl">🔍</span><a href="#seo-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">SEO Tools / Guides</a></li>
                     <li><span class="ml-1 mr-3 text-xl">✉️</span><a href="#emailmarketing-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Email Marketing</a></li>
+                    <li><span class="ml-1 mr-3 text-xl">🎨</span><a href="#emailmarketing-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Themes</a></li>
                 </ul>
 
                 <!-- Featured Deals -->
@@ -84,8 +85,11 @@
                     </div>
                 </div>
 
-                <hr class="border-t border-amber-500 my-7"/>
-                
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>                
                 
                 <!-- Laravel Deals -->
                 <div class="my-5" id="laravel-deals">
@@ -365,7 +369,11 @@
                     
                 </div>
 
-                <hr class="border-t border-amber-500 my-7"/>
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
 
                 <!-- TailwindCSS Deals -->
                 <div class="my-5" id="tailwindcss-deals">
@@ -414,7 +422,11 @@
                     </div>
                 </div>
 
-                <hr class="border-t border-amber-500 my-7"/>
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
 
                 <!-- Hosting Deals -->
                 <div class="my-5" id="hosting-deals">
@@ -496,7 +508,11 @@
                     </div>
                 </div>
 
-                <hr class="border-t border-amber-500 my-7"/>
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
 
 
                 <!-- Livewire Deals -->
@@ -540,7 +556,12 @@
                     </div>
                 </div>
 
-                <hr class="border-t border-amber-500 my-7"/>
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
+
 
                 <!-- Monitoring and Analytics Deals -->
                 <div class="my-5" id="monitoringtools-deals">
@@ -620,7 +641,11 @@
                     </div>
                 </div>
 
-                <hr class="border-t border-amber-500 my-7"/>
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
 
                 <!-- CSS Deals -->
                 <div class="my-5" id="css-deals">
@@ -697,7 +722,12 @@
                     </div>
                 </div>
 
-                <hr class="border-t border-amber-500 my-7"/>
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
+
 
                 <!-- Javascript Deals -->
                 <div class="my-5" id="javascript-deals">
@@ -749,8 +779,11 @@
                 </div>
 
 
-                <hr class="border-t border-amber-500 my-7"/>
-
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
 
                 <!-- IDE Courses -->
                 <div class="my-5" id="ide-deals">
@@ -807,8 +840,11 @@
                     </div>
                 </div>
 
-                <hr class="border-t border-amber-500 my-7"/>
-
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
 
                 <!-- Podcast Tools Deals -->
                 <div class="my-5" id="podcast-deals">
@@ -850,7 +886,11 @@
                 </div>
 
 
-                <hr class="border-t border-amber-500 my-7"/>
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
 
 
                 <!-- Build Twitter Audience Deals -->
@@ -926,6 +966,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">A Twitter Audience-Building Course.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr> 
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://dvassallo.gumroad.com/l/twitter-audience?a=912288051" target="_blank" rel="noopener">Everyone Can Build a Twitter Audience</a> by <a href="https://twitter.com/dvassallo">Daniel Vassallo</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Over the past 14 months, my Twitter account has grown from 150 to 24,000 followers (now 130,000+). How did I do it?</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>          
                                 </tbody>
                             </table>
@@ -933,7 +981,12 @@
                     </div>
                 </div>
 
-                <hr class="border-t border-amber-500 my-7"/>
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
+
 
                 <!-- VueJS Deals -->
                 <div class="my-5" id="vuejs-deals">
@@ -974,7 +1027,11 @@
                     </div>
                 </div>
 
-                <hr class="border-t border-amber-500 my-7"/>
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
 
                 <!-- Freelancing Deals -->
                 <div class="my-5" id="freelancing-deals">
@@ -1014,6 +1071,22 @@
                                             <a href="https://bootstrappedfounder.gumroad.com/l/zerotosold?a=912288051" target="_blank" rel="noopener">Zero to Sold</a> by <a href="https://twitter.com/arvidkahl" target="_blank">Kyle Prinsloo</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">How to Start, Run, and Sell a Bootstrapped Business.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://tom-hirst.gumroad.com/l/pcUlz?a=912288051" target="_blank" rel="noopener">Pricing Freelancing Projects</a> by <a href="https://twitter.com/tom_hirst">Tom Hirst</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">How to Start, Run, and Sell a Bootstrapped Business.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://dvassallo.gumroad.com/l/small-bets?a=912288051" target="_blank" rel="noopener">A portfolio of small bets</a> by <a href="https://twitter.com/dvassallo">Daniel Vassallo</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Understand the concept of Small Bets.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>
