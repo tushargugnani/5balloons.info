@@ -72,6 +72,7 @@
                     <li><span class="ml-1 mr-3 text-xl">✉️</span><a href="#emailmarketing-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Email Marketing</a></li>
                     <li><span class="ml-1 mr-3 text-xl">🎨</span><a href="#themes-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Themes</a></li>
                     <li><span class="ml-1 mr-3 text-xl">🌐</span><a href="#domain-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Domains</a></li>
+                    <li><span class="ml-1 mr-3 text-xl">📌</span><a href="#icon-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Icons & Illustrations</a></li>
                 </ul>
 
                 <!-- Featured Deals -->
@@ -717,6 +718,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://debuggingcss.com/" target="_blank" rel="noopener">Debugging CSS</a> by <a href="https://twitter.com/shadeed9" target="_blank">Ahmad Shadeed</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">An ebook that will help you improve your debugging CSS skills and reduce the time you spend on bugs by showing proven methods and techniques.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
@@ -1168,6 +1177,46 @@
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Buy a domain and everything else you need</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
+
+
+                <!-- Domain Deals -->
+                <div class="my-5" id="icon-deals">
+                    <div class="flex items-center">
+                        <img class="alignleft wp-image-5874 mr-3" src="https://wp.5balloons.info/wp-content/uploads/2022/10/freelancing.png" alt="" width="50" height="52" />
+                            <h2 class="mt-0 my-3">Icon & Illustrations Deals</h2>
+                    </div>
+                    <!-- Podcast Tools -->
+                    <div class="my-3">
+                        <div class="">
+                            <table class=" divide-y divide-gray-300">
+                                <thead class="bg-gray-50">
+                                <tr>
+                                    <th scope="col" class="py-3.5 pl-4 pr-3 text-left text-base font-semibold text-gray-900 sm:pl-6">Name</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Description</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Deal Details</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Valid Till</th>
+                                </tr>
+                                </thead>
+                                <tbody class="divide-y divide-gray-200 bg-white">
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://www.iconfinder.com/?ref=tushar-gugnani" target="_blank" rel="noopener">IconFinder</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Make beautiful designs faster</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><strong class="text-fuchsia-600">70% OFF</strong> on the first month of any monthly plan</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>
                                 </tbody>
