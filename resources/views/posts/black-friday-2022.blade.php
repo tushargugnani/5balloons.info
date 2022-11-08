@@ -1155,8 +1155,8 @@
                 <!-- Domain Deals -->
                 <div class="my-5" id="domain-deals">
                     <div class="flex items-center">
-                        <img class="alignleft wp-image-5874 mr-3" src="https://wp.5balloons.info/wp-content/uploads/2022/10/freelancing.png" alt="" width="50" height="52" />
-                            <h2 class="mt-0 my-3">Domain Deals</h2>
+                    <span class="ml-1 mr-3 text-5xl">🌐</span>
+                    <h2 class="mt-0 my-3">Domain Deals</h2>
                     </div>
                     <!-- Podcast Tools -->
                     <div class="my-3">
@@ -1195,7 +1195,7 @@
                 <!-- Domain Deals -->
                 <div class="my-5" id="icon-deals">
                     <div class="flex items-center">
-                        <img class="alignleft wp-image-5874 mr-3" src="https://wp.5balloons.info/wp-content/uploads/2022/10/freelancing.png" alt="" width="50" height="52" />
+                            <span class="ml-1 mr-3 text-5xl">📌</span>
                             <h2 class="mt-0 my-3">Icon & Illustrations Deals</h2>
                     </div>
                     <!-- Podcast Tools -->
