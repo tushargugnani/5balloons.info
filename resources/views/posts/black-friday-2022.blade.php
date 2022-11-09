@@ -81,7 +81,7 @@
                             <span class="ml-1 mr-3 text-5xl">🔥</span>
                             <h2 class="mt-0 my-3">Featured Deals</h2>
                     </div>
-                    <!-- TailwindCSS Component Library -->
+                    <!-- Feautured Component Library -->
                     <div class="my-3">
                         <span class="font-semibold text-gray-700">Coming Soon</span>
                     </div>
@@ -416,6 +416,14 @@
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Premium pages and components built with Tailwind CSS</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://tailgrids.com/pricing/" target="_blank" rel="noopener">TailGrids</a> by <a href="https://twitter.com/MusharofChy" target="_blank">Musharof</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">500+ Tailwind CSS UI Components for - Web App, Marketing, Dashboard, E-Commerce, and More ...</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">code: <span class="text-fuchsia-600 bg-fuchsia-100 p-1 rounded font-semibold">BLF2022</span> for <span class="text-fuchsia-600">40% Discount</span> 🔥</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>
                                 </tbody>
