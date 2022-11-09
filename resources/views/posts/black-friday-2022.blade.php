@@ -501,8 +501,8 @@
                                             <a href="https://www.cloudways.com/en/?id=653938" target="_blank" rel="noopener">Cloudways</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Managed Cloud Hosting for Those on a Mission</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><strong class="text-fuchsia-600">40% OFF</strong> for the first 4 months on ALL their hosting plans. Use coupon: <span class="text-fuchsia-600 bg-fuchsia-100 p-1 rounded">BFCM4030</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">The deal is Live and will remain live until <strong>28 Nov, 2022</strong></td>
                                     </tr>
                                 </tbody>
                             </table>
