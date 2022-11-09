@@ -82,8 +82,37 @@
                             <h2 class="mt-0 my-3">Featured Deals</h2>
                     </div>
                     <!-- Feautured Component Library -->
-                    <div class="my-3">
-                        <span class="font-semibold text-gray-700">Coming Soon</span>
+                    <div class="my-3 featured-deals">
+                         <div class="grid grid-cols-2 gap-6 text-center lg:grid-cols-4">
+                            <a class="border border-gray-300 rounded relative hover:bg-purple-100" href="https://www.digitalocean.com/?refcode=ee55b40d7cf6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" onclick="window.fathom.trackGoal('CKCAGCDB', 0);" target="_blank" class="block">
+                                <div class="flex items-center justify-center h-28 bg-orange-100 p-2">
+                                    <span class="text-6xl">🛍️</span>
+                                </div>
+                                <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-8"><span class="font-semibold">Your product</span> - (Details about the discount on product using coupon code BLAH22)</div>
+                                <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">SPONSORED</div>
+                            </a>
+                            <a class="border border-gray-300 rounded relative hover:bg-purple-100" href="https://www.digitalocean.com/?refcode=ee55b40d7cf6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" onclick="window.fathom.trackGoal('CKCAGCDB', 0);" target="_blank" class="block">
+                                <div class="flex items-center justify-center h-28 bg-red-100 p-2">
+                                    <span class="text-6xl">🔮</span>
+                                </div>
+                                <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-8"><span class="font-semibold">Your product</span> - (Details about the discount on product using coupon code BLAH22)</div>
+                                <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">SPONSORED</div>
+                            </a>
+                            <a class="border border-gray-300 rounded relative hover:bg-purple-100" href="https://www.digitalocean.com/?refcode=ee55b40d7cf6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" onclick="window.fathom.trackGoal('CKCAGCDB', 0);" target="_blank" class="block">
+                                <div class="flex items-center justify-center h-28 bg-blue-100 p-2">
+                                    <span class="text-6xl">🎉</span>
+                                </div>
+                                <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-8"><span class="font-semibold">Your product</span> - (Details about the discount on product using coupon code BLAH22)</div>
+                                <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">SPONSORED</div>
+                            </a>
+                            <a class="border border-gray-300 rounded relative hover:bg-purple-100" href="https://www.digitalocean.com/?refcode=ee55b40d7cf6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" onclick="window.fathom.trackGoal('CKCAGCDB', 0);" target="_blank" class="block">
+                                <div class="flex items-center justify-center h-28 bg-green-100 p-2">
+                                    <span class="text-6xl">✨</span>
+                                </div>
+                                <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-8"><span class="font-semibold">Your product</span> - (Details about the discount on product using coupon code BLAH22)</div>
+                                <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">SPONSORED</div>
+                            </a>
+                        </div>
                     </div>
                 </div>
 
