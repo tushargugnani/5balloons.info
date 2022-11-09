@@ -3,7 +3,7 @@
 @section('headtags')
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="2022 Best Black Friday Holiday Deals for Developers & Designers" />
+    <meta property="og:title" content="2022 Best Black Friday Holiday Deals for Developers" />
     <meta property="og:url" content="{{ route('posts.show', 'black-friday-2022') }}" />
     <meta property="og:site_name" content="5Balloons — Programming and Tech Articles" />
     <meta property="og:description" content="Checkout the most comprehensive list of black friday deals for developers, includes huge discount on courses, hosting, themes, tools, e-books and much more" />
@@ -14,7 +14,7 @@
     <meta property="og:image:height" content="630" />
     <meta property="og:image:type" content="image/png" />
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:title" content="2022 Best Black Friday Holiday Deals for Developers & Designers" />
+    <meta name="twitter:title" content="2022 Best Black Friday Holiday Deals for Developers" />
     <meta name="twitter:site" content="@_5balloons" />
 @endsection
 
@@ -32,7 +32,7 @@
                     alt="Black Friday 2022 Deals for Programmers and Desingers" />
 
             <h1 class="mb-3 text-3xl font-bold leading-tight text-gray-900 md:text-4xl" itemprop="headline">
-                2022 Hottest Black Friday deals - Developers and Designers
+                2022 Hottest Black Friday deals for Developers
             </h1>
         </div>
             
@@ -501,7 +501,7 @@
                                             <a href="https://www.cloudways.com/en/?id=653938" target="_blank" rel="noopener">Cloudways</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Managed Cloud Hosting for Those on a Mission</td>
-                                        <td class="px-3 py-4 text-base text-gray-500"><strong class="text-fuchsia-600">40% OFF</strong> for the first 4 months on ALL their hosting plans. Use coupon: <span class="text-fuchsia-600 bg-fuchsia-100 p-1 rounded">BFCM4030</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><a href="https://www.cloudways.com/en/?id=653938" target="_blank" class="text-fuchsia-600 font-semibold">40% OFF</a> for the first 4 months on ALL their hosting plans. Use coupon: <span class="text-fuchsia-600 bg-fuchsia-100 p-1 rounded">BFCM4030</span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">The deal is Live and will remain live until <strong>28 Nov, 2022</strong></td>
                                     </tr>
                                 </tbody>
