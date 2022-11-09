@@ -452,7 +452,7 @@
                                             <a href="https://tailgrids.com/pricing/" target="_blank" rel="noopener">TailGrids</a> by <a href="https://twitter.com/MusharofChy" target="_blank">Musharof</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">500+ Tailwind CSS UI Components for - Web App, Marketing, Dashboard, E-Commerce, and More ...</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">code: <span class="text-fuchsia-600 bg-fuchsia-100 p-1 rounded font-semibold">BLF2022</span> for <span class="text-fuchsia-600">40% Discount</span> 🔥</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">code: <span class="coupon">BLF2022</span> for <span class="text-fuchsia-600">40% Discount</span> 🔥</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>
                                 </tbody>
@@ -586,8 +586,8 @@
                                             <a href="https://www.livewiredemos.com" target="_blank" rel="noopener">LivewireDemos Pro</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Library of TALL stack Components. Directly plug these reusable components in your application.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="text-fuchsia-600 font-semibold">40% OFF</span>  using coupon code <span class="coupon">BF2022</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Valid till <strong>30th November</strong></td>
                                     </tr>
                                 </tbody>
                             </table>
