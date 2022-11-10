@@ -47,8 +47,8 @@
                 </div>
 
                 <h3>Share Your Black Friday & Cyber Monday Deals</h3>
-                <p>If you come across deals which I missed including, you can email me at tushar[@]5balloons.info or you can simply comment it in the comment box and I will include it.</p>
-                <p class="flex justify-center"><a href="#comments" class="rounded border border-purple-700 bg-purple-200 block text-white font-semibold p-2 w-1/3 text-center">Submit your deal in comments</a></p>
+                <p>If you come across deals which I missed including, you can email me at tushar[@]5balloons.info or you can simply comment it in the comment box, or submit it via Google Form by clicking on below button.</p>
+                <p class="flex justify-center"><a href="https://forms.gle/JMKanQVTKTkV3ZoG8" target="_blank" class="rounded border border-purple-700 bg-purple-200 block text-white font-semibold p-2 w-1/3 text-center">Submit your deal</a></p>
                 <p>Apart from the open submissions, I am also taking submissions for <strong>featured deals</strong>, which be highlighted on the top of the page. If you are interested in getting your product / service in featured deals list you can do so my sending me an email at tushar[@]5balloons.info, this would involve paying a nominal fee.</p>
 
                 <h3>Let’s Get To The Deals!</h3>
@@ -588,6 +588,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">Library of TALL stack Components. Directly plug these reusable components in your application.</td>
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="text-fuchsia-600 font-semibold">40% OFF</span>  using coupon code <span class="coupon">BF2022</span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">Valid till <strong>30th November</strong></td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://wire-elements.dev/" target="_blank" rel="noopener">Wire Elements</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Beautiful components crafted with Livewire</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>
                                 </tbody>
                             </table>
