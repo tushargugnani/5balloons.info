@@ -760,8 +760,8 @@
                                             <a href="https://shrutibalasa.gumroad.com/l/css-flex-and-grid?a=912288051" target="_blank" rel="noopener">Complete Guide to CSS Flex and Grid</a> by <a href="https://twitter.com/shrutibalasa" target="_blank">Shruti Balasa</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Become a pro at building components & layouts with CSS Flexbox and Grid</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="text-fuchsia-600 font-semibold">60% OFF</span> on all versions using the code <span class="coupon">BlackFriday22</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Only for 48 hours starting 25th November</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -1221,8 +1221,8 @@
                                             <a href="https://namecheap.pxf.io/mgQW2X" target="_blank" rel="noopener">Namecheap</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Buy a domain and everything else you need</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Domain as low as <span class="text-fuchsia-600 font-semibold">99cents</span>, <span class="text-fuchsia-600 font-semibold">50% OFF</span> on hostings</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">November 25 to December 4, 2022</td>
                                     </tr>
                                 </tbody>
                             </table>
