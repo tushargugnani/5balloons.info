@@ -18,7 +18,7 @@
     <meta name="twitter:site" content="@_5balloons" />
 @endsection
 
-@section('title', '')
+@section('title', 'Hottest 2022 Black Friday Deals for Developer')
 
 @section('content')
 
@@ -56,6 +56,7 @@
 
                 <ul class="list-none">
                     <li><span class="ml-1 mr-3 text-xl">🔥</span><a href="#featured-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Featured Deals</a></li>
+                    <li><span class="ml-1 mr-3 text-xl">🚀</span><a href="#course-platform-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Course Platforms</a></li>
                     <li><img class="alignleft wp-image-5874 mr-3 text-left inline-block" src="https://wp.5balloons.info/wp-content/uploads/2022/10/laravel.png" alt="" width="25" height="25" /><a href="#laravel-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Laravel Deals</a></li>
                     <li><img class="alignleft wp-image-5874 mr-3 text-left inline-block" src="https://wp.5balloons.info/wp-content/uploads/2022/10/tailwindcss.png" alt="" width="25" height="25" /><a href="#tailwindcss-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">TailwindCSS Deals</a></li>
                     <li><img class="alignleft wp-image-5874 mr-3 text-left inline-block" src="https://wp.5balloons.info/wp-content/uploads/2022/10/livewire.png" alt="" width="25" height="25" /><a href="#livewire-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Laravel Livewire Deals</a></li>
@@ -73,6 +74,7 @@
                     <li><span class="ml-1 mr-3 text-xl">🎨</span><a href="#themes-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Themes</a></li>
                     <li><span class="ml-1 mr-3 text-xl">🌐</span><a href="#domain-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Domains</a></li>
                     <li><span class="ml-1 mr-3 text-xl">📌</span><a href="#icon-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Icons & Illustrations</a></li>
+                    <li><span class="ml-1 mr-3 text-xl">🛠️</span><a href="#development-software-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Development Software</a></li>
                 </ul>
 
                 <!-- Featured Deals -->
@@ -120,7 +122,53 @@
                     <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
                     🔥
                     <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
-                </div>                
+                </div>   
+
+                <!-- Course Platform Deals -->
+                <div class="my-5" id="course-platform-deals">
+                    <div class="flex items-center">
+                            <span class="ml-1 mr-3 text-5xl">🚀</span>
+                            <h2 class="mt-0 my-3">Course Platform Deals</h2>
+                    </div>
+                    <div class="my-3">
+                        <div class="flex items-center ml-5 text-emerald-500">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 mr-3 text-pink-800">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M8.25 3v1.5M4.5 8.25H3m18 0h-1.5M4.5 12H3m18 0h-1.5m-15 3.75H3m18 0h-1.5M8.25 19.5V21M12 3v1.5m0 15V21m3.75-18v1.5m0 15V21m-9-1.5h10.5a2.25 2.25 0 002.25-2.25V6.75a2.25 2.25 0 00-2.25-2.25H6.75A2.25 2.25 0 004.5 6.75v10.5a2.25 2.25 0 002.25 2.25zm.75-12h9v9h-9v-9z" />
+                        </svg>
+
+
+                            <h4 class=" text-xl my-2">Livewire Components</h4>
+                        </div>
+                        <div class="">
+                            <table class=" divide-y divide-gray-300">
+                                <thead class="bg-gray-50">
+                                <tr>
+                                    <th scope="col" class="py-3.5 pl-4 pr-3 text-left text-base font-semibold text-gray-900 sm:pl-6">Name</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Description</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Deal Details</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Valid Till</th>
+                                </tr>
+                                </thead>
+                                <tbody class="divide-y divide-gray-200 bg-white">
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://click.linksynergy.com/fs-bin/click?id=N/LVUm6HJbg&offerid=1060092.20020&type=3&subid=0" target="_blank" rel="noopener">Udemy</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Online Courses</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="bg- font-semibold">85% off</span> during our Cyber Sale.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Valid till <strong>30th November</strong></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>     
+                
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
                 
                 <!-- Laravel Deals -->
                 <div class="my-5" id="laravel-deals">
@@ -1237,7 +1285,7 @@
                 </div>
 
 
-                <!-- Domain Deals -->
+                <!-- Icon Deals -->
                 <div class="my-5" id="icon-deals">
                     <div class="flex items-center">
                             <span class="ml-1 mr-3 text-5xl">📌</span>
@@ -1262,6 +1310,69 @@
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Make beautiful designs faster</td>
                                         <td class="px-3 py-4 text-base text-gray-500"><strong class="text-fuchsia-600">70% OFF</strong> on the first month of any monthly plan</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
+
+
+                <!-- Icon Deals -->
+                <div class="my-5" id="development-software-deals">
+                    <div class="flex items-center">
+                            <span class="ml-1 mr-3 text-5xl">🛠️</span>
+                            <h2 class="mt-0 my-3">Development Software Deals</h2>
+                    </div>
+                    <div class="my-3">
+                        <div class="">
+                            <table class=" divide-y divide-gray-300">
+                                <thead class="bg-gray-50">
+                                <tr>
+                                    <th scope="col" class="py-3.5 pl-4 pr-3 text-left text-base font-semibold text-gray-900 sm:pl-6">Name</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Description</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Deal Details</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Valid Till</th>
+                                </tr>
+                                </thead>
+                                <tbody class="divide-y divide-gray-200 bg-white">
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://devutils.app/" target="_blank" rel="noopener">DevUtils</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://www.apptorium.com/expressions" target="_blank" rel="noopener">Expressions</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Regular Expressions App Made Nice.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://www.git-tower.com/" target="_blank" rel="noopener">Tower</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Tower - the most powerful Git client for Mac and Windows.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://blisk.io/" target="_blank" rel="noopener">Blisk</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Cross-Device Testing Done Right</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>
                                 </tbody>
