@@ -331,7 +331,7 @@
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                    <a href="https://laravelsecrets.com/?ref=bf2022" target="_blank" rel="noopener">Laravel Secrets</a> by <a href="https://twitter.com/themsaid" target="_blank">Mohamed Said</a>
+                                    <a href="https://laravelsecrets.com/?ref=bf2022" target="_blank" rel="noopener">Laravel Secrets</a> by <a href="https://twitter.com/stefanbauerme" target="_blank">Stefan Bauer</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Learn how to use the queue system to make your applications faster and more reliable while reducing running costs.</td>
                                 <td class="px-3 py-4 text-base text-gray-500"><span class="offer">7 EUR</span> instead of <del>19 EUR</del>.</td>
