@@ -329,6 +329,14 @@
                                 <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                 <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                             </tr>
+                            <tr>
+                                <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                    <a href="https://laravelsecrets.com/?ref=bf2022" target="_blank" rel="noopener">Laravel Secrets</a> by <a href="https://twitter.com/themsaid" target="_blank">Mohamed Said</a>
+                                </td>
+                                <td class="px-3 py-4 text-base text-gray-500">Learn how to use the queue system to make your applications faster and more reliable while reducing running costs.</td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">7 EUR</span> instead of <del>19 EUR</del>.</td>
+                                <td class="px-3 py-4 text-base text-gray-500">Live now</td>
+                            </tr>
                             </tbody>
                         </table>
                     </div>
@@ -716,11 +724,11 @@
                                         </tr>
                                         <tr>
                                             <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                                <a href="https://pingping.io/" target="_blank" rel="noopener">PingPing.io</a>
+                                                <a href=" https://pingping.io/?ref=bf2022" target="_blank" rel="noopener">PingPing.io</a>
                                             </td>
                                             <td class="px-3 py-4 text-base text-gray-500">Get notified by the simplest uptime monitoring service in the world, when your website is down or your certificate becomes invalid. No more, no less.</td>
-                                            <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                            <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                            <td class="px-3 py-4 text-base text-gray-500"><span class="offer">25% OFF</span> for lifetime, using coupon code <span class="coupon">bf2022</span></td>
+                                            <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                         </tr>
                                     </tbody>
                             </table>
