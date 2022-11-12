@@ -75,6 +75,7 @@
                     <li><span class="ml-1 mr-3 text-xl">🌐</span><a href="#domain-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Domains</a></li>
                     <li><span class="ml-1 mr-3 text-xl">📌</span><a href="#icon-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Icons & Illustrations</a></li>
                     <li><span class="ml-1 mr-3 text-xl">🛠️</span><a href="#development-software-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Development Software</a></li>
+                    <li><span class="ml-1 mr-3 text-xl">👨‍💻</span><a href="#development-software-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Indie Makers Deals</a></li>
                 </ul>
 
                 <!-- Featured Deals -->
@@ -1405,6 +1406,46 @@
                                         <td class="px-3 py-4 text-base text-gray-500">Cross-Device Testing Done Right</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
+
+
+                <!-- Icon Deals -->
+                <div class="my-5" id="indiemaker-deals">
+                    <div class="flex items-center">
+                            <span class="ml-1 mr-3 text-5xl">👨‍💻</span>
+                            <h2 class="mt-0 my-3">Indie Makers Deals</h2>
+                    </div>
+                    <div class="my-3">
+                        <div class="">
+                            <table class=" divide-y divide-gray-300">
+                                <thead class="bg-gray-50">
+                                <tr>
+                                    <th scope="col" class="py-3.5 pl-4 pr-3 text-left text-base font-semibold text-gray-900 sm:pl-6">Name</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Description</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Deal Details</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Valid Till</th>
+                                </tr>
+                                </thead>
+                                <tbody class="divide-y divide-gray-200 bg-white">
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://www.logology.co/" target="_blank" rel="noopener">Logology</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Get a designer-quality logo for your startup. In 5 minutes.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span> using coupon code <span class="coupon">BF22</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">22nd Nov to 27th Nov 2022</td>
                                     </tr>
                                 </tbody>
                             </table>
