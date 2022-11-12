@@ -58,4 +58,8 @@
     .show-post .black-friday .coupon{
       @apply text-fuchsia-600 bg-fuchsia-100 p-1 rounded font-semibold
     }
+
+    .show-post .black-friday .offer{
+      @apply text-fuchsia-600 font-semibold
+    }
   }
