@@ -303,8 +303,8 @@
                                     <a href="https://battle-ready-laravel.com/" target="_blank" rel="noopener">Battle Ready Laravel</a> by <a href="https://twitter.com/AshAllenDesign" target="_blank">Ash Allen</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">A guide to auditing, testing, fixing, and improving your Laravel applications.</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span> using coupon code <span class="coupon">BLACKFRIDAY30</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
