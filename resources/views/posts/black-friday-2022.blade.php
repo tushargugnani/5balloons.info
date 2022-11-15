@@ -1249,6 +1249,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">GET <span class="offer">51% OFF</span> A YEARLY PLAN PLUS A FREE WORKSHOP TICKET</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Black Friday Early bird sale live now !</td>
                                     </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://www.vuemastery.com/black-friday/" target="_blank" rel="noopener">Vue Mastery</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Level up your skills with the highest quality Vue tutorials</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">More than <span class="offer">50% OFF</span> on yearly plan. (yearly plan price $300, usually at $180, now at $140)</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now !</td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
