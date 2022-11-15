@@ -1243,11 +1243,11 @@
                                 <tbody class="divide-y divide-gray-200 bg-white">
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://vueschool.io/" target="_blank" rel="noopener">Vue School</a>
+                                            <a href="https://vueschool.io/sales/blackfriday" target="_blank" rel="noopener">Vue School</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Learn Vue.js and modern, cutting-edge front-end technologies from core-team members and industry experts with our premium tutorials and video courses.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">GET <span class="offer">51% OFF</span> A YEARLY PLAN PLUS A FREE WORKSHOP TICKET</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Black Friday Early bird sale live now !</td>
                                     </tr>
                                 </tbody>
                             </table>
