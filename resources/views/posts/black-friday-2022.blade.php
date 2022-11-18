@@ -278,11 +278,11 @@
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                    <a href="https://confidentlaravel.com/" target="_blank" rel="noopener">Confident Laravel</a> by <a href="https://twitter.com/gonedark" target="_blank">Jason McCreary</a>
+                                    <a href="https://products.jasonmccreary.me/packages" target="_blank" rel="noopener">Confident Laravel and Base Laravel Bundle</a> by <a href="https://twitter.com/gonedark" target="_blank">Jason McCreary</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">From no tests to confidently tested, A step-by-step guide to writing tests for your existing Laravel applications.</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500">Now at <span class="offer">$169</span> <del>$298</del></td>
+                                <td class="px-3 py-4 text-base text-gray-500">Live Now !</td>
                             </tr>
                             </tbody>
                         </table>
