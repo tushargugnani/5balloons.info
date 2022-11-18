@@ -825,8 +825,8 @@
                                                 <a href="https://usefathom.com/ref/HPQCFW" target="_blank" rel="noopener">Fathom Analytics</a>
                                             </td>
                                             <td class="px-3 py-4 text-base text-gray-500">Privacy-focused website analytics without compromise</td>
-                                            <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                            <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                            <td class="px-3 py-4 text-base text-gray-500"><span class="offer">10$</span> new sign-up credit</td>
+                                            <td class="px-3 py-4 text-base text-gray-500">Affiliate discount</td>
                                         </tr>
                                     </tbody>
                             </table>
