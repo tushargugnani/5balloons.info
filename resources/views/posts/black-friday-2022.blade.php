@@ -217,8 +217,8 @@
                                     <a href="https://learn.christoph-rumpel.com/products/pest-driven-laravel" target="_blank" rel="noopener">PEST Driven Laravel</a> by <a href="https://twitter.com/christophrumpel" target="_blank">Christoph Rumpel</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Learn to write applications that are fully tested and a joy to work with now and in the future through TDD.</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span>20% OFF</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500">Early Black Friday Sale, Live Now !</td>
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -1059,8 +1059,8 @@
                                                 <a href="https://masteringphpstorm.com/" target="_blank" rel="noopener">Mastering PHPStorm</a> by <a href="https://twitter.com/christophrumpel" target="_blank">Christoph Rumpel</a>
                                             </td>
                                             <td class="px-3 py-4 text-base text-gray-500">A video course for the state-of-the-art PHP developer who wants to work efficiently and successfully in a beautiful IDE.</td>
-                                            <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                            <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                            <td class="px-3 py-4 text-base text-gray-500"><span class="offer">20% OFF</span></td>
+                                            <td class="px-3 py-4 text-base text-gray-500">Early black friday sale, Live now</td>
                                         </tr>
                                         <tr>
                                             <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
