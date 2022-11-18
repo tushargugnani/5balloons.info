@@ -550,7 +550,7 @@
                                             <a href="https://a.paddle.com/v2/click/103161/142447?link=3094" target="_blank" rel="noopener">Windy</a> by <a href="https://beyondco.de/" target="_blank">Beyond Code</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Copy elements from any website as a Tailwind CSS component</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Now at <span class="offer">$59</span> <del>$89</del></td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>
                                     <tr>
