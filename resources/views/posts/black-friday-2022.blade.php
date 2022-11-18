@@ -225,8 +225,8 @@
                                     <a href="https://writing-readable-php.com/" target="_blank" rel="noopener">Writing Readable PHP</a> by <a href="https://spatie.be/" target="_blank">Spatie</a> and <a href="https://twitter.com/christophrumpel" target="_blank">Christoph Rumpel</a> 
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">A collection of tricks and trip to improve the readability of your code.</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500">From Monday 21st Nov till Cyber Monday</td>
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -265,16 +265,16 @@
                                     <a href="https://event-sourcing-laravel.com/" target="_blank" rel="noopener">Event Sourcing in Laravel</a> by <a href="https://spatie.be/" target="_blank">Spatie</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">A hands-on course to start using event sourcing in large apps</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500">From Monday 21st Nov till Cyber Monday</td>
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
                                     <a href="https://laravel-beyond-crud.com/" target="_blank" rel="noopener">Laravel Beyond CRUD</a> by <a href="https://spatie.be/" target="_blank">Spatie</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Learn how to build larger-than-average Laravel applications and maintain them for years to come</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500">From Monday 21st Nov till Cyber Monday</td>
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -327,8 +327,8 @@
                                     <a href="https://spatie.be/products/front-line-php" target="_blank" rel="noopener">Front Line PHP</a> by <a href="https://spatie.be/" target="_blank">Spatie</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Building modern applications with PHP 8.1</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500">From Monday 21st Nov till Cyber Monday</td>
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -390,16 +390,16 @@
                                             <a href="https://spatie.be/products/ray" target="_blank" rel="noopener">Ray</a> by Spatie
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Ray is a desktop application that serves as the dedicated home for debugging output. Send, format and filter debug information from both local projects and remote servers.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">From Monday 21st Nov till Cyber Monday</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
                                             <a href="https://medialibrary.pro/" target="_blank" rel="noopener">Media Library Pro</a> by Spatie
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">UI components for laravel-medialibrary</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">From Monday 21st Nov till Cyber Monday</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
