@@ -371,19 +371,19 @@
                                 <tbody class="divide-y divide-gray-200 bg-white">
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="#" target="_blank" rel="noopener">Tinkerwell</a> by BeyondCode
+                                            <a href="https://a.paddle.com/v2/click/103161/142447?link=3530" target="_blank" rel="noopener">Tinkerwell</a> by BeyondCode
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Quickly iterate on PHP code within the context of your web application. Use Tinkerwell locally, via SSH, Docker and even on Laravel Vapor.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Lifetime license at <span class="offer">$199</span> 🔥🔥🔥</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live Now !!</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://beyondco.de/docs/invoker/welcome" target="_blank" rel="noopener">Invoker</a> by BeyondCode
+                                            <a href="https://a.paddle.com/v2/click/103161/142447?link=3530" target="_blank" rel="noopener">Invoker</a> by BeyondCode
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Replace your database management tool, test emails, trigger jobs and run commands from a convenient interface.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Lifetime license at <span class="offer">$199</span>, Yearly at <span class="offer">$49</span> <del>$69</del></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now !!</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -406,14 +406,22 @@
                                             <a href="https://flareapp.io/" target="_blank" rel="noopener">Flare App</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Flare is specifically built for Laravel error tracking. Think of Ignition—your local error page—in production. Track all your PHP and JavaScript errors in one place.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Monday 22nd Nov till Cyber Monday</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
                                             <a href="https://nova.laravel.com/" target="_blank" rel="noopener">Laravel Nova</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Nova is a beautifully-designed administration panel for Laravel. Carefully crafted by the creators of Laravel, Nova is designed to make you the most productive developer in the galaxy.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://a.paddle.com/v2/click/103161/142447?link=3530" target="_blank" rel="noopener">HELO</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">The beautiful way to test and debug your emails.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>
@@ -555,11 +563,11 @@
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://a.paddle.com/v2/click/103161/142447?link=3573" target="_blank" rel="noopener">DevTools for Tailwind</a> by <a href="https://beyondco.de/" target="_blank">Beyond Code</a>
+                                            <a href="https://a.paddle.com/v2/click/103161/142447?link=3530" target="_blank" rel="noopener">DevTools for Tailwind</a> by <a href="https://beyondco.de/" target="_blank">Beyond Code</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">The DevTools Tailwind deserves.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Buy now for <span>$29</span> instead of <span class="offer">$49</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now !!</td>
                                     </tr>
                                 </tbody>
                             </table>
