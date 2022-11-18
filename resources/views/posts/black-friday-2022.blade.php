@@ -217,7 +217,7 @@
                                     <a href="https://learn.christoph-rumpel.com/products/pest-driven-laravel" target="_blank" rel="noopener">PEST Driven Laravel</a> by <a href="https://twitter.com/christophrumpel" target="_blank">Christoph Rumpel</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Learn to write applications that are fully tested and a joy to work with now and in the future through TDD.</td>
-                                <td class="px-3 py-4 text-base text-gray-500"><span>20% OFF</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">20% OFF</span></td>
                                 <td class="px-3 py-4 text-base text-gray-500">Early Black Friday Sale, Live Now !</td>
                             </tr>
                             <tr>
@@ -872,7 +872,7 @@
                                             <a href="https://css-for-js.dev/" target="_blank" rel="noopener">CSS for Javascript Developers</a> by <a href="https://twitter.com/JoshWComeau" target="_blank">Josh W. Comeau</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">The all-new interactive learning experience designed to help JavaScript developers become confident with CSS.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Current Prices : Basic Package $149, Pro Package $279, Ultimate Package $399 </td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>
                                 </tbody>
