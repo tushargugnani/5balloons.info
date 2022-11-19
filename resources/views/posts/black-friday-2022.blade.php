@@ -64,7 +64,7 @@
                     <li><img class="alignleft wp-image-5874 mr-3 text-left inline-block" src="https://wp.5balloons.info/wp-content/uploads/2022/10/css-logo.png" alt="" width="25" height="25" /><a href="#css-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">CSS Deals</a></li>
                     <li><img class="alignleft wp-image-5874 mr-3 text-left inline-block" src="https://wp.5balloons.info/wp-content/uploads/2022/10/JavaScript-logo.png" alt="" width="25" height="25" /><a href="#javascript-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Javascript Deals</a></li>
                     <li><span class="ml-1 mr-3 text-xl">☁️</span><a href="#hosting-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Cloud Hosting</a></li>
-                    <li><img class="alignleft wp-image-5874 mr-3 text-left inline-block" src="https://wp.5balloons.info/wp-content/uploads/2022/10/editor.png" alt="" width="25" height="25" /><a href="#ide-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">IDE Courses</a></li>
+                    <li><img class="alignleft wp-image-5874 mr-3 text-left inline-block" src="https://wp.5balloons.info/wp-content/uploads/2022/10/editor.png" alt="" width="25" height="25" /><a href="#ide-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">IDE / IDE Courses</a></li>
                     <li><span class="ml-1 mr-3 text-xl">🎙️</span><a href="#podcast-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Podcast Tools</a></li>
                     <li><span class="ml-1 mr-3 text-xl">🐦</span><a href="#twitter-audience-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Building Twitter Audience</a></li>
                     <li><img class="alignleft wp-image-5874 mr-3 align-left inline-block" src="https://wp.5balloons.info/wp-content/uploads/2022/10/vue-icon.png" alt="" width="25" height="25" /><a href="#vuejs-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">VueJS Deals</a></li>
@@ -1214,7 +1214,7 @@
                                 <tbody class="divide-y divide-gray-200 bg-white">
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://tom-hirst.gumroad.com/l/UBsly" target="_blank" rel="noopener">Writing Tweets Daily</a>
+                                            <a href="https://tom-hirst.gumroad.com/l/UBsly" target="_blank" rel="noopener">Writing Tweets Daily</a> by <a href="https://twitter.com/tom_hirst" target="_blank">Tom Hirst</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Record your audio and upload it to Transistor. We'll help you distribute your podcast to Apple Podcasts, Spotify, and Google Podcasts.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
@@ -1225,7 +1225,7 @@
                                             <a href="https://lifemathmoney.gumroad.com/l/TwitterGuide?a=912288051" target="_blank" rel="noopener">The Art of Twitter</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Build a Business That Makes You $100/Day</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Currently priced $89.99</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>  
                                     <tr>
@@ -1233,7 +1233,7 @@
                                             <a href="https://creation247.gumroad.com/l/10xtwitter?a=912288051" target="_blank" rel="noopener">Create, Publish, Profit: 10X Your Twitter in 30 Days</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Get Direct Access to a 30-Day Mentorship That Teaches You Everything You Ever Wanted to Know About Building a Twitter Business.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Currently $29 a month</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>      
                                     <tr>
@@ -1241,7 +1241,7 @@
                                             <a href="https://creation247.gumroad.com/l/twitterunlocked?a=912288051" target="_blank" rel="noopener">Create 24/7</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">The Blueprint to Build a 6-Figure Twitter Business</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Current Price : $99</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>  
                                     <tr>
@@ -1249,7 +1249,7 @@
                                             <a href="https://dagorenouf.gumroad.com/l/how-to-dominate-twitter?a=912288051" target="_blank" rel="noopener">How to Dominate Twitter</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">The 4-step formula to give your tweets priority in the feed and boost your growth.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Current Price : $79</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>     
                                     <tr>
@@ -1257,7 +1257,7 @@
                                             <a href="https://bootstrappedfounder.gumroad.com/l/findyourfollowing?a=912288051" target="_blank" rel="noopener">Find Your Following</a> by Arvid Kahl
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">A Twitter Audience-Building Course.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Current Price : $49.99</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr> 
                                     <tr>
@@ -1265,7 +1265,7 @@
                                             <a href="https://dvassallo.gumroad.com/l/twitter-audience?a=912288051" target="_blank" rel="noopener">Everyone Can Build a Twitter Audience</a> by <a href="https://twitter.com/dvassallo">Daniel Vassallo</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Over the past 14 months, my Twitter account has grown from 150 to 24,000 followers (now 130,000+). How did I do it?</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Current Price : $25</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>          
                                 </tbody>
@@ -1377,7 +1377,7 @@
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://tom-hirst.gumroad.com/l/pcUlz?a=912288051" target="_blank" rel="noopener">Pricing Freelancing Projects</a> by <a href="https://twitter.com/tom_hirst">Tom Hirst</a>
+                                            <a href="https://tom-hirst.gumroad.com/l/pcUlz?a=912288051" target="_blank" rel="noopener">Pricing Freelancing Projects</a> by <a href="https://twitter.com/tom_hirst" target="_blank">Tom Hirst</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">How to Start, Run, and Sell a Bootstrapped Business.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
