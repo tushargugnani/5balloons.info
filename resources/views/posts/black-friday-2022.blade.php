@@ -293,6 +293,14 @@
                                 <td class="px-3 py-4 text-base text-gray-500">Now at <span class="offer">$99</span>, <span class="offer">40% OFF</span></td>
                                 <td class="px-3 py-4 text-base text-gray-500">Live Now !</td>
                             </tr>
+                            <tr>
+                                <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                    <a href="https://a.paddle.com/v2/click/103161/142447?link=3530" target="_blank" rel="noopener">PHP Package Development</a> by <a href="https://twitter.com/mateusjatenee" target="_blank">Beyond Code</a>
+                                </td>
+                                <td class="px-3 py-4 text-base text-gray-500">Learn how to create PHP and Laravel packages.</td>
+                                <td class="px-3 py-4 text-base text-gray-500">Now at <span class="offer">$99</span>, <del>$129</del></td>
+                                <td class="px-3 py-4 text-base text-gray-500">Live Now !</td>
+                            </tr>
                             </tbody>
                         </table>
                     </div>
