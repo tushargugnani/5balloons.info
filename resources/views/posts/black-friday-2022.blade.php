@@ -193,7 +193,7 @@
                                     <a href="https://laracasts.com/" target="_blank" rel="noopener">Laracasts</a> by <a href="https://twitter.com/jeffrey_way" target="_blank">Jeffery Way</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Screencasts for the modern developer.</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500"></td>
                                 <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                             </tr>
                             <tr>
@@ -209,7 +209,7 @@
                                     <a href="https://courses.serversforhackers.com/" target="_blank" rel="noopener">ServerForHacker Courses</a> by <a href="https://twitter.com/fideloper" target="_blank">Chris Fidao</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Scaling laravel, Shipping Docker and more courses.</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500">Currently at $249</td>
                                 <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                             </tr>
                             <tr>
@@ -257,8 +257,8 @@
                                     <a href="https://paulredmond.gumroad.com/l/zspKL?a=912288051" target="_blank" rel="noopener">Docker for PHP Developers</a> by <a href="https://twitter.com/paulredmond" target="_blank">Paul Redmond</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">A book and video course that will teach you how to use Docker and PHP to create clean, repeatable development environments that are easy to understand.</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500">Complete bundle at <span class="offer">$99</span> <del>$139</del></td>
+                                <td class="px-3 py-4 text-base text-gray-500">Live now !</td>
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -289,7 +289,7 @@
                                     <a href="https://tddwithlaravel.com/#pricing" target="_blank" rel="noopener">TDD with Laravel</a> by <a href="https://twitter.com/mateusjatenee" target="_blank">Mateus Guimarães</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Learn to build well-tested applications from scratch.</td>
-                                <td class="px-3 py-4 text-base text-gray-500">Now at <span class="offer">$99</span> <span class="offer">40% OFF</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500">Now at <span class="offer">$99</span>, <span class="offer">40% OFF</span></td>
                                 <td class="px-3 py-4 text-base text-gray-500">Live Now !</td>
                             </tr>
                             </tbody>
@@ -352,6 +352,14 @@
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Learn how to use the queue system to make your applications faster and more reliable while reducing running costs.</td>
                                 <td class="px-3 py-4 text-base text-gray-500"><span class="offer">7 EUR</span> instead of <del>19 EUR</del>.</td>
+                                <td class="px-3 py-4 text-base text-gray-500">Live now</td>
+                            </tr>
+                            <tr>
+                                <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                    <a href="https://martinjoo.gumroad.com/l/ddd-laravel-premium?a=912288051" target="_blank" rel="noopener">Domain Driven Design</a> by <a href="https://twitter.com/mmartin_joo" target="_blank">Martinn Joo</a>
+                                </td>
+                                <td class="px-3 py-4 text-base text-gray-500">Are You Tired Of Monster Controllers And Models?, With this guide, you can get rid of them forever. You're one click away from advancing two years in your career!</td>
+                                <td class="px-3 py-4 text-base text-gray-500">Now at <span class="offer">$129</span> instead of $199</td>
                                 <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                             </tr>
                             </tbody>
