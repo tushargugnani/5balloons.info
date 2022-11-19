@@ -1673,6 +1673,34 @@
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+<script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
+<script type="text/javascript">
+
+
+function randomInRange(min, max) {
+  return Math.random() * (max - min) + min;
+}
+
+function runConfetti(){
+    confetti({
+    angle: randomInRange(55, 125),
+    spread: randomInRange(50, 70),
+    particleCount: randomInRange(50, 100),
+    origin: { y: 0.6 }
+    })
+}
+var time = 1;
+var interval = setInterval(function() { 
+   if (time <= 3) { 
+        runConfetti();
+        time++;
+   }
+   else { 
+      clearInterval(interval);
+   }
+}, 5000);
+
+</script>
     </div>
 
 
