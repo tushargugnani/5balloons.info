@@ -660,7 +660,7 @@
                                             <a href="https://tailwindui.com/" target="_blank" rel="noopener">Digital Ocean</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">200$ Joining Credit</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">200$</span> Joining Credit</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now !</td>
                                     </tr>
                                     <tr>
