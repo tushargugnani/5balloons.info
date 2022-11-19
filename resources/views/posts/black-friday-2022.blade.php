@@ -226,7 +226,7 @@
                                     <a href="https://writing-readable-php.com/" target="_blank" rel="noopener">Writing Readable PHP</a> by <a href="https://spatie.be/" target="_blank">Spatie</a> and <a href="https://twitter.com/christophrumpel" target="_blank">Christoph Rumpel</a> 
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">A collection of tricks and trip to improve the readability of your code.</td>
-                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span> on all days, <span class="offer">50% OFF</span> only on Thur Nov 24th</td>
                                 <td class="px-3 py-4 text-base text-gray-500">From Monday 21st Nov till Cyber Monday</td>
                             </tr>
                             <tr>
@@ -274,7 +274,7 @@
                                     <a href="https://laravel-beyond-crud.com/" target="_blank" rel="noopener">Laravel Beyond CRUD</a> by <a href="https://spatie.be/" target="_blank">Spatie</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Learn how to build larger-than-average Laravel applications and maintain them for years to come</td>
-                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span> all days, <span class="offer">50% OFF</span> only on Wed Nov 23</td>
                                 <td class="px-3 py-4 text-base text-gray-500">From Monday 21st Nov till Cyber Monday</td>
                             </tr>
                             <tr>
@@ -300,6 +300,14 @@
                                 <td class="px-3 py-4 text-base text-gray-500">Learn how to create PHP and Laravel packages.</td>
                                 <td class="px-3 py-4 text-base text-gray-500">Now at <span class="offer">$99</span>, <del>$129</del></td>
                                 <td class="px-3 py-4 text-base text-gray-500">Live Now !</td>
+                            </tr>
+                            <tr>
+                                <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                    <a href="https://testing-laravel.com/?utm_source=5balloons.info&utm_medium=WEbsite&utm_campaign=black-friday-2022-page" target="_blank" rel="noopener">Testing Laravel</a> by Spatie
+                                </td>
+                                <td class="px-3 py-4 text-base text-gray-500">Learn how to write quality tests in Pest and PHPUnit</td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span> on all days, <span>50% OFF</span> only on Web Nov 23rd</td>
+                                <td class="px-3 py-4 text-base text-gray-500">Nov 21st Monday till cyber Monday</td>
                             </tr>
                             </tbody>
                         </table>
@@ -371,6 +379,14 @@
                                 <td class="px-3 py-4 text-base text-gray-500">Now at <span class="offer">$129</span> instead of $199</td>
                                 <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                             </tr>
+                            <tr>
+                                <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                    <a href="https://front-line-php.com/?utm_source=5balloons.info&utm_medium=email&utm_campaign=worldwide-spatie-discounts" target="_blank" rel="noopener">Front Line PHP</a> by Spatie
+                                </td>
+                                <td class="px-3 py-4 text-base text-gray-500">Building modern applications with PHP 8.2</td>
+                                <td class="px-3 py-4 text-base text-gray-500">30% OFF on all days, 50% OFF on Monday Nov 28th</td>
+                                <td class="px-3 py-4 text-base text-gray-500">From Mon Nov 21st till Cyber Monday</td>
+                            </tr>
                             </tbody>
                         </table>
                     </div>
@@ -415,7 +431,7 @@
                                             <a href="https://spatie.be/products/ray" target="_blank" rel="noopener">Ray</a> by Spatie
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Ray is a desktop application that serves as the dedicated home for debugging output. Send, format and filter debug information from both local projects and remote servers.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF all days, <span>Lifetime license deal on 25th, 26th and 27th Nov<span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">From Monday 21st Nov till Cyber Monday</td>
                                     </tr>
                                     <tr>
@@ -423,16 +439,24 @@
                                             <a href="https://medialibrary.pro/" target="_blank" rel="noopener">Media Library Pro</a> by Spatie
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">UI components for laravel-medialibrary</td>
-                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span> <span class="offer">50% OFF</span> only on Tuesday November 22</span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">From Monday 21st Nov till Cyber Monday</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://flareapp.io/" target="_blank" rel="noopener">Flare App</a>
+                                            <a href="https://medialibrary.pro/" target="_blank" rel="noopener">Laravel Comments</a> by Spatie
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">A beautiful Livewire component to associate comments with models in your Laravel application</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span> <span class="offer">50% OFF</span> only on Tuesday November 22</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">From Monday 21st Nov till Cyber Monday</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://flareapp.io/" target="_blank" rel="noopener">Flare</a> by Spatie
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Flare is specifically built for Laravel error tracking. Think of Ignition—your local error page—in production. Track all your PHP and JavaScript errors in one place.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span></td>
-                                        <td class="px-3 py-4 text-base text-gray-500">Monday 22nd Nov till Cyber Monday</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Use the code <span class="coupon">FLAREWWSD</span> to get <span class="offer">50% off</span> on your first 3 months of Flare.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Monday 21st Nov till Cyber Monday</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -1406,6 +1430,45 @@
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr> -->
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
+
+
+                <!-- Email Marketing Tools Deals -->
+                <div class="my-5" id="email-tools-deals">
+                    <div class="flex items-center">
+                        <img class="alignleft wp-image-5874 mr-3" src="https://wp.5balloons.info/wp-content/uploads/2022/10/freelancing.png" alt="" width="50" height="52" />
+                            <h2 class="mt-0 my-3">Email Tools Deals</h2>
+                    </div>
+                    <div class="my-3">
+                        <div class="">
+                            <table class=" divide-y divide-gray-300">
+                                <thead class="bg-gray-50">
+                                <tr>
+                                    <th scope="col" class="py-3.5 pl-4 pr-3 text-left text-base font-semibold text-gray-900 sm:pl-6">Name</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Description</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Deal Details</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Valid Till</th>
+                                </tr>
+                                </thead>
+                                <tbody class="divide-y divide-gray-200 bg-white">
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://mailcoach.app/?utm_source=5balloons.info&utm_medium=website&utm_campaign=black-friday-sale" target="_blank" rel="noopener">Mailcoach Cloud</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Create beautiful email campaigns, set up drip campaigns (or any email automation), and send transactional emails.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Use the code <span class="coupon">MAILCOACHWWSD</span> to get <span class="offer">one month for free</span>, Only on Monday Nov 21st -> <span class="offer">50% off</span> on all self hosted Mailcoach licenses</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Monday 21st Nov till Cyber Monday</td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
