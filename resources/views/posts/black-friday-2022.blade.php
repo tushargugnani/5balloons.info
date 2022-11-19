@@ -431,7 +431,7 @@
                                             <a href="https://spatie.be/products/ray" target="_blank" rel="noopener">Ray</a> by Spatie
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Ray is a desktop application that serves as the dedicated home for debugging output. Send, format and filter debug information from both local projects and remote servers.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF all days, <span>Lifetime license deal on 25th, 26th and 27th Nov<span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span> all days, Lifetime license deal on 25th, 26th and 27th Nov</td>
                                         <td class="px-3 py-4 text-base text-gray-500">From Monday 21st Nov till Cyber Monday</td>
                                     </tr>
                                     <tr>
@@ -439,7 +439,7 @@
                                             <a href="https://medialibrary.pro/" target="_blank" rel="noopener">Media Library Pro</a> by Spatie
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">UI components for laravel-medialibrary</td>
-                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span> <span class="offer">50% OFF</span> only on Tuesday November 22</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span>on all days, <span class="offer">50% OFF</span> only on Tuesday November 22</span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">From Monday 21st Nov till Cyber Monday</td>
                                     </tr>
                                     <tr>
@@ -447,7 +447,7 @@
                                             <a href="https://medialibrary.pro/" target="_blank" rel="noopener">Laravel Comments</a> by Spatie
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">A beautiful Livewire component to associate comments with models in your Laravel application</td>
-                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span> <span class="offer">50% OFF</span> only on Tuesday November 22</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span> on all days, <span class="offer">50% OFF</span> only on Tuesday November 22</span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">From Monday 21st Nov till Cyber Monday</td>
                                     </tr>
                                     <tr>
