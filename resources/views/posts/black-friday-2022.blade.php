@@ -284,6 +284,14 @@
                                 <td class="px-3 py-4 text-base text-gray-500">Now at <span class="offer">$169</span> <del>$298</del></td>
                                 <td class="px-3 py-4 text-base text-gray-500">Live Now !</td>
                             </tr>
+                            <tr>
+                                <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                    <a href="https://tddwithlaravel.com/#pricing" target="_blank" rel="noopener">TDD with Laravel</a> by <a href="https://twitter.com/mateusjatenee" target="_blank">Mateus Guimarães</a>
+                                </td>
+                                <td class="px-3 py-4 text-base text-gray-500">Learn to build well-tested applications from scratch.</td>
+                                <td class="px-3 py-4 text-base text-gray-500">Now at <span class="offer">$99</span> <span class="offer">40% OFF</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500">Live Now !</td>
+                            </tr>
                             </tbody>
                         </table>
                     </div>
@@ -598,8 +606,8 @@
                                             <a href="https://chrissev.gumroad.com/l/beginner-tailwind?a=912288051" target="_blank" rel="noopener">Beginner Tailwind</a> by <a href="https://twitter.com/chris__sev" target="_blank">Chris Sev</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Make good looking designs quickly. All without a single line of custom CSS</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><del>$129</del> <span class="offer">$45</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now !</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -644,8 +652,8 @@
                                             <a href="https://tailwindui.com/" target="_blank" rel="noopener">Digital Ocean</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">200$ Joining Credit</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now !</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
