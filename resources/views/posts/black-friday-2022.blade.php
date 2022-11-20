@@ -1208,7 +1208,7 @@
                         <img class="alignleft wp-image-5874 mr-3" src="https://wp.5balloons.info/wp-content/uploads/2022/10/twitter-icon.png" alt="" width="50" height="52" />
                             <h2 class="mt-0 my-3">Build Twitter Audience Tools</h2>
                     </div>
-                    <!-- Podcast Tools -->
+                    <!-- Twitter Books -->
                     <div class="my-3">
                         <div class="flex items-center ml-5 text-emerald-500">
                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 mr-3 text-pink-800">
@@ -1284,6 +1284,37 @@
                                         <td class="px-3 py-4 text-base text-gray-500">Current Price : $25</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                     </tr>          
+                                </tbody>
+                            </table>
+                        </div>
+
+
+                        <!-- Twitter Tools -->
+                        <div class="flex items-center ml-5 text-emerald-500">
+                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 mr-3 text-pink-800">
+                                <path stroke-linecap="round" stroke-linejoin="round" d="M3 13.125C3 12.504 3.504 12 4.125 12h2.25c.621 0 1.125.504 1.125 1.125v6.75C7.5 20.496 6.996 21 6.375 21h-2.25A1.125 1.125 0 013 19.875v-6.75zM9.75 8.625c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125v11.25c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V8.625zM16.5 4.125c0-.621.504-1.125 1.125-1.125h2.25C20.496 3 21 3.504 21 4.125v15.75c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V4.125z" />
+                            </svg>
+                                <h4 class=" text-xl my-2">Twitter Tools</h4>
+                        </div>
+                        <div class="">
+                            <table class=" divide-y divide-gray-300">
+                                <thead class="bg-gray-50">
+                                <tr>
+                                    <th scope="col" class="py-3.5 pl-4 pr-3 text-left text-base font-semibold text-gray-900 sm:pl-6">Name</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Description</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Deal Details</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Valid Till</th>
+                                </tr>
+                                </thead>
+                                <tbody class="divide-y divide-gray-200 bg-white">
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://blackmagic.so/pricing" target="_blank" rel="noopener">BlackMagic.so</a> by <a href="https://twitter.com/tdinh_me" target="_blank">Tony Dinh</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Enhanced Twitter for pro tweeters</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% off</span> for the first year</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">From Monday Nov 21st</td>
+                                    </tr>        
                                 </tbody>
                             </table>
                         </div>
@@ -1601,8 +1632,8 @@
                                             <a href="https://devutils.app/" target="_blank" rel="noopener">DevUtils</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Use <span class="coupon">BLACKFRIDAY_2022</span> discount code for <span class="offer">50% off</span>!</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now !</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -1646,7 +1677,7 @@
                 <div class="my-5" id="indiemaker-deals">
                     <div class="flex items-center">
                             <span class="ml-1 mr-3 text-5xl">👨‍💻</span>
-                            <h2 class="mt-0 my-3">Indie Makers Deals</h2>
+                            <h2 class="mt-0 my-3">Indie Makers Softwares</h2>
                     </div>
                     <div class="my-3">
                         <div class="">
@@ -1667,6 +1698,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">Get a designer-quality logo for your startup. In 5 minutes.</td>
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span> using coupon code <span class="coupon">BF22</span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">22nd Nov to 27th Nov 2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://xnapper.com/" target="_blank" rel="noopener">Xnapper</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Take Beautiful Screenshots Instantly.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Use <span class="coupon">BLACKFRIDAY_2022</span> to get <span class="offer">50% off</span> all plans</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
                                 </tbody>
                             </table>
