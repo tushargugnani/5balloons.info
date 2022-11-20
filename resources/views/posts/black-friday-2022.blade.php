@@ -344,8 +344,8 @@
                                     <a href="https://martinjoo.gumroad.com/l/tdd-api-laravel?a=912288051" target="_blank" rel="noopener">Test-Driven APIs with Laravel and Pest</a> by <a href="https://twitter.com/mmartin_joo" target="_blank">Martin Joo</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">After a 2-hour read, you'll be able to achieve 90%+ code coverage in an easy, maintainable way.</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span> using coupon code <span class="coupon">blackfriday2022</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500">Live now!</td>
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -376,7 +376,7 @@
                                     <a href="https://martinjoo.gumroad.com/l/ddd-laravel-premium?a=912288051" target="_blank" rel="noopener">Domain Driven Design</a> by <a href="https://twitter.com/mmartin_joo" target="_blank">Martinn Joo</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Are You Tired Of Monster Controllers And Models?, With this guide, you can get rid of them forever. You're one click away from advancing two years in your career!</td>
-                                <td class="px-3 py-4 text-base text-gray-500">Now at <span class="offer">$129</span> instead of $199</td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span> using coupon code <span class="coupon">blackfriday2022</span></td>
                                 <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                             </tr>
                             <tr>
@@ -386,6 +386,14 @@
                                 <td class="px-3 py-4 text-base text-gray-500">Building modern applications with PHP 8.2</td>
                                 <td class="px-3 py-4 text-base text-gray-500">30% OFF on all days, 50% OFF on Monday Nov 28th</td>
                                 <td class="px-3 py-4 text-base text-gray-500">From Mon Nov 21st till Cyber Monday</td>
+                            </tr>
+                            <tr>
+                                <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                    <a href="https://martinjoo.gumroad.com/l/microservices-with-laravel-plus?a=912288051" target="_blank" rel="noopener">Microservices with Laravel</a> by <a href="https://twitter.com/mmartin_joo" target="_blank">Martinn Joo</a>
+                                </td>
+                                <td class="px-3 py-4 text-base text-gray-500">The complete guide to mastering microservices with Laravel</td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span> using coupon code <span class="coupon">blackfriday2022</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500">Live now.</td>
                             </tr>
                             </tbody>
                         </table>
@@ -473,6 +481,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">The beautiful way to test and debug your emails.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://www.laracheck.io/" target="_blank" rel="noopener">LaraCheck</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Automate Your Code Reviews</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">75% off</span> every new Laracheck subscription for the first 3 months (every plan included)</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
                                 </tbody>
                             </table>
