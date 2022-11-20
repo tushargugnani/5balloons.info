@@ -56,7 +56,7 @@
 
                 <ul class="list-none">
                     <li><span class="ml-1 mr-3 text-xl">🔥</span><a href="#featured-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Featured Deals</a></li>
-                    <li><span class="ml-1 mr-3 text-xl">🚀</span><a href="#course-platform-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Course Platforms</a></li>
+                    <li><span class="ml-1 mr-3 text-xl">🚀</span><a href="#course-platform-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Course Platforms and Courses</a></li>
                     <li><img class="alignleft wp-image-5874 mr-3 text-left inline-block" src="https://wp.5balloons.info/wp-content/uploads/2022/10/laravel.png" alt="" width="25" height="25" /><a href="#laravel-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Laravel Deals</a></li>
                     <li><img class="alignleft wp-image-5874 mr-3 text-left inline-block" src="https://wp.5balloons.info/wp-content/uploads/2022/10/tailwindcss.png" alt="" width="25" height="25" /><a href="#tailwindcss-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">TailwindCSS Deals</a></li>
                     <li><img class="alignleft wp-image-5874 mr-3 text-left inline-block" src="https://wp.5balloons.info/wp-content/uploads/2022/10/livewire.png" alt="" width="25" height="25" /><a href="#livewire-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Laravel Livewire Deals</a></li>
@@ -207,11 +207,11 @@
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                    <a href="https://courses.serversforhackers.com/" target="_blank" rel="noopener">ServerForHacker Courses</a> by <a href="https://twitter.com/fideloper" target="_blank">Chris Fidao</a>
+                                    <a href="https://serversforhackers.com/holidays" target="_blank" rel="noopener">ServerForHacker Courses</a> by <a href="https://twitter.com/fideloper" target="_blank">Chris Fidao</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Scaling laravel, Shipping Docker and more courses.</td>
-                                <td class="px-3 py-4 text-base text-gray-500">Currently at $249</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500">40% OFF on all courses</td>
+                                <td class="px-3 py-4 text-base text-gray-500">Live now !</td>
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -751,6 +751,47 @@
                                         <td class="px-3 py-4 text-base text-gray-500">Managed Cloud Hosting for Those on a Mission</td>
                                         <td class="px-3 py-4 text-base text-gray-500"><a href="https://www.cloudways.com/en/?id=653938" target="_blank" class="text-fuchsia-600 font-semibold">40% OFF</a> for the first 4 months on ALL their hosting plans. Use coupon: <span class="text-fuchsia-600 bg-fuchsia-100 p-1 rounded">BFCM4030</span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">The deal is Live and will remain live until <strong>28 Nov, 2022</strong></td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+
+                    <!-- Cloud Courses -->
+                    <div class="my-3">
+                        <div class="flex items-center ml-5 text-emerald-500">
+                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6 mr-3 text-pink-800">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M2.25 15a4.5 4.5 0 004.5 4.5H18a3.75 3.75 0 001.332-7.257 3 3 0 00-3.758-3.848 5.25 5.25 0 00-10.233 2.33A4.502 4.502 0 002.25 15z" />
+                        </svg>
+
+                            <h4 class=" text-xl my-2">Cloud Courses and E-Book</h4>
+                        </div>
+                        <div class="">
+                            <table class=" divide-y divide-gray-300">
+                                <thead class="bg-gray-50">
+                                <tr>
+                                    <th scope="col" class="py-3.5 pl-4 pr-3 text-left text-base font-semibold text-gray-900 sm:pl-6">Name</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Description</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Deal Details</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Valid Till</th>
+                                </tr>
+                                </thead>
+                                <tbody class="divide-y divide-gray-200 bg-white">
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://cloudcasts.io/courses" target="_blank" rel="noopener">Cloudcasts</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">The AWS Courses</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Current Price : $240</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://serversforhackers.gumroad.com/l/serversforhackers?a=912288051" target="_blank" rel="noopener">ServerForHacker e-book</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">A book to help you confidently setup and manage your servers.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Use coupon code <span class="coupon">holidays2022</span> to get <span class="offer">40% off</span>!</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now!</td>
                                     </tr>
                                 </tbody>
                             </table>
