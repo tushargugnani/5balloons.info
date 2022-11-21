@@ -194,8 +194,8 @@
                                     <a href="https://laracasts.com/" target="_blank" rel="noopener">Laracasts</a> by <a href="https://twitter.com/jeffrey_way" target="_blank">Jeffery Way</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Screencasts for the modern developer.</td>
-                                <td class="px-3 py-4 text-base text-gray-500"></td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500">All individual subscriptions are <span class="offer">45% OFF</span> --- including the lifetime plan. 🔥🔥🔥</td>
+                                <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -231,26 +231,26 @@
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                    <a href="https://writing-readable-php.com/" target="_blank" rel="noopener">Eloquent Performance Patterns</a> by <a href="https://twitter.com/reinink" target="_blank">Jonathan Reinink</a>  
+                                    <a href="https://eloquent-course.reinink.ca/" target="_blank" rel="noopener">Eloquent Performance Patterns</a> by <a href="https://twitter.com/reinink" target="_blank">Jonathan Reinink</a>  
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Learn how to drastically improve the performance of your Laravel applications by pushing more work to the database, all while still using the Eloquent ORM</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500">Current Price : Premium @ $149 and Essential @ $99</td>
                                 <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                             </tr>
-                            <tr>
+                            <!-- <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
                                     <a href="https://indepthlaravel.com/" target="_blank" rel="noopener">In Depth Laravel</a> by <a href="https://twitter.com/Sarthaksavvy" target="_blank">Sarthak</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Passionately designed video course for laravel artisans from beginning to advanced.</td>
                                 <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                                 <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                            </tr>
+                            </tr> -->
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
                                     <a href="https://jackellis.gumroad.com/l/serverlesslaravel?a=912288051" target="_blank" rel="noopener">Serverless Larvael Course</a> by <a href="https://twitter.com/JackEllis" target="_blank">Jack Ellis</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">A masterclass for Laravel developers who want to quickly and efficiently scale their applications using Vapor.</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500">Current Price $249</td>
                                 <td class="px-3 py-4 text-base text-gray-500">TBA</td>
                             </tr>
                             <tr>
