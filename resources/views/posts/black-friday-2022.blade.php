@@ -579,6 +579,14 @@
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://tailkit.com/" target="_blank" rel="noopener">TailKit</a> by <a href="https://twitter.com/pixelcave_john" target="_blank">John Champ</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">40% OFF</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">November 22th to November 30th</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
                                             <a href="https://tailwindui.com/" target="_blank" rel="noopener">Flowbite</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Premium pages and components built with Tailwind CSS</td>
@@ -905,11 +913,19 @@
                                         </tr>
                                         <tr>
                                             <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                                <a href=" https://pingping.io/?ref=bf2022" target="_blank" rel="noopener">PingPing.io</a>
+                                                <a href="https://pingping.io/?ref=bf2022" target="_blank" rel="noopener">PingPing.io</a>
                                             </td>
                                             <td class="px-3 py-4 text-base text-gray-500">Get notified by the simplest uptime monitoring service in the world, when your website is down or your certificate becomes invalid. No more, no less.</td>
                                             <td class="px-3 py-4 text-base text-gray-500"><span class="offer">25% OFF</span> for lifetime, using coupon code <span class="coupon">bf2022</span></td>
                                             <td class="px-3 py-4 text-base text-gray-500">Live now</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                                <a href="https://speetals.com/" target="_blank" rel="noopener">Speetals</a> by <a href="https://twitter.com/LoukilAymen" target="_blank">Aymen Loukil</a>
+                                            </td>
+                                            <td class="px-3 py-4 text-base text-gray-500">Customer-centric Web Performance Monitoring</td>
+                                            <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% off</span> on all plans valid for 1 year. Promo code: <span class="coupon">SpeetalsBF2022</span></td>
+                                            <td class="px-3 py-4 text-base text-gray-500">November 22 - November 29, 2022</td>
                                         </tr>
                                     </tbody>
                             </table>
