@@ -250,7 +250,7 @@
                                     <a href="https://jackellis.gumroad.com/l/serverlesslaravel?a=912288051" target="_blank" rel="noopener">Serverless Larvael Course</a> by <a href="https://twitter.com/JackEllis" target="_blank">Jack Ellis</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">A masterclass for Laravel developers who want to quickly and efficiently scale their applications using Vapor.</td>
-                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">$100 OFF</span>, Now at $149 <del>$249</del></td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">$100 OFF</span>, Now at $149 <del>$249</del> 🔥🔥</td>
                                 <td class="px-3 py-4 text-base text-gray-500">Live now!</td>
                             </tr>
                             <tr>
