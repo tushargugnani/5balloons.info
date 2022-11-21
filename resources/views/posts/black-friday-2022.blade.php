@@ -1817,6 +1817,10 @@
                     </div>
                 </div>
 
+                <hr/>
+
+                <p class="italic text-sm"><span class="font-semibold">Note:</span> Where possible I have used affiliate links which give me a small kickback and helps me run this site.</p>
+
             </div>
             <!-- Post Content Ends-->
             <!-- Comment Div -->
