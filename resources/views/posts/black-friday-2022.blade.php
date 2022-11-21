@@ -395,6 +395,14 @@
                                 <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span> using coupon code <span class="coupon">blackfriday2022</span></td>
                                 <td class="px-3 py-4 text-base text-gray-500">Live now.</td>
                             </tr>
+                            <tr>
+                                <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                    <a href="https://dcblog.dev/books/laravel-the-modular-way" target="_blank" rel="noopener">Laravel: The Modular Way</a> by <a href="https://twitter.com/dcblogdev" target="_blank">David Carr</a>
+                                </td>
+                                <td class="px-3 py-4 text-base text-gray-500">Learn how to build modular Laravel applications</td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500">Live now till 28th November</td>
+                            </tr>
                             </tbody>
                         </table>
                     </div>
