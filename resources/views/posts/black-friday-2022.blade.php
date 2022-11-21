@@ -360,8 +360,8 @@
                                     <a href="https://learn-laravel-queues.com/#buy" target="_blank" rel="noopener">Laravel Queues in Action</a> by <a href="https://twitter.com/themsaid" target="_blank">Mohamed Said</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Learn how to use the queue system to make your applications faster and more reliable while reducing running costs.</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span> for individuals, <span class="offer">20% OFF</span> for team copy</td>
+                                <td class="px-3 py-4 text-base text-gray-500">21st Nov to 26th Nov </td>
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
