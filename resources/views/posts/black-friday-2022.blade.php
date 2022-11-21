@@ -152,6 +152,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="offer">85% off</span> during our Cyber Sale, coupon code <span class="coupon">BLACKFRIDAY22PP</span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">Valid <strong>11/18/22-11/25/22</strong></td>
                                     </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://www.pluralsight.com/" target="_blank" rel="noopener">Pluralsight</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Online Courses</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% off</span> </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">up to 11:59 PM MT on December 2nd, 2022</td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
@@ -587,7 +595,7 @@
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://tailkit.com/" target="_blank" rel="noopener">TailKit</a> by <a href="https://twitter.com/pixelcave_john" target="_blank">John Champ</a>
+                                            <a href="https://gumroad.com/a/950437075/VXzEu" target="_blank" rel="noopener">TailKit</a> by <a href="https://twitter.com/pixelcave_john" target="_blank">John Champ</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects.</td>
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="offer">40% OFF</span></td>
