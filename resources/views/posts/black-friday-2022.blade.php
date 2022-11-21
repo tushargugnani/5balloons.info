@@ -1010,8 +1010,8 @@
                                             <a href="https://css-for-js.dev/" target="_blank" rel="noopener">CSS for Javascript Developers</a> by <a href="https://twitter.com/JoshWComeau" target="_blank">Josh W. Comeau</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">The all-new interactive learning experience designed to help JavaScript developers become confident with CSS.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">Current Prices : Basic Package $149, Pro Package $279, Ultimate Package $399 </td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span> on ultimate package, at $199 <del>$399</del></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now !</td>
                                     </tr>
                                 </tbody>
                             </table>
