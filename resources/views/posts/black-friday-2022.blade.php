@@ -309,6 +309,14 @@
                                 <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span> on all days, <span>50% OFF</span> only on Web Nov 23rd</td>
                                 <td class="px-3 py-4 text-base text-gray-500">Nov 21st Monday till cyber Monday</td>
                             </tr>
+                            <tr>
+                                <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                    <a href="https://products.jasonmccreary.me/packages" target="_blank" rel="noopener">Jason McCreary Courses</a>
+                                </td>
+                                <td class="px-3 py-4 text-base text-gray-500">Package courses contains BaseCode, BaseLaravel, Confident Laravel, Getting Git</td>
+                                <td class="px-3 py-4 text-base text-gray-500">More than <span class="offer">40% OFF</span></td>
+                                <td class="px-3 py-4 text-base text-gray-500">Live now!</td>
+                            </tr>
                             </tbody>
                         </table>
                     </div>
@@ -1770,6 +1778,14 @@
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Take Beautiful Screenshots Instantly.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Use <span class="coupon">BLACKFRIDAY_2022</span> to get <span class="offer">50% off</span> all plans</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://expensebuddy.app/" target="_blank" rel="noopener">ExpenseBuddy</a> by <a href="https://twitter.com/dqhieu">Hieu Dinh</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Keep track of your expenses make budgets, and save money</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">20% OFF</span> all subscription plans</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
                                 </tbody>
