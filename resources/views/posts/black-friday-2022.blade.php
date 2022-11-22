@@ -822,8 +822,8 @@
                                             <a href="https://cloudcasts.io/courses" target="_blank" rel="noopener">Cloudcasts</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">The AWS Courses</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">Current Price : $240</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">$144</span> <del>$240</del></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
