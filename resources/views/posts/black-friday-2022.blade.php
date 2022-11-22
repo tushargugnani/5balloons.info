@@ -1536,6 +1536,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50%</span> OFF BLACK FRIDAY SALE — <span class="offer">$185</span> / <del>$375</del></td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://florinpop17.gumroad.com/l/makemoneydev/BLACKFRIDAY2022?a=912288051" target="_blank" rel="noopener">Ten++ Ways to Make Money as a Developer</a> by <a href="https://twitter.com/florinpop1705">Florin Pop</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500"Learn how to monetize your coding skills in 10 different ways!</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50%</span> OFF BLACK FRIDAY SALE</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
