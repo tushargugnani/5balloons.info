@@ -1160,7 +1160,7 @@
                                             <a href="https://beginnerjavascript.com/" target="_blank" rel="noopener">Beginner Javascript</a> by <a href="https://twitter.com/wesbos" target="_blank">Wes Bos</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">A fun, exercise heavy approach to learning Modern JavaScript from scratch</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">50% OFF</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
                                     <tr>
@@ -1211,11 +1211,11 @@
                                     <tbody class="divide-y divide-gray-200 bg-white">
                                         <tr>
                                             <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                                <a href="https://makevscodeawesome.com/" target="_blank" rel="noopener">Make VSCode Awesome</a> by <a href="https://twitter.com/calebporzio" target="_blank">Caleb Porzio</a>
+                                                <a href="https://calebporzio.gumroad.com/l/SFYKpD/BFRI21?a=912288051" target="_blank" rel="noopener">Make VSCode Awesome</a> by <a href="https://twitter.com/calebporzio" target="_blank">Caleb Porzio</a>
                                             </td>
                                             <td class="px-3 py-4 text-base text-gray-500">Screencasts for making VSCode Awesome</td>
-                                            <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                            <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                            <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span>, <a href="https://calebporzio.gumroad.com/l/SFYKpD/BFRI21?a=912288051">Wizard package</a> at <span class="offer">$74</span> <del>$149</del>, <a href="https://calebporzio.gumroad.com/l/fRUqK/BFRI21?a=912288051" target="_blank">Baller</a> at <span class="offer">$49</span> <del>$99</del>, <a href="https://calebporzio.gumroad.com/l/Bxnjj/BFRI21?a=912288051" target="_blank">Cool Kid package</a> at <span class="offer">$19</span> <del>$39</del> 🔥🔥🔥</td>
+                                            <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                         </tr>
                                         <tr>
                                             <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
