@@ -487,16 +487,16 @@
                                             <a href="https://nova.laravel.com/" target="_blank" rel="noopener">Laravel Nova</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Nova is a beautifully-designed administration panel for Laravel. Carefully crafted by the creators of Laravel, Nova is designed to make you the most productive developer in the galaxy.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Unlimited licenses for <span class="offer">$199</span> <del>$299<del></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now !</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
                                             <a href="https://a.paddle.com/v2/click/103161/142447?link=3530" target="_blank" rel="noopener">HELO</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">The beautiful way to test and debug your emails.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">70% OFF</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Valid till Cyber week</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -505,6 +505,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">Automate Your Code Reviews</td>
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="offer">75% off</span> every new Laracheck subscription for the first 3 months (every plan included)</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://backpackforlaravel.com/" target="_blank" rel="noopener">Backpack for Laravel</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">It's never been easier to build and customize admin panels using Laravel.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Use <span class="coupon">BLACKFRIDAY2022</span> coupon to get <span class="offer">40%</span> discount on anything.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now, till cyber monday</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -536,8 +544,8 @@
                                             <a href="https://octobercms.com/" target="_blank" rel="noopener">October CMS</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">The Laravel-Based CMS Engineered For Simplicity</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Black Friday Sale! <span class="offer">30% off</span> Licenses and annual plans</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -1143,16 +1151,16 @@
                                             <a href="https://beginnerjavascript.com/" target="_blank" rel="noopener">Beginner Javascript</a> by <a href="https://twitter.com/wesbos" target="_blank">Wes Bos</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">A fun, exercise heavy approach to learning Modern JavaScript from scratch</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">50% OFF</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://testingjavascript.com/" target="_blank" rel="noopener">Testing Javascript by Kent C. Dodds</a>
+                                            <a href="https://testingjavascript.com/" target="_blank" rel="noopener">Testing Javascript</a> by <a href="https://twitter.com/kentcdodds" target="_blank">Kent C. Dodds</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Learn the smart, efficient way to test any JavaScript application.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">40% OFF</span> on all plans</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now, till Nov 30th</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -1213,8 +1221,8 @@
                                                 <a href="https://sublimetextbook.com/" target="_blank" rel="noopener">Sublime Text Power User</a> by <a href="https://twitter.com/wesbos" target="_blank">Wes Bos</a>
                                             </td>
                                             <td class="px-3 py-4 text-base text-gray-500">Speed up development, Optimize workflows, Become a better developer.</td>
-                                            <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                            <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                            <td class="px-3 py-4 text-base text-gray-500">Book + Video Package <span class="offer">$45</span> <del>$65</del></td>
+                                            <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                         </tr>
                                     </tbody>
                             </table>
@@ -1354,8 +1362,8 @@
                                             <a href="https://dvassallo.gumroad.com/l/twitter-audience?a=912288051" target="_blank" rel="noopener">Everyone Can Build a Twitter Audience</a> by <a href="https://twitter.com/dvassallo">Daniel Vassallo</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Over the past 14 months, my Twitter account has grown from 150 to 24,000 followers (now 130,000+). How did I do it?</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">Current Price : $25</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">BLACK FRIDAY SALE — <span class="offer">$15</span> / <del>$25</del></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>          
                                 </tbody>
                             </table>
@@ -1440,6 +1448,14 @@
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Level up your skills with the highest quality Vue tutorials</td>
                                         <td class="px-3 py-4 text-base text-gray-500">More than <span class="offer">50% OFF</span> on yearly plan. (yearly plan price $300, usually at $180, now at $140)</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now !</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://michaelnthiessen.com/" target="_blank" rel="noopener">Vue Products </a>By  <a href="https://twitter.com/MichaelThiessen">Michael Thiessen</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Reusable Components, Vue Tips Collection and  Clean Components etc</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">30% OFF</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now !</td>
                                     </tr>
                                 </tbody>
@@ -1721,8 +1737,8 @@
                                             <a href="https://www.git-tower.com/" target="_blank" rel="noopener">Tower</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Tower - the most powerful Git client for Mac and Windows.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
