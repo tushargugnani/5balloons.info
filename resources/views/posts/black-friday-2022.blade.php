@@ -70,7 +70,7 @@
                     <li><img class="alignleft wp-image-5874 mr-3 align-left inline-block" src="https://wp.5balloons.info/wp-content/uploads/2022/10/vue-icon.png" alt="" width="25" height="25" /><a href="#vuejs-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">VueJS Deals</a></li>
                     <li><span class="ml-1 mr-3 text-xl">💰</span><a href="#freelancing-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Freelancing / Guide to Make Money Online</a></li>
                     <li><span class="ml-1 mr-3 text-xl">🔍</span><a href="#seo-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">SEO Tools / Guides</a></li>
-                    <li><span class="ml-1 mr-3 text-xl">✉️</span><a href="#emailmarketing-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Email Marketing</a></li>
+                    <li><span class="ml-1 mr-3 text-xl">✉️</span><a href="#emailmarketing-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Email Testing / Marketing Tools</a></li>
                     <li><span class="ml-1 mr-3 text-xl">🎨</span><a href="#themes-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Themes</a></li>
                     <li><span class="ml-1 mr-3 text-xl">🌐</span><a href="#domain-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Domains</a></li>
                     <li><span class="ml-1 mr-3 text-xl">📌</span><a href="#icon-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Icons & Illustrations</a></li>
@@ -665,6 +665,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">The DevTools Tailwind deserves.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Buy now for <span>$29</span> instead of <span class="offer">$49</span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now !!</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://tailscan.com" target="_blank" rel="noopener">TailScan</a> by <a href="https://twitter.com/Erwin_AI" target="_blank">Erwin</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">The ultimate developer tool for Tailwind CSS</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">20% OFF</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">22 November until 29 November</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -1604,6 +1612,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">Create beautiful email campaigns, set up drip campaigns (or any email automation), and send transactional emails.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Use the code <span class="coupon">MAILCOACHWWSD</span> to get <span class="offer">one month for free</span>, Only on Monday Nov 21st -> <span class="offer">50% off</span> on all self hosted Mailcoach licenses</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Monday 21st Nov till Cyber Monday</td>
+                                    </tr>
+                                                                        <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://blademail.app" target="_blank" rel="noopener">Blade Mail</a> by <a target="_blank" href="https://www.twitter.com/bangnokia">bangnokia</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Desktop App for Email Testing locally</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Use code <span class="coupon">BLACKFRIDAY</span> for <span class="offer">50% off</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">starts Nov 22nd until Nov 25th</td>
                                     </tr>
                                 </tbody>
                             </table>
