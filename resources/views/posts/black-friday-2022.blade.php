@@ -77,6 +77,7 @@
                     <li><span class="ml-1 mr-3 text-xl">🛠️</span><a href="#development-software-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Development Software</a></li>
                     <li><span class="ml-1 mr-3 text-xl">👨‍💻</span><a href="#development-software-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Indie Makers Deals</a></li>
                     <li><span class="ml-1 mr-3 text-xl">📹</span><a href="#screencast-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Screencasting Tool Deals</a></li>
+                    <li><span class="ml-1 mr-3 text-xl">🛍️</span><a href="#other-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Others</a></li>
                 </ul>
 
                 <!-- Featured Deals -->
@@ -1354,16 +1355,16 @@
                                             <a href="https://dagorenouf.gumroad.com/l/how-to-dominate-twitter?a=912288051" target="_blank" rel="noopener">How to Dominate Twitter</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">The 4-step formula to give your tweets priority in the feed and boost your growth.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">Current Price : $79</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">40% OFF</span> with code <span class="coupon">BF22</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>     
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
                                             <a href="https://bootstrappedfounder.gumroad.com/l/findyourfollowing?a=912288051" target="_blank" rel="noopener">Find Your Following</a> by Arvid Kahl
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">A Twitter Audience-Building Course.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">Current Price : $49.99</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span> automatically applied</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr> 
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -1516,8 +1517,8 @@
                                             <a href="https://bootstrappedfounder.gumroad.com/l/zerotosold?a=912288051" target="_blank" rel="noopener">Zero to Sold</a> by <a href="https://twitter.com/arvidkahl" target="_blank">Kyle Prinsloo</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">How to Start, Run, and Sell a Bootstrapped Business.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span>, Automatically applied</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
@@ -1820,6 +1821,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="offer">20% OFF</span> all subscription plans</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://hirevire.com/" target="_blank" rel="noopener">Hirevire</a> by <a href="https://twitter.com/hSanat">Sanat</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Great for solopreneur to automate hiring freelancers or to build a team</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="coupon">BF50</span> for <span class="offer">50% off</span> on all plans</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Nov 21 to Nov 30</td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
@@ -1858,6 +1867,85 @@
                                         <td class="px-3 py-4 text-base text-gray-500">Get a designer-quality logo for your startup. In 5 minutes.</td>
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="offer">20% OFF</span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live Now !</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
+
+
+                <!-- Screencast Tool Deals -->
+                <div class="my-5" id="other-deals">
+                    <div class="flex items-center">
+                            <span class="ml-1 mr-3 text-5xl">🛍️</span>
+                            <h2 class="mt-0 my-3">Other Deals</h2>
+                    </div>
+                    <div class="my-3">
+                        <div class="">
+                            <table class=" divide-y divide-gray-300">
+                                <thead class="bg-gray-50">
+                                <tr>
+                                    <th scope="col" class="py-3.5 pl-4 pr-3 text-left text-base font-semibold text-gray-900 sm:pl-6">Name</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Description</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Deal Details</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Valid Till</th>
+                                </tr>
+                                </thead>
+                                <tbody class="divide-y divide-gray-200 bg-white">
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://www.umlboard.com" target="_blank" rel="noopener">UMLBoard</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Create fancy UML class diagrams.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Special Offer: UMLBoard is up to <span class="offer">30% off!</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">21th Nov. - 27th Nov 2022</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://codewithandrea.com/courses/complete-flutter-bundle/" target="_blank" rel="noopener">The Complete Flutter Course Bundle</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Learn about State Management, App Architecture, Navigation, Testing, and much more by building a full-stack Flutter eCommerce app on iOS, Android, and web.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">33% off</span></span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">21st → 29th November</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://typemat.com/" target="_blank" rel="noopener">Typemat</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Rank #1 on Google Search</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">BlackFriday 2022 promo! Get <span class="offer">30% off</span> all plans for life!</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">21st → 29th November</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://chartbrew.com/" target="_blank" rel="noopener">ChartBrew</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Interactive dashboards and client reports</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">30% OFF for 1 year</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">22 Nov - 28 Nov</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://www.helpkit.so/" target="_blank" rel="noopener">Help Kit</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Easily build your Knowledge Base with Notion</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Use BLACKFRIDAY_2022 coupon to get 40% discount on any subscription plan for one year</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now until Cyber Monday</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://www.viewtocomposable.com/" target="_blank" rel="noopener">from View to Composable</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Learn Jetpack Compose without spending hundreds of hours</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Save 50% if you purchase today Use code BLACK_FRIDAY on checkout</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">22 to 25th of November</td>
                                     </tr>
                                 </tbody>
                             </table>
