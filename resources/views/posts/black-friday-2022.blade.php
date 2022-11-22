@@ -1508,8 +1508,8 @@
                                             <a href="https://dvassallo.gumroad.com/l/small-bets?a=912288051" target="_blank" rel="noopener">A portfolio of small bets</a> by <a href="https://twitter.com/dvassallo">Daniel Vassallo</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Understand the concept of Small Bets.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50%</span> OFF BLACK FRIDAY SALE — <span class="offer">$185</span> / <del>$375</del></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
                                 </tbody>
                             </table>
