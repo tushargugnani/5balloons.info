@@ -703,7 +703,7 @@
                                             <a href="https://chrissev.gumroad.com/l/beginner-tailwind?a=912288051" target="_blank" rel="noopener">Beginner Tailwind</a> by <a href="https://twitter.com/chris__sev" target="_blank">Chris Sev</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Make good looking designs quickly. All without a single line of custom CSS</td>
-                                        <td class="px-3 py-4 text-base text-gray-500"><del>$129</del> <span class="offer">$45</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><del>$129</del> <span class="offer">$35</span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now !</td>
                                     </tr>
                                 </tbody>
