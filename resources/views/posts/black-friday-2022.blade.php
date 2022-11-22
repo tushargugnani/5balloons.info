@@ -207,11 +207,11 @@
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                    <a href="https://laraveldaily.com/courses" target="_blank" rel="noopener">All Laravel Daily Courses</a> by <a href="https://twitter.com/PovilasKorop" target="_blank">Povilas Korop</a>
+                                    <a href="https://laraveldaily.com/post/black-friday-2022-on-laravel-daily" target="_blank" rel="noopener">All Laravel Daily Courses</a> by <a href="https://twitter.com/PovilasKorop" target="_blank">Povilas Korop</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Laravel Courses in a Simple Language.</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% off</span> the first year of Yearly Membership, <span class="offer">50% off</span> QuickAdminPanel</td>
+                                <td class="px-3 py-4 text-base text-gray-500">Live now!</td>
                             </tr>
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
