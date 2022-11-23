@@ -1597,7 +1597,7 @@
 
 
                 <!-- Email Marketing Tools Deals -->
-                <div class="my-5" id="email-tools-deals">
+                <div class="my-5" id="emailmarketing-deals">
                     <div class="flex items-center">
                         <img class="alignleft wp-image-5874 mr-3" src="https://wp.5balloons.info/wp-content/uploads/2022/10/freelancing.png" alt="" width="50" height="52" />
                             <h2 class="mt-0 my-3">Email Tools Deals</h2>
@@ -1708,7 +1708,31 @@
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Make beautiful designs faster</td>
                                         <td class="px-3 py-4 text-base text-gray-500"><strong class="text-fuchsia-600">70% OFF</strong> on the first month of any monthly plan</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://icons8.com/l/blackfriday2022/" target="_blank" rel="noopener">Icons8</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">icons, illustrations, photos, and music.	</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Up to <span class="offer">55%</span> off subscription</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://www.candyicons.com/" target="_blank" rel="noopener">CandyIcons</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Thousands of AI-generated app icons. One click to get custom favicon packages and all required app icon sizes of multi-platforms (iOS & macOS, android).</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">70% OFF</span> per icon</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://www.airbrush.ai/lifetime-deal/" target="_blank" rel="noopener">Airbrush</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">AI Image generator. Use AI to create high-quality images and artwork in seconds</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">75% OFF</span> - Get lifetime access for a one-time price of $29</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -1751,14 +1775,6 @@
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://www.apptorium.com/expressions" target="_blank" rel="noopener">Expressions</a>
-                                        </td>
-                                        <td class="px-3 py-4 text-base text-gray-500">Regular Expressions App Made Nice.</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
                                             <a href="https://www.git-tower.com/" target="_blank" rel="noopener">Tower</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Tower - the most powerful Git client for Mac and Windows.</td>
@@ -1767,11 +1783,11 @@
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://blisk.io/" target="_blank" rel="noopener">Blisk</a>
+                                            <a href="https://proxyman.io/" target="_blank" rel="noopener">Proxyman</a>
                                         </td>
-                                        <td class="px-3 py-4 text-base text-gray-500">Cross-Device Testing Done Right</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Modern. Native. Web Debugging Proxy. Native macOS app. Fully supports Apple M1/M2 & macOS Ventura</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span> with code <span class="coupon">PROXYMAN_BLACK_FRIDAY_2022</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
                                 </tbody>
                             </table>
