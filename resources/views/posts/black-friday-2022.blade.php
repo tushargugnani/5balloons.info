@@ -516,6 +516,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">Use <span class="coupon">BLACKFRIDAY2022</span> coupon to get <span class="offer">40%</span> discount on anything.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now, till cyber monday</td>
                                     </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://laravelshift.com/" target="_blank" rel="noopener">Laravel Shift</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Instant, automated Laravel upgrades.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">offers a <span class="offer">40% discount</span> on the workbench license and <span class="offer">400$ off</span> on the "Everything Plan".</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
@@ -1906,7 +1914,7 @@
                 </div>
 
 
-                <!-- Screencast Tool Deals -->
+                <!-- AI Tool Deals -->
                 <div class="my-5" id="aitools-deals">
                     <div class="flex items-center">
                             <span class="ml-1 mr-3 text-5xl">🤖</span>
@@ -1945,7 +1953,7 @@
                 </div>
 
 
-                <!-- Screencast Tool Deals -->
+                <!-- Other Tool Deals -->
                 <div class="my-5" id="other-deals">
                     <div class="flex items-center">
                             <span class="ml-1 mr-3 text-5xl">🛍️</span>
