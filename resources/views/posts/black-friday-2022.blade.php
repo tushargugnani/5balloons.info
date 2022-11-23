@@ -77,8 +77,8 @@
                     <li><span class="ml-1 mr-3 text-xl">🛠️</span><a href="#development-software-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Development Software</a></li>
                     <li><span class="ml-1 mr-3 text-xl">👨‍💻</span><a href="#development-software-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Indie Makers Deals</a></li>
                     <li><span class="ml-1 mr-3 text-xl">📹</span><a href="#screencast-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Screencasting Tool Deals</a></li>
-                    <li><span class="ml-1 mr-3 text-xl">🛍️</span><a href="#other-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">AI Tools</a></li>
-                    <li><span class="ml-1 mr-3 text-xl">🤖</span><a href="#other-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Others</a></li>
+                    <li><span class="ml-1 mr-3 text-xl">🤖</span><a href="#aitools-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">AI Tools</a></li>
+                    <li><span class="ml-1 mr-3 text-xl">🛍️</span><a href="#other-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Others</a></li>
                 </ul>
 
                 <!-- Featured Deals -->
