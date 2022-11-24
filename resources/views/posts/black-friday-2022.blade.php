@@ -1949,6 +1949,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">Get <span class="offer">70% OFF</span> for your first month</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live Now !</td>
                                     </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://ritujhajharia.gumroad.com/l/aitoolhub?a=912288051" target="_blank" rel="noopener">AI Tool Hub</a> by <a href="https://twitter.com/Ritu_Jhajharia" target="_blank">Ritu Jhajharia</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Biggest curated directory of AI tools for digital creators, writers & marketers</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Flat <span class="offer">50% OFF</span> with coupon code <span class="coupon">AIBF50</span> on the checkout page</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">23-Nov-2022 to 28-Nov-2022</td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
