@@ -95,22 +95,22 @@
                                 <div class="flex items-center justify-center h-28 bg-white p-2">
                                     <img src="https://wp.5balloons.info/wp-content/uploads/2022/11/beyondcode.png" width="100"/>
                                 </div>
-                                <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-8"><span class="font-semibold">BeyondCode Products</span> - (Upto 70% OFF on Essential tools for web developers Like Tinkerwell, Invoker, Helo, Expose, Windy etc.)</div>
+                                <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-8"><span class="font-semibold">BeyondCode Products</span> - (Essential tools for web developers Like Tinkerwell, Invoker, Helo, Expose, Windy, WhatTheDiff etc.) - <span class="offer block text-base">Upto 70% OFF</span></div>
                                 <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">AFFILIATED</div>
                             </a>
-                            <a class="border border-gray-300 rounded relative hover:bg-purple-100" href="https://www.digitalocean.com/?refcode=ee55b40d7cf6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" onclick="window.fathom.trackGoal('CKCAGCDB', 0);" target="_blank" class="block">
-                                <div class="flex items-center justify-center h-28 bg-red-100 p-2">
-                                    <span class="text-6xl">🔮</span>
+                            <a class="border border-gray-300 rounded relative hover:bg-purple-100" href="https://gumroad.com/a/950437075/VXzEu" target="_blank" class="block">
+                                <div class="flex items-center justify-center h-28 bg-white p-2">
+                                    <img src="https://wp.5balloons.info/wp-content/uploads/2022/11/tailkit.png" width="100"/>
                                 </div>
-                                <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-8"><span class="font-semibold">Your product</span> - (Details about the discount on product using coupon code BLAH22)</div>
-                                <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">SPONSORED</div>
+                                <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-8"><span class="font-semibold">Tailkit</span> - Carefully crafted, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects <span class="offer block text-base">40% OFF</span></div>
+                                <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">AFFILIATED</div>
                             </a>
-                            <a class="border border-gray-300 rounded relative hover:bg-purple-100" href="https://www.digitalocean.com/?refcode=ee55b40d7cf6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" onclick="window.fathom.trackGoal('CKCAGCDB', 0);" target="_blank" class="block">
-                                <div class="flex items-center justify-center h-28 bg-blue-100 p-2">
-                                    <span class="text-6xl">🎉</span>
+                            <a class="border border-gray-300 rounded relative hover:bg-purple-100" href="https://calebporzio.gumroad.com/l/SFYKpD/BFRI21?a=912288051" onclick="window.fathom.trackGoal('CKCAGCDB', 0);" target="_blank" class="block">
+                                <div class="flex items-center justify-center h-28 bg-white p-2">
+                                    <span class="text-6xl">🔥</span>
                                 </div>
-                                <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-8"><span class="font-semibold">Your product</span> - (Details about the discount on product using coupon code BLAH22)</div>
-                                <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">SPONSORED</div>
+                                <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-8"><span class="font-semibold">Make VS Code Awesome</span> - (144-page book, 2.5 Hours of Screencasts, Project Switcher Pricate Extension, Printable Keyboard ShortCut PDF) <span class="offer block text-base">50% OFF</span></div>
+                                <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">AFFILIATED</div>
                             </a>
                             <a class="border border-gray-300 rounded relative hover:bg-purple-100" href="https://www.digitalocean.com/?refcode=ee55b40d7cf6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" onclick="window.fathom.trackGoal('CKCAGCDB', 0);" target="_blank" class="block">
                                 <div class="flex items-center justify-center h-28 bg-green-100 p-2">
