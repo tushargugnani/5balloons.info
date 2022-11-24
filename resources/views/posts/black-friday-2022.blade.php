@@ -1889,7 +1889,7 @@
                 <div class="my-5" id="screencast-deals">
                     <div class="flex items-center">
                             <span class="ml-1 mr-3 text-5xl">📹</span>
-                            <h2 class="mt-0 my-3">Screencast Tool Deals</h2>
+                            <h2 class="mt-0 my-3">Screencast & Video Tool Deals</h2>
                     </div>
                     <div class="my-3">
                         <div class="">
@@ -1910,6 +1910,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">Get a designer-quality logo for your startup. In 5 minutes.</td>
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="offer">20% OFF</span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live Now !</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://krock.io/" target="_blank" rel="noopener">Krock.io</a> by <a href="https://twitter.com/tahanchin">Alex Tahanchin</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Creative Collaboration and Video Review Software</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% off</span> for any annual subscription! 🔥 With promo code <span class="coupon">KRBFRD238371</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live Now until Nov 25th!</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -2043,6 +2051,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">Declutter & organize your workspace on macOS in one single click 🎊</td>
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="offer">40% OFF</span> on LTD</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Nov 21 - Nov 28</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://www.drbuho.com/buhocleaner" target="_blank" rel="noopener">BuhoCleaner</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">The Best Mac Cleaner Optimized for macOS Ventura & M1/M2 Macs</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% Off</span> | Lifetime license</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Nov. 24th - 29th</td>
                                     </tr>
                                 </tbody>
                             </table>
