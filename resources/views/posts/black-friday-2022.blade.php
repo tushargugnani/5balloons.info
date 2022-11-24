@@ -607,11 +607,11 @@
                                 <tbody class="divide-y divide-gray-200 bg-white">
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://tailwindui.com/" target="_blank" rel="noopener">Tailwind-UI</a>
+                                            <a href="https://tailwindui.com/" target="_blank" rel="noopener">Tailwind-UI + Refactoring UI Bundle</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">$229</span> <del>$448</del> </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Running from now through November 28th</td>
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
