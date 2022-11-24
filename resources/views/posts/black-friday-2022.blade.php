@@ -526,6 +526,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">offers a <span class="offer">40% discount</span> on the workbench license and <span class="offer">400$ off</span> on the "Everything Plan".</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://observer.dev/" target="_blank" rel="noopener">Observer</a> by <a href="https://twitter.com/Philo01">Philo Hermans</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">All your favorite Laravel Horizon features (and a few new ones) are packed into a single desktop application. A must-have productivity booster for every Laravel developer.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">21 nov - 28 nov</td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
@@ -898,8 +906,8 @@
                                             <a href="https://wire-elements.dev/" target="_blank" rel="noopener">Wire Elements</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Beautiful components crafted with Livewire</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Up to <span class="offer">30%</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">21 nov - 28 nov</td>
                                     </tr>
                                 </tbody>
                             </table>
@@ -1555,6 +1563,30 @@
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50%</span> OFF BLACK FRIDAY SALE</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://yunuserturk.gumroad.com/l/how-to-get-your-first-client-freelancer-path?a=912288051" target="_blank" rel="noopener">How to Get Your First Client as a Freelancer - freelancerpath</a> by <a href="https://twitter.com/yunuserturk" target="_blank">Yunus Ertürk</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">How to Get Your First Client as a Freelancer - freelancerpath</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span> by coupon code: <span class="coupon">BLACK</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">from 11.24 to 11.30</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://byhazellim.gumroad.com/l/runway?a=912288051" target="_blank" rel="noopener">Solopreneur Runway Model</a> by <a href="https://twitter.com/byhazellim">Hazel Lim</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Solopreneur Runway Model</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% off</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">from 11.24 to 11.30</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://unapologeticih.gumroad.com/l/ktxfX?a=912288051" target="_blank" rel="noopener">Fuelance Freelance System</a> by <a href="https://twitter.com/ric_arthur">Ric Arthur</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Find Freelance Opportunities on Autopilot. Onboard Clients & Manage Projects Effortlessly.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">80% OFF</span> Lifetime Access, Use code <span class="coupon">80OFFBF</span> at the checkout</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">24/11/22 - 24/12/22</td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
@@ -1808,6 +1840,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="offer">30% OFF</span> with code <span class="coupon">PROXYMAN_BLACK_FRIDAY_2022</span></td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now</td>
                                     </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://xiaoluoboding.gumroad.com/l/otg?a=912288051" target="_blank" rel="noopener">onetab.group</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Your all-in-one tab/tab group manager for chrome</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span> Use code <span class="coupon">msz2mwa</span> to redeem this while checking out</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">2022-11-18 - 2022-11-30</td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
@@ -2004,6 +2044,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500">Level up your marketing with our tools and resources. Trusted by 500+ Indie Entrepreneurs</td>
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="offer">70%</span> Black Friday discounts in MakerBox</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Nov 24th - Npv 25th</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://www.breakcold.com/" target="_blank" rel="noopener">Breakcold</a> by <a href="https://twitter.com/ArnaudBelingaCX" target="_blank">Arnaud Belinga</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Generate leads with cold emails. Like, comment & DM prospects' LinkedIn/Twitter posts. Manage it all with a Sales CRM, from ONE place</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span class="offer">40% off</span> on Monthly plan </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">24th - 29th</td>
                                     </tr>
                                 </tbody>
                             </table>
