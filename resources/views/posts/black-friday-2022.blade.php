@@ -2151,8 +2151,8 @@
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
                                             <a href="https://twostraws.gumroad.com/l/beyondcode/blackfriday22?a=912288051" target="_blank" rel="noopener">Beyond Code</a>
                                         </td>
-                                        <td class="px-3 py-4 text-base text-gray-500">I'll show you how to set up your computer to have the perfect workflow for writing eBooks and generate professional-looking PDF and ePub from them.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Learn the meta-skills you need to be a better coder</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">50% OFF</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now!</td>
                                     </tr>
                                 </tbody>
