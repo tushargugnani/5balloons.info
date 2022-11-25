@@ -1849,6 +1849,14 @@
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% OFF</span> Use code <span class="coupon">msz2mwa</span> to redeem this while checking out</td>
                                         <td class="px-3 py-4 text-base text-gray-500">2022-11-18 - 2022-11-30</td>
                                     </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://mojoauth.com/" target="_blank" rel="noopener">MojoAuth</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">MojoAuth is a developer-friendly authentication platform with easy-to-use APIs, SDKs, and libraries for implementing passwordless or password-free authentication for users.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500"><span>50%</span> discount using coupon code <span>BLACKFRIDAY2022</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now until 30th Nov</td>
+                                    </tr>
                                 </tbody>
                             </table>
                         </div>
