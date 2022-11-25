@@ -80,7 +80,7 @@
                     <li><span class="ml-1 mr-3 text-xl">🤖</span><a href="#aitools-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">AI Tools</a></li>
                     <li><span class="ml-1 mr-3 text-xl">💸</span><a href="#marketing-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Marketing Tools</a></li>
                     <li><span class="ml-1 mr-3 text-xl">🖥️</span><a href="#macapps-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Mac Apps</a></li>
-                    <li><span class="ml-1 mr-3 text-xl">📚</span><a href="#ebook-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Other Developer E-books</a></li>
+                    <li><span class="ml-1 mr-3 text-xl">📚</span><a href="#ebooks-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Other Developer E-books</a></li>
                     <li><span class="ml-1 mr-3 text-xl">🛍️</span><a href="#other-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Others</a></li>
                 </ul>
 
@@ -2124,7 +2124,7 @@
                 <!-- Developer E-book Deals -->
                 <div class="my-5" id="ebooks-deals">
                     <div class="flex items-center">
-                            <span class="ml-1 mr-3 text-5xl">🖥️</span>
+                            <span class="ml-1 mr-3 text-5xl">📚</span>
                             <h2 class="mt-0 my-3">Developer Ebook Deals</h2>
                     </div>
                     <div class="my-3">
