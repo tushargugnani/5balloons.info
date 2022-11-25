@@ -2141,9 +2141,17 @@
                                 <tbody class="divide-y divide-gray-200 bg-white">
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://miguelcoba.gumroad.com/l/ebookwriting/BLACKFRIDAY2022?a=912288051" target="_blank" rel="noopener">eBook Writing Workflow for Developers</a>
+                                            <a href="https://kulkarniankita.gumroad.com/l/growthfor90days/BLACKFRIDAY50?a=912288051" target="_blank" rel="noopener">The Engineering Leader's Playbook: The First 90 Days</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">I'll show you how to set up your computer to have the perfect workflow for writing eBooks and generate professional-looking PDF and ePub from them.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Use the coupon <span class="coupon">BLACKFRIDAY50</span> and get <span class="offer">50%</span> off of the normal price</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now!</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://miguelcoba.gumroad.com/l/ebookwriting/BLACKFRIDAY2022?a=912288051" target="_blank" rel="noopener">eBook Writing Workflow for Developers</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Learn how to lead a team & succeed as a Leader using this Playbook</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Use the coupon <span class="coupon">BLACKFRIDAY2022</span> and get <span class="offer">50%</span> off of the normal price</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Live now!</td>
                                     </tr>
