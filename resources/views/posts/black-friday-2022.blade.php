@@ -80,6 +80,7 @@
                     <li><span class="ml-1 mr-3 text-xl">🤖</span><a href="#aitools-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">AI Tools</a></li>
                     <li><span class="ml-1 mr-3 text-xl">💸</span><a href="#marketing-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Marketing Tools</a></li>
                     <li><span class="ml-1 mr-3 text-xl">🖥️</span><a href="#macapps-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Mac Apps</a></li>
+                    <li><span class="ml-1 mr-3 text-xl">📚</span><a href="#ebook-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Other Developer E-books</a></li>
                     <li><span class="ml-1 mr-3 text-xl">🛍️</span><a href="#other-deals" class="no-underline text-purple-700 hover:text-purple-800 hover:underline decoration-purple-600 font-semibold">Others</a></li>
                 </ul>
 
@@ -2107,6 +2108,52 @@
                                         <td class="px-3 py-4 text-base text-gray-500">The Best Mac Cleaner Optimized for macOS Ventura & M1/M2 Macs</td>
                                         <td class="px-3 py-4 text-base text-gray-500"><span class="offer">50% Off</span> | Lifetime license</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Nov. 24th - 29th</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="flex my-2 text-sm font-semibold items-center">
+                    <div class="flex-grow border-t border-orange-700 h-px mr-3"></div>
+                    🔥
+                    <div class="flex-grow border-t border-orange-700 h-px ml-3"></div>
+                </div>
+
+                <!-- Developer E-book Deals -->
+                <div class="my-5" id="ebooks-deals">
+                    <div class="flex items-center">
+                            <span class="ml-1 mr-3 text-5xl">🖥️</span>
+                            <h2 class="mt-0 my-3">Developer Ebook Deals</h2>
+                    </div>
+                    <div class="my-3">
+                        <div class="">
+                            <table class=" divide-y divide-gray-300">
+                                <thead class="bg-gray-50">
+                                <tr>
+                                    <th scope="col" class="py-3.5 pl-4 pr-3 text-left text-base font-semibold text-gray-900 sm:pl-6">Name</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Description</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Deal Details</th>
+                                    <th scope="col" class="px-3 py-3.5 text-left text-base font-semibold text-gray-900">Valid Till</th>
+                                </tr>
+                                </thead>
+                                <tbody class="divide-y divide-gray-200 bg-white">
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://miguelcoba.gumroad.com/l/ebookwriting/BLACKFRIDAY2022?a=912288051" target="_blank" rel="noopener">eBook Writing Workflow for Developers</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">I'll show you how to set up your computer to have the perfect workflow for writing eBooks and generate professional-looking PDF and ePub from them.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Use the coupon <span class="coupon">BLACKFRIDAY2022</span> and get <span class="offer">50%</span> off of the normal price</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now!</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://twostraws.gumroad.com/l/beyondcode/blackfriday22?a=912288051" target="_blank" rel="noopener">Beyond Code</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">I'll show you how to set up your computer to have the perfect workflow for writing eBooks and generate professional-looking PDF and ePub from them.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Learn the meta-skills you need to be a better coder</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now!</td>
                                     </tr>
                                 </tbody>
                             </table>
