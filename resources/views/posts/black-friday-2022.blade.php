@@ -1121,15 +1121,7 @@
                                 <tbody class="divide-y divide-gray-200 bg-white">
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://csspro.gumroad.com/l/cssscan-pro?a=912288051" target="_blank" rel="noopener">CSS PRO</a> by <a href="https://twitter.com/gvrizzo" target="_blank">Guilherme Rizzo</a>
-                                        </td>
-                                        <td class="px-3 py-4 text-base text-gray-500">A re-imagined Devtools for web design</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                        <td class="px-3 py-4 text-base text-gray-500">TBA</td>
-                                    </tr>
-                                    <tr>
-                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://gvrizzo.gumroad.com/l/cssscan?a=912288051" target="_blank" rel="noopener">CSS SCAN</a> by <a href="https://twitter.com/gvrizzo" target="_blank">Guilherme Rizzo</a>
+                                            <a href="https://gumroad.com/a/766690515/fULny" target="_blank" rel="noopener">CSS SCAN</a> by <a href="https://twitter.com/gvrizzo" target="_blank">Guilherme Rizzo</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">CSS Scan is the fastest and easiest way to check, copy, and edit CSS</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
@@ -1666,7 +1658,15 @@
                                         <td class="px-3 py-4 text-base text-gray-500">Use the code <span class="coupon">MAILCOACHWWSD</span> to get <span class="offer">one month for free</span>, Only on Monday Nov 21st -> <span class="offer">50% off</span> on all self hosted Mailcoach licenses</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Monday 21st Nov till Cyber Monday</td>
                                     </tr>
-                                                                        <tr>
+                                    <tr>
+                                        <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
+                                            <a href="https://blademail.app" target="_blank" rel="noopener">SendinBlue</a>
+                                        </td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Marketing and transactional emails all under one roof.</td>
+                                        <td class="px-3 py-4 text-base text-gray-500">get <span class="offer">50%</span> off marketing annual plans with code <span class="coupon">BLUEFRIDAY22</span></td>
+                                        <td class="px-3 py-4 text-base text-gray-500">Live now</td>
+                                    </tr>
+                                    <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
                                             <a href="https://blademail.app" target="_blank" rel="noopener">Blade Mail</a> by <a target="_blank" href="https://www.twitter.com/bangnokia">bangnokia</a>
                                         </td>
