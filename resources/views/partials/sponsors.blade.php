@@ -1,57 +1,34 @@
 <section class="px-4 py-22 mx-auto max-w-7xl mt-10 bg-white shadow-inner bg-blend-normal rounded py-5">
   <h3 class="text-center mb-2 font-semibold text-amber-700">Sponsors</h3>
   <h4 class="text-center text-stone-500 mb-4">This website has <span class="font-semibold">NO spammy ads</span>, <span class="font-semibold">distracting popups</span>, and <span class="font-semibold">tracking codes</span>. Thanks to our sponsors!</h4>
-  <div class="grid grid-cols-2 gap-6 text-center lg:grid-cols-5">
+  <div class="grid grid-cols-2 gap-6 text-center lg:grid-cols-4">
     <a class="border border-gray-300 rounded relative" href="https://www.digitalocean.com/?refcode=ee55b40d7cf6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" onclick="window.fathom.trackGoal('CKCAGCDB', 0);" target="_blank" class="block">
-        <div class="flex items-center justify-center h-28 bg-blue-100 p-2">
+        <div class="flex items-center justify-center h-48 bg-blue-100 p-2">
             <img src="{{ asset('assets/sponsors/digital-ocean-logo.png') }}" alt="Digital Ocean Logo" class="block object-contain h-26" />
         </div>
-        <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-6"><span class="font-semibold">Digital Ocean</span> - ($200 Credits on signing up for DigitalOcean cloud hosting platform)</div>
-        <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">AFFILIATE AD</div>
+        <div class="text-gray-700 mb-3 text-sm px-2 text-left pt-4 pb-6"><span class="font-semibold text-lg">Digital Ocean</span> - ($200 Credits on signing up for DigitalOcean cloud hosting platform)</div>
+        <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100 text-indigo-600">AFFILIATED</div>
     </a>
-    <a class="border border-gray-300 rounded relative" href="https://usefathom.com/ref/HPQCFW" onclick="window.fathom.trackGoal('0LFQ9YNE', 0);" target="_blank" class="block">
-        <div class="flex items-center justify-center h-28 bg-gray-300 p-2">
-            <img src="{{ asset('assets/sponsors/fathom-logo.png') }}" alt="Fathom Analytics Logo" class="block object-contain h-26" />
+    <a class="border border-gray-300 rounded relative hover:bg-purple-100" href="https://gumroad.com/a/950437075/VXzEu" onclick="window.fathom.trackGoal('0LFQ9YNE', 0);" target="_blank" class="block">
+        <div class="flex items-center justify-center h-48 bg-white-300 shadow">
+            <img src="https://wp.5balloons.info/wp-content/uploads/2022/12/tailkit.png" alt="TailKit Cover Image" class="block object-fit w-full h-full" />
         </div>
-        <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-6"><span class="font-semibold">Fathom Analytics</span> - ($10 Credits on signing up for Fathom Analytics web analytics tool)</div>
-        <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">AFFILIATE AD</div>
+        <div class="text-gray-700 mb-5 text-sm px-2 text-left pt-4 pb-6"><span class="font-semibold text-lg">Tailkit</span> - Carefully crafted, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects.</div>
+        <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100 text-indigo-600">AFFILIATED</div>
     </a>
     <a class="border border-gray-300 rounded relative" href="https://a.paddle.com/v2/click/103161/142447?link=2106" target="_blank" class="block">
-        <div class="flex items-center justify-center h-28 bg-purple-300 p-2">
+        <div class="flex items-center justify-center h-48 bg-purple-300 p-2">
             <img src="{{ asset('assets/sponsors/tinkerwell_logo.png') }}" alt="Fathom Analytics Logo" class="block object-contain h-12" />
         </div>
-        <div class="text-gray-700 mb-3 text-xs px-2 text-left pt-4 pb-6"><span class="font-semibold">Tinkerwell</span> - (The code runner for PHP, works with Laravel, Wordpress etc.)</div>
-        <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100">AFFILIATE AD</div>
+        <div class="text-gray-700 mb-3 text-sm px-2 text-left pt-4 pb-6"><span class="font-semibold text-lg">Tinkerwell</span> - (The code runner for PHP, works with Laravel, Wordpress etc.)</div>
+        <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100 text-indigo-600">AFFILIATED</div>
     </a>
-    <div>
-        <div id="carbon__js" class="native-carbon !m-0"></div>
-        <script>
-        (function(){  
-        if(typeof _bsa !== 'undefined' && _bsa) {
-            _bsa.init('custom', 'CEAI5KQM', 'placement:5balloonsinfo-custom',
-                {
-                target: '#carbon__js',
-                template: `
-        <div class="native-container">
-        <a href="##link##" class="native-banner" rel="sponsored noopener" target="_blank" title="##company## — ##tagline##">
-                <div class="native-img" style="background: ##backgroundColor##;"><img src="##logo##"></div>
-                <div class="native-details">
-                <span class="native-desc"><strong>##company##</strong> — ##description##</span>
-                </div>
-            </a>
-            <a class="native-via" href="##adViaLink##"">Ad via BuySellAds</a>
+    <a class="border border-gray-300 rounded relative hover:bg-purple-100" href="https://calebporzio.gumroad.com/l/SFYKpD/BFRI21?a=912288051" target="_blank" class="block">
+        <div class="flex items-center justify-center h-48 bg-purple-300">
+            <img src="https://wp.5balloons.info/wp-content/uploads/2022/12/3298c3eb001bbed90f1d616da66708480096a0a1b6e81bd4f8a2d6e9b831d301.webp" alt="Fathom Analytics Logo" class="block object-cover w-full h-full" />
         </div>
-        `,
-                }
-            );
-            }
-        })();
-        </script>    
-    </div>
-    <a href="https://github.com/sponsors/tushargugnani" target="_blank" class="block bg-amber-100 hover:bg-amber-200 border border-amber-400 rounded">
-        <div class="flex items-center justify-center p-5 h-48">
-        <div class="text-gray-500">Your Ad Here</div>
-        </div>
+        <div class="text-gray-700 mb-5 text-sm px-2 text-left pt-4 pb-6"><span class="font-semibold text-lg">Make VS Code Awesome</span> - E-Book and Tutorials Make VS Code look amazing, and be fast, and efficient using it.</div>
+        <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100 text-indigo-600">AFFILIATED</div>
     </a>
   </div>
   <div class="flex justify-center my-5">
