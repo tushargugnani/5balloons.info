@@ -50,15 +50,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Roboto+Slab:wght@400;500;600&display=swap"
         rel="stylesheet">
-    <script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
-    <!-- Google tag (gtag.js) -->
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-Q4KPW7G57S');
-</script>
 <!-- Fathom - beautiful, simple website analytics -->
 <script src="https://cdn.usefathom.com/script.js" data-site="YJAMKRFF" defer></script>
 <!-- / Fathom -->
