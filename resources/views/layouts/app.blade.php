@@ -52,8 +52,6 @@
         rel="stylesheet">
     <script src="//m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
     <!-- Google tag (gtag.js) -->
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q4KPW7G57S"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}

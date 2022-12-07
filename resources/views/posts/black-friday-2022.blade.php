@@ -2287,18 +2287,6 @@
     @include('partials.right-banner-bar')
 
     <div>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8077071189647178"
-     crossorigin="anonymous"></script>
-<!-- Horizontal Ad -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-8077071189647178"
-     data-ad-slot="6284350204"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.5.1/dist/confetti.browser.min.js"></script>
 <script type="text/javascript">
 
@@ -2327,7 +2315,5 @@ var interval = setInterval(function() {
 }, 5000);
 
 </script>
-    </div>
-
 
 @endsection
