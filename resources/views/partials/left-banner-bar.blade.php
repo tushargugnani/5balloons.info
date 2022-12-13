@@ -1,5 +1,5 @@
 <div class="fixed hidden lg:block top-24 inset-0 left-2 max-w-max z-10">
-<div class="w-48 bg-white">
+<!-- <div class="w-48 bg-white">
 <div class="flex justify-center">
   <div class="rounded-lg shadow-lg bg-white max-w-sm">
     <a href="https://gumroad.com/a/941530323/NHefI" target="_blank">
@@ -13,5 +13,10 @@
       <a href="https://gumroad.com/a/941530323/NHefI" target="_blank" class=" inline-block px-6 py-2.5 bg-blue-600 text-white font-medium text-xs leading-tight uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out">GET this</a>
     </div>
   </div>
+</div> -->
+<div class="border border-orange-500 shadow-inner">
+  <a href="https://nocompromises.gumroad.com/l/laravel-validation?a=912288051" target="_blank">
+    <img class="h-72" src="https://wp.5balloons.info/wp-content/uploads/2022/12/Screenshot-2022-12-13-at-8.17.35-PM.png" />
+  </a>
 </div>
 </div>
