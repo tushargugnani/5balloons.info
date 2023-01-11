@@ -4,8 +4,71 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f2196e3ec251342cbdb0560faecb72d1",
+    "content-hash": "0b8549e0f0325774be63dec562e38d22",
     "packages": [
+        {
+            "name": "5balloons/laravel-smart-ads",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/5balloons/laravel-smart-ads.git",
+                "reference": "6e78f9b437804ab120753570da0e3449ca81937f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/5balloons/laravel-smart-ads/zipball/6e78f9b437804ab120753570da0e3449ca81937f",
+                "reference": "6e78f9b437804ab120753570da0e3449ca81937f",
+                "shasum": ""
+            },
+            "require": {
+                "illuminate/support": "^9.0",
+                "php": "^7.4|^8.0",
+                "spatie/laravel-package-tools": "^1.13"
+            },
+            "require-dev": {
+                "orchestra/testbench": "^7.0",
+                "phpunit/phpunit": "^9.0"
+            },
+            "type": "library",
+            "extra": {
+                "laravel": {
+                    "providers": [
+                        "_5balloons\\LaravelSmartAds\\LaravelSmartAdsServiceProvider"
+                    ],
+                    "aliases": {
+                        "LaravelSmartAds": "_5balloons\\LaravelSmartAds\\LaravelSmartAdsFacade"
+                    }
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "_5balloons\\LaravelSmartAds\\": "src",
+                    "_5balloons\\LaravelSmartAds\\Database\\Factories\\": "database/factories"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Tushar Gugnani",
+                    "email": "tushar@5balloons.info",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Ad, Banners, Callouts Manager for Laravel",
+            "homepage": "https://github.com/5balloons/laravel-smart-ads",
+            "keywords": [
+                "5balloons",
+                "laravel-smart-ads"
+            ],
+            "support": {
+                "issues": "https://github.com/5balloons/laravel-smart-ads/issues",
+                "source": "https://github.com/5balloons/laravel-smart-ads/tree/v1.0.0"
+            },
+            "time": "2023-01-10T06:37:36+00:00"
+        },
         {
             "name": "bordoni/phpass",
             "version": "0.3.6",
@@ -8195,5 +8258,5 @@
         "php": "^8.0.2"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.3.0"
 }

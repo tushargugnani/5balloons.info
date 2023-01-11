@@ -6,13 +6,14 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
+        "5balloons/laravel-smart-ads": "^1.0",
         "guzzlehttp/guzzle": "^7.2",
         "jgrossi/corcel": "^6.0",
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
-        "protonemedia/laravel-cross-eloquent-search": "^3.0.1",
         "opcodesio/log-viewer": "^1.4",
+        "protonemedia/laravel-cross-eloquent-search": "^3.0.1",
         "spatie/laravel-feed": "^4.1"
     },
     "require-dev": {
