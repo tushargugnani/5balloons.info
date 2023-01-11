@@ -10,6 +10,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta property="og:type" content="website" />
     <meta name='ir-site-verification-token' value='1892223819'>
+    <meta name="csrf-token" content="{{ csrf_token() }}">
+
     @include('feed::links')
 
     @yield('headtags')
@@ -50,6 +52,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Roboto+Slab:wght@400;500;600&display=swap"
         rel="stylesheet">
+        <script src="{{ asset('vendor/smart-ads/js/smart-banner.js') }}"></script>
 
 <!-- Fathom - beautiful, simple website analytics -->
 <script src="https://cdn.usefathom.com/script.js" data-site="YJAMKRFF" defer></script>
