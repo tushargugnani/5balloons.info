@@ -1,14 +1,7 @@
 <section class="px-4 py-22 mx-auto max-w-7xl mt-10 bg-white shadow-inner bg-blend-normal rounded py-5">
   <h3 class="text-center mb-2 font-semibold text-amber-700">Sponsors</h3>
   <h4 class="text-center text-stone-500 mb-4">This website has <span class="font-semibold">NO spammy ads</span>, <span class="font-semibold">distracting popups</span>, and <span class="font-semibold">tracking codes</span>. Thanks to our sponsors!</h4>
-  <div class="grid grid-cols-2 gap-6 text-center lg:grid-cols-4">
-    <a class="border border-gray-300 rounded relative" href="https://www.digitalocean.com/?refcode=ee55b40d7cf6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge" onclick="window.fathom.trackGoal('CKCAGCDB', 0);" target="_blank" class="block">
-        <div class="flex items-center justify-center h-48 bg-blue-100 p-2">
-            <img src="{{ asset('assets/sponsors/digital-ocean-logo.png') }}" alt="Digital Ocean Logo" class="block object-contain h-26" />
-        </div>
-        <div class="text-gray-700 mb-3 text-sm px-2 text-left pt-4 pb-6"><span class="font-semibold text-lg">Digital Ocean</span> - ($200 Credits on signing up for DigitalOcean cloud hosting platform)</div>
-        <div class="h-8 flex items-center justify-center w-full text-[9px] uppercase absolute bottom-0 bg-gray-100 text-indigo-600">AFFILIATED</div>
-    </a>
+  <div class="grid grid-cols-2 gap-6 text-center lg:grid-cols-4" id="sponsors">
     <a class="border border-gray-300 rounded relative hover:bg-purple-100" href="https://gumroad.com/a/950437075/VXzEu" onclick="window.fathom.trackGoal('0LFQ9YNE', 0);" target="_blank" class="block">
         <div class="flex items-center justify-center h-48 bg-white-300 shadow">
             <img src="https://wp.5balloons.info/wp-content/uploads/2022/12/tailkit.png" alt="TailKit Cover Image" class="block object-fit w-full h-full" />
