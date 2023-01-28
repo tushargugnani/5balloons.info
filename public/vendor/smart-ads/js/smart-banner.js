@@ -2,17 +2,29 @@ fetch('/smart-banner-auto-placements')
   .then((response) => response.json())
   .then((ads) => {
     ads.forEach(function(ad){
+      //Check if ad is enabled
+      if(ad.enabled){
       //Loop through the ads and auto place them using insertAdjacentHTML
       let placements = JSON.parse(ad.placements);
       placements.forEach(function(placement){
           if(placement.selector){
             var adSelector = document.querySelector(placement.selector);
             if(adSelector){
-              let adBody = "<div class=\"smart-banner-temp\" banner-slug=\""+ad.slug+"\">"+ad.body+"</div>"
+              let adBody = '';
+              if(ad.adType == 'HTML'){
+                adBody = "<div class=\"smart-banner-temp\" banner-slug=\""+ad.slug+"\">"+ad.body+"</div>"
+              }else if(ad.adType == 'IMAGE'){
+                adBody = "<div class=\"smart-banner-temp\" banner-slug=\""+ad.slug+"\">\
+                         <a href=\""+ad.imageUrl+"\" target=\"_blank\">\
+                          <img src=\""+ad.image+"\" alt=\""+ad.imageAlt+"\" />\
+                         </a>\
+                         </div>"
+              }
               adSelector.insertAdjacentHTML(placement.position, adBody);
             }
           }
-      });
+        });
+      }
     });
 
     //Remove the parent temp element (smart-ad-temp), since it messes with the CSS Design for some ads 

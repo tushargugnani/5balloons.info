@@ -6,7 +6,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
-        "5balloons/laravel-smart-ads": "^1.0",
+        "5balloons/laravel-smart-ads": "^1.2",
         "guzzlehttp/guzzle": "^7.2",
         "jgrossi/corcel": "^6.0",
         "laravel/framework": "^9.19",
