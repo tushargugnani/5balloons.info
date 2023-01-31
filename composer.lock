@@ -8,16 +8,16 @@
     "packages": [
         {
             "name": "5balloons/laravel-smart-ads",
-            "version": "v1.2.3",
+            "version": "v1.2.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/5balloons/laravel-smart-ads.git",
-                "reference": "8cec5a1d67f92fc2d9628339d101ec242f36d357"
+                "reference": "0cc669a2824deff11503eacdb34c73c51db5d8c5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/5balloons/laravel-smart-ads/zipball/8cec5a1d67f92fc2d9628339d101ec242f36d357",
-                "reference": "8cec5a1d67f92fc2d9628339d101ec242f36d357",
+                "url": "https://api.github.com/repos/5balloons/laravel-smart-ads/zipball/0cc669a2824deff11503eacdb34c73c51db5d8c5",
+                "reference": "0cc669a2824deff11503eacdb34c73c51db5d8c5",
                 "shasum": ""
             },
             "require": {
@@ -65,9 +65,9 @@
             ],
             "support": {
                 "issues": "https://github.com/5balloons/laravel-smart-ads/issues",
-                "source": "https://github.com/5balloons/laravel-smart-ads/tree/v1.2.3"
+                "source": "https://github.com/5balloons/laravel-smart-ads/tree/v1.2.5"
             },
-            "time": "2023-01-30T09:40:51+00:00"
+            "time": "2023-01-31T12:06:11+00:00"
         },
         {
             "name": "bordoni/phpass",
