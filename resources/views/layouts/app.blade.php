@@ -77,6 +77,95 @@
     }
   })();
 </script>
+<div x-data="{
+        showWidget : '',
+        shouldShowWidget(){
+            if (localStorage.getItem('hideDivUntil') > Date.now()) {
+                this.showWidget = false;
+            }else{
+                this.showWidget = true;
+            }
+        },
+        closeWidget(){
+            this.showWidget = false;
+            const now = Date.now();
+            const oneHourFromNow = now + (60 * 60 * 1000);
+            localStorage.setItem('hideDivUntil', oneHourFromNow);
+        }
+    }" x-transition:leave.duration.400ms>
+    <div x-init="shouldShowWidget" id="flamelab-convo-widget" x-show="showWidget">
+                 <img src="https://flamelab.io/img/avatar-sm.png" alt="Avatar Image">
+                 <div class="flamelab-cw-msg-box">
+                     <span>Hey! Are you looking for reusable livewire components?</span>
+                     <div class="flamelab-cw-buttons">
+                         <a @click="closeWidget" href="https://livewiredemos.com/?ref=5balloons.info" target="_blank" class="flamelab-cw-button flamelab-cw-button-yes">Yes!</a>
+                         <div @click="closeWidget" class="flamelab-cw-button flamelab-cw-button-no">No thanks</div>
+                     </div>
+                 </div>
+             </div>
+             <style>
+                 #flamelab-convo-widget {
+                     position: fixed;
+                     bottom: 150px;
+                     left: -40px;
+                     animation-name: flamelab-convo-widget_enter;
+                     animation-duration: 1.5s;
+                     display: flex;
+                     justify-content: flex-start;
+                     align-items: center;
+                     z-index: 1000;
+                     color: black;
+                 }
+                 #flamelab-convo-widget img {
+                     animation-name: flamelab-convo-widget_rotate;
+                     animation-duration: 1.5s;
+                     transform: rotate(20deg);
+                 }
+                 .flamelab-cw-msg-box {
+                     background: white;
+                     width: 280px;
+                     border-radius: 20px;
+                     box-shadow: 0 0 20px rgba(0, 0, 0, .25);
+                     border: 1px solid rgba(0, 0, 0, 0.1);
+                     padding: 20px;
+                     animation-name: flamelab-convo-widget_msg-appear;
+                     animation-duration: 2s;
+                     font-size: 15px;
+                     line-height: 23px;
+                 }
+                 .flamelab-cw-buttons {
+                     display: flex;
+                     justify-content: flex-start;
+                     align-items: center;
+                     margin: 0 -4px;
+                     margin-top: 8px;
+                     font-weight: 600;
+                 }
+                 .flamelab-cw-button {
+                     cursor: pointer;
+                     padding: 4px;
+                     margin-right: 12px;
+                     display: block;
+                     text-decoration: none;
+                 }
+                 .flamelab-cw-button-yes {
+                     color: #FF1B96;
+                     font-weight: 700;
+                 }
+                 @keyframes flamelab-convo-widget_enter {
+                     from { left: -200px; }
+                     to { left: -40px; }
+                 }
+                 @keyframes flamelab-convo-widget_rotate {
+                     from { transform: rotate(0deg); }
+                     to { transform: rotate(20deg); }
+                 }
+                 @keyframes flamelab-convo-widget_msg-appear {
+                     from { opacity: 0; }
+                     to { opacity: 1; }
+                 }
+             </style>
+</div>
 </body>
 
 </html>
