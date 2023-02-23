@@ -29,5 +29,4 @@
         </a>
     </div>
 
-    @include('partials.sponsors')
 @endsection
