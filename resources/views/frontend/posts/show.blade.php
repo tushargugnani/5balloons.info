@@ -75,8 +75,6 @@
     </article>
 
 
-    @include('partials.sponsors')
-
     @include('partials.left-banner-bar')
 
     @include('partials.right-banner-bar')
