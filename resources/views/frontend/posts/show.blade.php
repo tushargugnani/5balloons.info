@@ -74,8 +74,6 @@
 
     </article>
 
-    <div class="flex justify-center my-5 text-2xl rounded border p-5 bg-purple-100 text-purple-600"><a href="/black-friday-2022">🔮 Black Friday Deals 2022 🔮</a></div>
-
 
     @include('partials.sponsors')
 
