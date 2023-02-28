@@ -80,4 +80,30 @@
     <div class="mt-5 text-base font-semibold text-indigo-800 hover:translate-x-1">GET NOW →</div>
   </div>
 </div>
+</a>
+<a href="https://livewiredemos.com" target="_blank">
+<div class="m-5 h-96 w-52 cursor-pointer rounded bg-purple-50">
+  <div class="pt-3 -ml-7">
+    <img src="https://wp.5balloons.info/wp-content/uploads/2023/02/livewiredemos-box-1.png" alt="Tailkit" class="scale-90 rounded" />
+  </div>
+  <div class="ml-5">
+    <div class="mt-5">
+      <div class="flex space-x-2 items-center">
+<svg id="Capa_1" class="d-inline" style="margin-top: -5px;" enable-background="new 0 0 512 512" height="25" viewBox="0 0 512 512" width="25" xmlns="http://www.w3.org/2000/svg">
+                <g id="Chain">
+                    <path d="m352 160h-64c-11.199 0-22.08 1.92-32 5.76-37.439 12.801-64 48.32-64 90.24v160c0 53.119 42.881 96 96 96h64c53.119 0 96-42.881 96-96v-160c0-53.119-42.881-96-96-96zm32 256c0 17.6-14.4 32-32 32h-64c-17.6 0-32-14.4-32-32v-160c0-17.6 14.4-32 32-32h64c17.6 0 32 14.4 32 32z" fill="#ff4db3"></path>
+                    <path d="m256 256v90.24c37.439-12.801 64-48.32 64-90.24v-32h-32c-17.6 0-32 14.4-32 32zm-32-256h-64c-53.119 0-96 42.881-96 96v160c0 53.119 42.881 96 96 96h32v-64h-32c-17.6 0-32-14.4-32-32v-160c0-17.6 14.4-32 32-32h64c17.6 0 32 14.4 32 32v69.76c9.92-3.84 20.801-5.76 32-5.76h32v-64c0-53.119-42.881-96-96-96z" fill="#ff8de4"></path>
+                    <g fill="#ff0068">
+                        <path d="m256 256v90.24c-9.92 3.84-20.801 5.76-32 5.76h-32v-64h32c17.6 0 32-14.4 32-32z"></path>
+                        <path d="m320 160v64h-32c-17.6 0-32 14.4-32 32v-90.24c9.92-3.84 20.801-5.76 32-5.76z"></path>
+                    </g>
+                </g>
+            </svg>
+        <h4 class="text-lg font-semibold text-purple-600">LivewireDemos</h4>
+      </div>
+    </div>
+    <div class="pt-1 pr-3 text-sm text-purple-500">Reusable Livewire Coponents, Rich design and well documented.</div>
+    <div class="mt-5 text-base font-semibold text-purple-800 hover:translate-x-1">GET NOW →</div>
+  </div>
+</div>
 </a> --}}
