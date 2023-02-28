@@ -56,4 +56,28 @@
         </span>
         <span class="text-white">Get Now</span>
     </a>
-</div> --}}
+</div>
+<a href="https://gumroad.com/a/950437075/DNWEy" target="_blank">
+<div class="m-5 h-96 w-52 cursor-pointer rounded bg-indigo-50">
+  <div class="pt-3 ml-5">
+    <img src="https://cdn.tailkit.com/media/screenshots/ecommerce/sections/product-lists/products-grid.jpg" alt="Tailkit" class="hover:scale-110 rounded" />
+  </div>
+  <div class="ml-5">
+    <div class="mt-5">
+      <div class="flex space-x-2">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" class="inline-block h-6 w-6 transition duration-150 ease-out group-hover:-rotate-12 group-active:rotate-0">
+          <circle cx="128" cy="128" r="120" fill-opacity="0" stroke="#13cdc6" stroke-linejoin="round" stroke-width="16" fill="#293340"></circle>
+          <circle cx="128" cy="128" r="96" fill="#293340"></circle>
+          <path d="M130.424 165.032a20 20 0 01-14.142 24.495l-8.842 2.373a20 20 0 01-24.495-14.142l-2.369-8.842a20 20 0 0114.142-24.5l8.842-2.369a20 20 0 0124.5 14.142z" fill="#818cf8" fill-rule="evenodd"></path>
+          <path d="M191.9 148.561a20 20 0 01-14.143 24.5l-8.842 2.369a20 20 0 01-24.494-14.142l-2.37-8.842a20 20 0 0114.142-24.5l8.842-2.369a20 20 0 0124.5 14.142z" fill="#f472b6" fill-rule="evenodd"></path>
+          <path d="M113.953 103.561a20 20 0 01-14.142 24.5l-8.842 2.369a20 20 0 01-24.495-14.142l-2.369-8.842a20 20 0 0114.142-24.5l8.842-2.369a20 20 0 0124.495 14.142z" fill="#34d399" fill-rule="evenodd"></path>
+          <path d="M175.424 87.09a20 20 0 01-14.142 24.495l-8.842 2.369a20 20 0 01-24.5-14.142l-2.369-8.842a20 20 0 0114.142-24.495l8.842-2.369a20 20 0 0124.5 14.142z" fill="#fbbf24" fill-rule="evenodd"></path>
+        </svg>
+        <h4 class="text-lg font-semibold text-indigo-600">TailKit</h4>
+      </div>
+    </div>
+    <div class="pt-1 pr-3 text-sm text-indigo-500">Responsive UI Components, Templates and Tools for your Tailwind CSS projects.</div>
+    <div class="mt-5 text-base font-semibold text-indigo-800 hover:translate-x-1">GET NOW →</div>
+  </div>
+</div>
+</a> --}}
