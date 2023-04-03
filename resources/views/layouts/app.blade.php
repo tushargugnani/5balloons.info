@@ -47,6 +47,10 @@
             border: 1px solid !important;
             border-radius: 0.25rem !important;
         }
+
+        .aligncenter{
+            margin: 0px auto;
+        }
     </style>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
