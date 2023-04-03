@@ -52,11 +52,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Roboto+Slab:wght@400;500;600&display=swap"
         rel="stylesheet">
-        <script src="{{ asset('vendor/smart-ads/js/smart-banner.js') }}"></script>
+    <script src="{{ asset('vendor/smart-ads/js/smart-banner.min.js') }}"></script>
 
 <!-- Fathom - beautiful, simple website analytics -->
 <script src="https://cdn.usefathom.com/script.js" data-site="YJAMKRFF" defer></script>
 <!-- / Fathom -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8077071189647178"
+     crossorigin="anonymous"></script>
 </head>
 
 <body class="bg-amber-50 h-full">
@@ -67,6 +69,7 @@
         <div class="my-3">
             @yield('content')
         </div>
+        <x-smart-ad-component slug="Fathom"/>
     </div>
 
     @include('partials.footer')
