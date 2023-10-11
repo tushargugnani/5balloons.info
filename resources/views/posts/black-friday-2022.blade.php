@@ -38,6 +38,10 @@
             
         <div class="w-full mx-auto prose md:w-3/4 lg:w-3/4 black-friday">
             <div>
+               <h3> Update</h3>
+                <p>This year i.e. 2023 I have built a dedicated website to curate the list of <a target="_blank" href="https://blackfridaydeals.dev">Best Black Friday List for Developers and Designers 2023</a>, You can see the list on <a target="_blank" href="https://blackfridaydeals.dev">BlackFridayDeals.dev</a></p>
+            </div>
+            <div>
                 <p>It's that time of the year again. Where you get a one time chance to get huge discounts on the courses, products and subscriptions which you always wanted to buy but kept putting off looking at the price.</p>
                 <p>I have complied a list of the hot <strong>Black Friday</strong> and <strong>Cyber Monday</strong> deals on the products and courses across Laravel stack which includes Tailwind CSS, VueJS, AlpineJS, Livewire and more web related products.</p>
 
