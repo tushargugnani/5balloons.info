@@ -3,7 +3,7 @@
 @section('headtags')
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="article" />
-    <meta property="og:title" content="2022 Best Black Friday Holiday Deals for Developers" />
+    <meta property="og:title" content="2023 Best Black Friday Holiday Deals for Developers" />
     <meta property="og:url" content="{{ route('posts.show', 'black-friday-2022') }}" />
     <meta property="og:site_name" content="5Balloons — Programming and Tech Articles" />
     <meta property="og:description" content="Checkout the most comprehensive list of black friday deals for developers, includes huge discount on courses, hosting, themes, tools, e-books and much more" />
@@ -32,14 +32,14 @@
                     alt="Black Friday 2022 Deals for Programmers and Desingers" />
 
             <h1 class="mb-3 text-3xl font-bold leading-tight text-gray-900 md:text-4xl" itemprop="headline">
-                2022 Hottest Black Friday deals for Developers
+                2023 Hottest Black Friday deals for Developers
             </h1>
         </div>
             
         <div class="w-full mx-auto prose md:w-3/4 lg:w-3/4 black-friday">
             <div>
                <h3> Update</h3>
-                <p>This year i.e. 2023 I have built a dedicated website to curate the list of <a target="_blank" href="https://blackfridaydeals.dev">Best Black Friday List for Developers and Designers 2023</a>, You can see the list on <a target="_blank" href="https://blackfridaydeals.dev">BlackFridayDeals.dev</a></p>
+                <p>This year i.e. <strong>2023</strong> I have built a dedicated website to curate the list of <a target="_blank" href="https://blackfridaydeals.dev">Best Black Friday List for Developers and Designers 2023</a>, You can see the list on <a target="_blank" href="https://blackfridaydeals.dev">BlackFridayDeals.dev</a></p>
             </div>
             <div>
                 <p>It's that time of the year again. Where you get a one time chance to get huge discounts on the courses, products and subscriptions which you always wanted to buy but kept putting off looking at the price.</p>
