@@ -208,7 +208,7 @@
                             <tbody class="divide-y divide-gray-200 bg-white">
                             <tr>
                                 <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                    <a href="https://laracasts.com/" target="_blank" rel="noopener">Laracasts</a> by <a href="https://twitter.com/jeffrey_way" target="_blank">Jeffery Way</a>
+                                    <a href="https://laracasts.com/referral/5balloons" target="_blank" rel="noopener">Laracasts</a> by <a href="https://twitter.com/jeffrey_way" target="_blank">Jeffery Way</a>
                                 </td>
                                 <td class="px-3 py-4 text-base text-gray-500">Screencasts for the modern developer.</td>
                                 <td class="px-3 py-4 text-base text-gray-500">All individual subscriptions are <span class="offer">45% OFF</span> --- including the lifetime plan. 🔥🔥🔥</td>
@@ -445,7 +445,7 @@
                                 <tbody class="divide-y divide-gray-200 bg-white">
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://a.paddle.com/v2/click/103161/142447?link=3530" target="_blank" rel="noopener">Tinkerwell</a> by BeyondCode
+                                            <a href="tinkerwell.app/?ref=5balloons" target="_blank" rel="noopener">Tinkerwell</a> by BeyondCode
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Quickly iterate on PHP code within the context of your web application. Use Tinkerwell locally, via SSH, Docker and even on Laravel Vapor.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Lifetime license at <span class="offer">$199</span> 🔥🔥🔥</td>
@@ -453,7 +453,7 @@
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://a.paddle.com/v2/click/103161/142447?link=3530" target="_blank" rel="noopener">Invoker</a> by BeyondCode
+                                            <a href="https://invoker.dev/?ref=5balloons" target="_blank" rel="noopener">Invoker</a> by BeyondCode
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Replace your database management tool, test emails, trigger jobs and run commands from a convenient interface.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Lifetime license at <span class="offer">$199</span>, Yearly at <span class="offer">$49</span> <del>$69</del></td>
@@ -501,7 +501,7 @@
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://a.paddle.com/v2/click/103161/142447?link=3530" target="_blank" rel="noopener">HELO</a>
+                                            <a href="https://usehelo.com/?ref=5balloons" target="_blank" rel="noopener">HELO</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">The beautiful way to test and debug your emails.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">70% OFF</td>
@@ -669,7 +669,7 @@
                                 <tbody class="divide-y divide-gray-200 bg-white">
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://a.paddle.com/v2/click/103161/142447?link=3094" target="_blank" rel="noopener">Windy</a> by <a href="https://beyondco.de/" target="_blank">Beyond Code</a>
+                                            <a href="https://usewindy.com/?ref=5balloons" target="_blank" rel="noopener">Windy</a> by <a href="https://beyondco.de/?ref=5balloons" target="_blank">Beyond Code</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Copy elements from any website as a Tailwind CSS component</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Now at <span class="offer">$59</span> <del>$89</del></td>
@@ -677,7 +677,7 @@
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://a.paddle.com/v2/click/103161/142447?link=3180" target="_blank" rel="noopener">Tint</a> by <a href="https://beyondco.de/" target="_blank">Beyond Code</a>
+                                            <a href="https://a.paddle.com/v2/click/103161/142447?link=3180" target="_blank" rel="noopener">Tint</a> by <a href="https://beyondco.de/?ref=5balloons" target="_blank">Beyond Code</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">The color picker for Tailwind CSS developers.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">TBA</td>
@@ -685,7 +685,7 @@
                                     </tr>
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://a.paddle.com/v2/click/103161/142447?link=3530" target="_blank" rel="noopener">DevTools for Tailwind</a> by <a href="https://beyondco.de/" target="_blank">Beyond Code</a>
+                                            <a href="https://a.paddle.com/v2/click/103161/142447?link=3530" target="_blank" rel="noopener">DevTools for Tailwind</a> by <a href="https://beyondco.de/?ref=5balloons" target="_blank">Beyond Code</a>
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">The DevTools Tailwind deserves.</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Buy now for <span>$29</span> instead of <span class="offer">$49</span></td>
@@ -2005,7 +2005,7 @@
                                 <tbody class="divide-y divide-gray-200 bg-white">
                                     <tr>
                                         <td class="py-4 pl-4 pr-3 text-base font-medium text-gray-900 sm:pl-6">
-                                            <a href="https://a.paddle.com/v2/click/103161/142447?link=3788" target="_blank" rel="noopener">WhattheDiff</a> by BeyondCode
+                                            <a href="whatthediff.ai/?ref=5balloons" target="_blank" rel="noopener">WhattheDiff</a> by BeyondCode
                                         </td>
                                         <td class="px-3 py-4 text-base text-gray-500">Your AI-powered code review assistant</td>
                                         <td class="px-3 py-4 text-base text-gray-500">Get <span class="offer">70% OFF</span> for your first month</td>
