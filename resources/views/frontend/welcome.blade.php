@@ -29,7 +29,7 @@
         </a>
     </div>
 
-    <div class="flex justify-center underline text-orange-600 my-5">
+    <div class="flex justify-center underline text-orange-600 my-5 text-lg">
         <a href="https://thehome.dev" rel=”dofollow”>Curated List of Resources for Developers and Designers</a>
     </div>
 
