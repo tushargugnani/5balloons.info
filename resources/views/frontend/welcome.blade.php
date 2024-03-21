@@ -29,4 +29,8 @@
         </a>
     </div>
 
+    <div>
+        <a href="https://thehome.dev" rel=”dofollow”>Curated List of Resources for Developers and Designers</a>
+    </div>
+
 @endsection
